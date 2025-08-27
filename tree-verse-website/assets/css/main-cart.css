@@ -1,0 +1,155 @@
+/* Main container */
+.main-box {
+    width: 100%;
+    padding: 150px 20px 50px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Grid wrapper */
+.sub-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    padding: 30px;
+    border-radius: 15px;
+    background: linear-gradient(to bottom right, #f5fff8, #e6f7ed);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+}
+
+/* Card styling */
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+    height: 400px;
+    width: 300px;
+    padding: 20px;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    position: relative;
+    overflow: hidden;
+}
+.card:hover {
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: 0 10px 25px rgba(0,128,0,0.2);
+}
+
+/* Animated circular image */
+.Img1 {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    border-radius: 50%;
+    background: #ffffff;
+    border: 3px solid #4caf50;
+    padding: 15px;
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
+.card:hover .Img1 {
+    transform: rotate(-5deg) scale(1.1);
+    box-shadow: 0 8px 20px rgba(0,128,0,0.2);
+}
+
+/* Title */
+.card h1 {
+    font-size: 1.3rem;
+    margin: 15px 0;
+    color: #2c5c41;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+/* Button */
+.btn {
+    margin-top: 15px;
+    padding: 12px 30px;
+    border-radius: 50px;
+    border: none;
+    font-size: 1rem;
+    font-weight: 600;
+    background: linear-gradient(to right, #4caf50, #388e3c);
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.btn:hover {
+    background: linear-gradient(to right, #43a047, #2e7d32);
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(0,128,0,0.3);
+}
+
+/* ✨ Scroll Animation (CSS only) */
+@keyframes fadeUp {
+  0% { opacity: 0; transform: translateY(60px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.card {
+    opacity: 0;
+    animation: fadeUp 1s ease-out forwards;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    .card {
+        width: 45%;
+        height: auto;
+        padding: 20px 15px;
+    }
+    .Img1 {
+        width: 150px;
+        height: 150px;
+    }
+}
+@media (max-width: 600px) {
+    .sub-box {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .card {
+        width: 90%;
+        height: auto;
+    }
+    .Img1 {
+        width: 130px;
+        height: 130px;
+    }
+    .card h1 {
+        font-size: 1.1rem;
+    }
+    .btn {
+        width: 80%;
+    }
+}
+
+
+
+@media (max-width: 780px) {
+    .main-box{
+        padding-top:230px;
+    }
+    .sub-box{
+        height: auto;
+        width: auto;
+    }
+    .card {
+        font-size: 0.6rem;
+        height: 250px;
+        width: 200px;
+    }
+    .Img1{
+        height: 80px;
+        width: 80px;
+    }
+    h1{
+        font-size: 1rem;
+    }
+
+}

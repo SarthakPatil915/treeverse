@@ -1,0 +1,562 @@
+[
+  {
+    "id": 0,
+    "common_name": "Giloy",
+    "scientific_name": "Tinospora cordifolia",
+    "family": "Menispermaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "India and tropical Asia",
+    "height": "Climber up to 10 meters",
+    "trunk": "Slender, twining green stems with aerial roots",
+    "leaves": "Heart-shaped, green, broad leaves",
+    "fruit": "Small, red, drupe-like fruits",
+    "parts_uses": {
+      "Stem": "Boosts immunity, anti-fever, anti-inflammatory",
+      "Leaves": "Used for liver disorders, diabetes management",
+      "Roots": "Used in Ayurveda as a rejuvenator"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained sandy loam soil",
+      "sunlight": "Partial to full sunlight"
+    },
+    "major_countries": ["India", "Nepal", "Sri Lanka", "Myanmar"],
+    "importance": {
+      "nutrition": "Contains alkaloids, glycosides, steroids",
+      "economic": "Widely used in Ayurvedic formulations",
+      "cultural": "Considered sacred in Indian traditional medicine"
+    },
+    "fun_facts": [
+      "Also called ‘Amrita’ meaning nectar of immortality",
+      "Key herb in Ayurveda for treating fevers and immunity"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tinospora_cordifolia.jpg/960px-Tinospora_cordifolia.jpg"
+  },
+  {
+    "id": 1,
+    "common_name": "Black Pepper",
+    "scientific_name": "Piper nigrum",
+    "family": "Piperaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "Western Ghats of India",
+    "height": "Climbing vine up to 4–5 meters",
+    "trunk": "Woody climber with aerial roots",
+    "leaves": "Broad, ovate, shiny green leaves",
+    "fruit": "Small green berries that turn black when dried",
+    "parts_uses": {
+      "Fruit": "Used as spice, improves digestion, relieves cold",
+      "Leaves": "Medicinal teas for cough",
+      "Roots": "Stimulant in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Hot, humid tropical",
+      "temperature": "20–34°C",
+      "rainfall": "2000–3000 mm",
+      "soil": "Well-drained laterite or loamy soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "Vietnam", "Indonesia", "Brazil"],
+    "importance": {
+      "nutrition": "Rich in piperine, vitamins, and antioxidants",
+      "economic": "Known as ‘King of Spices’, major export crop",
+      "cultural": "Used in Ayurveda and Siddha medicine"
+    },
+    "fun_facts": [
+      "Once used as currency in ancient times",
+      "One of the earliest traded spices globally"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRPlFG6Mrt1D2y3CXEA05GLHzftki7kxpWIw&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Betel Leaf",
+    "scientific_name": "Piper betle",
+    "family": "Piperaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "South and Southeast Asia",
+    "height": "Creeping vine up to 5 meters",
+    "trunk": "Slender climber with aerial roots",
+    "leaves": "Shiny, heart-shaped aromatic leaves",
+    "fruit": "Rarely fruits, small berries",
+    "parts_uses": {
+      "Leaves": "Used as mouth freshener, digestive aid, antiseptic",
+      "Stems": "Medicinal extracts in Ayurveda",
+      "Roots": "Occasionally used in herbal tonics"
+    },
+    "growing_conditions": {
+      "climate": "Warm, humid tropical",
+      "temperature": "20–30°C",
+      "rainfall": "1500–2500 mm",
+      "soil": "Moist, fertile loamy soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "Bangladesh", "Myanmar", "Thailand"],
+    "importance": {
+      "nutrition": "Contains essential oils, tannins, and antioxidants",
+      "economic": "Widely grown for cultural and medicinal uses",
+      "cultural": "Integral part of Indian traditions and rituals"
+    },
+    "fun_facts": [
+      "Chewing betel leaf with areca nut is an ancient practice",
+      "Considered sacred in Hindu ceremonies"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwOIBEa0fWlTirK0dhChLKqseF82BU11BIw&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Passion Flower",
+    "scientific_name": "Passiflora incarnata",
+    "family": "Passifloraceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "South America",
+    "height": "Climbing vine up to 10 meters",
+    "trunk": "Woody climber with tendrils",
+    "leaves": "Lobed, green leaves",
+    "fruit": "Small, round, yellow-orange edible fruit",
+    "parts_uses": {
+      "Leaves": "Used as sedative and stress reliever",
+      "Flowers": "Medicinal tea for anxiety",
+      "Fruit": "Edible, rich in nutrients"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Brazil", "India", "USA", "Peru"],
+    "importance": {
+      "nutrition": "Fruit rich in vitamin C and fiber",
+      "economic": "Medicinal and food uses",
+      "cultural": "Flowers symbolically linked to Christianity"
+    },
+    "fun_facts": [
+      "Named Passion Flower due to resemblance to crucifixion",
+      "Traditionally used as a calming herb"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXLaTl_Fqd6-eLsnIskzzKjATVl5r8B5KxA&s"
+  },
+   {
+    "id": 4,
+    "common_name": "Shankhpushpi",
+    "scientific_name": "Convolvulus pluricaulis",
+    "family": "Convolvulaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "India",
+    "height": "Low-growing creeper up to 1 meter",
+    "trunk": "Delicate slender branches creeping on ground",
+    "leaves": "Small, linear green leaves",
+    "fruit": "Small round capsule containing seeds",
+    "parts_uses": {
+      "Whole plant": "Used as brain tonic, memory enhancer, stress reliever",
+      "Leaves": "Used in Ayurveda for insomnia and anxiety",
+      "Roots": "Used in traditional herbal medicines"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "500–1200 mm",
+      "soil": "Sandy loam, dry soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Bangladesh"],
+    "importance": {
+      "nutrition": "Contains alkaloids, flavonoids, glycosides",
+      "economic": "Widely used in Ayurvedic formulations",
+      "cultural": "Considered a sacred herb for brain health"
+    },
+    "fun_facts": [
+      "Name means ‘flower shaped like a conch’",
+      "Commonly used in Ayurvedic brain tonics"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYUZiHn9r2vnu2394nylRuU0MRn5GtPwKumA&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Blue Pea Vine",
+    "scientific_name": "Clitoria ternatea",
+    "family": "Fabaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "Southeast Asia",
+    "height": "Climbing vine up to 3 meters",
+    "trunk": "Slender twining stems",
+    "leaves": "Compound green leaves",
+    "fruit": "Flat legume pods with seeds",
+    "parts_uses": {
+      "Flowers": "Used in herbal teas for memory and stress relief",
+      "Roots": "Used in Ayurveda for bronchitis and fever",
+      "Leaves": "Anti-inflammatory, skin treatments"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Thailand", "Malaysia", "Indonesia"],
+    "importance": {
+      "nutrition": "Contains antioxidants, anthocyanins",
+      "economic": "Used in herbal teas, natural food coloring",
+      "cultural": "Flowers used in Thai cuisine and Hindu rituals"
+    },
+    "fun_facts": [
+      "Also called ‘Butterfly Pea Flower’",
+      "Tea changes color from blue to purple with lemon juice"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPrE3Lddmso54hOUtN_w3xSEXYOUagB4YYA&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Gotu Kola",
+    "scientific_name": "Centella asiatica",
+    "family": "Apiaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "Asia",
+    "height": "Low creeping plant, spreads on ground",
+    "trunk": "Slender runners rooting at nodes",
+    "leaves": "Round, green, kidney-shaped leaves",
+    "fruit": "Small, oval, dry fruits",
+    "parts_uses": {
+      "Leaves": "Used in Ayurveda for memory, skin health, wound healing",
+      "Roots": "Used in traditional Chinese medicine",
+      "Whole plant": "Used as rejuvenating tonic"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Moist, fertile soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "China", "Sri Lanka", "Indonesia"],
+    "importance": {
+      "nutrition": "Rich in saponins, vitamins, and minerals",
+      "economic": "Exported as medicinal herb and tea",
+      "cultural": "Important herb in Ayurveda, TCM, and Sri Lankan medicine"
+    },
+    "fun_facts": [
+      "Known as ‘Mandukaparni’ in Ayurveda",
+      "Used by yogis for meditation focus"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9fRaErzFIh6-oJYRBwzWveW8nubZrn0giSA&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Indian Sarsaparilla",
+    "scientific_name": "Hemidesmus indicus",
+    "family": "Apocynaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "Indian subcontinent",
+    "height": "Creeping vine spreading on ground",
+    "trunk": "Slender woody stems",
+    "leaves": "Elliptical, green leaves",
+    "fruit": "Long, narrow pods with seeds",
+    "parts_uses": {
+      "Roots": "Blood purifier, cooling tonic",
+      "Leaves": "Used in skin diseases",
+      "Stems": "Used in herbal tonics"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–34°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Sandy or loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Sri Lanka", "Nepal"],
+    "importance": {
+      "nutrition": "Contains saponins and alkaloids",
+      "economic": "Widely used in Ayurvedic syrups",
+      "cultural": "Used as cooling summer drink in India"
+    },
+    "fun_facts": [
+      "Known as ‘Anantamul’ in Ayurveda",
+      "Root extract is used in refreshing summer drinks"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlwenBy89OskBw09JY-47dMpxLV6vNxuc0Kw&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Wild Asparagus",
+    "scientific_name": "Asparagus racemosus",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "India and Himalayas",
+    "height": "Climbing, woody creeper up to 2 meters",
+    "trunk": "Woody stems with needle-like leaves",
+    "leaves": "Small, needle-shaped leaves",
+    "fruit": "Small red berries",
+    "parts_uses": {
+      "Roots": "Used in Ayurveda for women’s health, lactation, vitality",
+      "Leaves": "Mild medicinal uses",
+      "Fruits": "Used in tonics"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "800–1200 mm",
+      "soil": "Sandy loam soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "Nepal", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Contains saponins, flavonoids",
+      "economic": "High demand in herbal medicine",
+      "cultural": "Known as ‘Shatavari’, a revered Ayurvedic herb"
+    },
+    "fun_facts": [
+      "Shatavari means ‘she who has a hundred husbands’",
+      "Used as a female reproductive tonic in Ayurveda"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDRLbKDW7pe0S04777nNlqynDGlB9jjooBRQ&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Sweet Flag Creeper",
+    "scientific_name": "Acorus calamus",
+    "family": "Acoraceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "India, Europe, Asia",
+    "height": "Creeping rhizome plant up to 1 meter",
+    "trunk": "Creeping rhizomes underground",
+    "leaves": "Long sword-shaped aromatic leaves",
+    "fruit": "Rarely produces fruits, small berries",
+    "parts_uses": {
+      "Rhizomes": "Used in Ayurveda for digestion, epilepsy, and memory",
+      "Leaves": "Aromatic, used in insect repellents",
+      "Whole plant": "Medicinal in Unani and Chinese medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, temperate",
+      "temperature": "15–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Marshy, waterlogged soils",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "China", "Nepal", "Bangladesh"],
+    "importance": {
+      "nutrition": "Contains essential oils and asarones",
+      "economic": "Used in perfumes, medicines, and insecticides",
+      "cultural": "Traditional medicine for centuries"
+    },
+    "fun_facts": [
+      "Also called ‘Vacha’ in Ayurveda",
+      "Believed to enhance memory power in children"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5LmQq-XiBFOnmb4yGEuvDzxORY3FHFk1y4Q&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Aloe Creeper",
+    "scientific_name": "Aloe vera",
+    "family": "Asphodelaceae",
+    "lifespan": "Perennial succulent creeper",
+    "native_to": "Arabian Peninsula, Africa",
+    "height": "Spreading succulent up to 60 cm",
+    "trunk": "No trunk, fleshy stemless base",
+    "leaves": "Thick, fleshy, spiny green leaves",
+    "fruit": "Capsules with seeds (rarely seen)",
+    "parts_uses": {
+      "Leaves": "Gel used for burns, skin care, digestion",
+      "Sap": "Cooling and healing properties",
+      "Whole plant": "Medicinal and cosmetic industries"
+    },
+    "growing_conditions": {
+      "climate": "Arid, semi-arid",
+      "temperature": "20–40°C",
+      "rainfall": "300–800 mm",
+      "soil": "Sandy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Egypt", "Mexico", "China"],
+    "importance": {
+      "nutrition": "Rich in vitamins, minerals, enzymes",
+      "economic": "Cosmetics, pharmaceuticals, beverages",
+      "cultural": "Known as the ‘plant of immortality’ in Egypt"
+    },
+    "fun_facts": [
+      "Aloe vera gel is 99% water",
+      "NASA studied it for air purification in space"
+    ],
+    "image_url": "https://exoticflora.in/cdn/shop/products/aloeveranbs_1024x1024.jpg?v=1606788903"
+  },
+  {
+    "id": 11,
+    "common_name": "Indian Birthwort",
+    "scientific_name": "Aristolochia indica",
+    "family": "Aristolochiaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "India, Sri Lanka",
+    "height": "Climbing creeper up to 5 meters",
+    "trunk": "Slender twining stems",
+    "leaves": "Broad, heart-shaped leaves",
+    "fruit": "Capsule with many seeds",
+    "parts_uses": {
+      "Roots": "Used in Ayurveda for snake bites and fevers",
+      "Leaves": "Antimicrobial, wound healing",
+      "Whole plant": "Traditional medicine for childbirth"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–35°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Loamy soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "Sri Lanka", "Nepal"],
+    "importance": {
+      "nutrition": "Contains aristolochic acids",
+      "economic": "Used in herbal medicine",
+      "cultural": "Linked with traditional fertility rituals"
+    },
+    "fun_facts": [
+      "Also called ‘Garudakkodi’ in Tamil Nadu",
+      "Flowers shaped like a bird’s beak"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP4nPee9imfI6uPePRUP3SenMxwThGMmUWzQ&s"
+  },
+  {
+    "id": 12,
+    "common_name": "Yam Creeper",
+    "scientific_name": "Dioscorea bulbifera",
+    "family": "Dioscoreaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "Tropical Asia and Africa",
+    "height": "Climbing creeper up to 10 meters",
+    "trunk": "Twining vine with bulbils",
+    "leaves": "Heart-shaped green leaves",
+    "fruit": "Capsules and aerial bulbils",
+    "parts_uses": {
+      "Roots": "Used in Ayurveda for piles and dysentery",
+      "Bulbils": "Edible after processing",
+      "Leaves": "Medicinal decoctions"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nigeria", "China"],
+    "importance": {
+      "nutrition": "Rich in starch, diosgenin",
+      "economic": "Source of steroidal compounds",
+      "cultural": "Traditional food in Africa and Asia"
+    },
+    "fun_facts": [
+      "Also called ‘Air Potato’",
+      "Wild tubers are toxic unless processed"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Oinfe-VwPfhLP0L8tpt-gLV5aSAx4jxQsw&s"
+  },
+  {
+    "id": 13,
+    "common_name": "Bryophyllum Creeper",
+    "scientific_name": "Bryophyllum pinnatum",
+    "family": "Crassulaceae",
+    "lifespan": "Perennial succulent creeper",
+    "native_to": "Madagascar, India",
+    "height": "Low spreading creeper up to 1 meter",
+    "trunk": "Succulent stems",
+    "leaves": "Fleshy leaves with buds on margins",
+    "fruit": "Small capsules",
+    "parts_uses": {
+      "Leaves": "Used for kidney stones, wounds, coughs",
+      "Juice": "Cooling and healing",
+      "Roots": "Mild medicinal properties"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–35°C",
+      "rainfall": "500–1200 mm",
+      "soil": "Sandy or loamy soils",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Madagascar", "Nigeria"],
+    "importance": {
+      "nutrition": "Contains flavonoids, glycosides",
+      "economic": "Used in herbal medicine",
+      "cultural": "Leaves used in folk remedies worldwide"
+    },
+    "fun_facts": [
+      "Also called ‘Miracle Leaf’",
+      "Can grow new plants from leaf edges"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2jzpJAmdKepi6ScERjKN9PjrrV4sThvbQlg&s"
+  },
+  {
+    "id": 14,
+    "common_name": "Adhatoda Creeper",
+    "scientific_name": "Justicia adhatoda",
+    "family": "Acanthaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "India, Sri Lanka",
+    "height": "Shrub-like creeper up to 2 meters",
+    "trunk": "Woody creeping stems",
+    "leaves": "Broad lance-shaped green leaves",
+    "fruit": "Capsules with seeds",
+    "parts_uses": {
+      "Leaves": "Used for cough, asthma, and bronchitis",
+      "Roots": "Expectorant and febrifuge",
+      "Flowers": "Used in decoctions"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–34°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Loamy soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "Nepal", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Contains alkaloid vasicine",
+      "economic": "Important Ayurvedic medicinal herb",
+      "cultural": "Sacred plant used in rituals"
+    },
+    "fun_facts": [
+      "Also called ‘Vasaka’",
+      "Famous for treating respiratory diseases"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmqKq4ST5EFOI5nmU4N-XvqhUgvc1mnMjczg&sg"
+  },
+  {
+    "id": 15,
+    "common_name": "Shankhapushpi Creeper",
+    "scientific_name": "Evolvulus alsinoides",
+    "family": "Convolvulaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "India",
+    "height": "Low spreading creeper up to 30 cm",
+    "trunk": "Slender delicate stems",
+    "leaves": "Small linear hairy leaves",
+    "fruit": "Tiny capsules",
+    "parts_uses": {
+      "Whole plant": "Used as brain tonic and nervine",
+      "Leaves": "Used for epilepsy and anxiety",
+      "Roots": "Medicinal decoctions"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–34°C",
+      "rainfall": "500–1200 mm",
+      "soil": "Sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal"],
+    "importance": {
+      "nutrition": "Contains alkaloids, flavonoids",
+      "economic": "Widely used in Ayurvedic brain tonics",
+      "cultural": "Linked to improving memory"
+    },
+    "fun_facts": [
+      "Flowers open only in the morning",
+      "Called ‘morning glory of Ayurveda’"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5XolKiyyGLAlOY63EjatFg-j_AZ1vsDbSg&s"
+  }
+]

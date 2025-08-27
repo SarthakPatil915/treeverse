@@ -1,0 +1,514 @@
+[
+  {
+    "id": 0,
+    "common_name": "Heartleaf Philodendron",
+    "scientific_name": "Philodendron hederaceum",
+    "family": "Araceae",
+    "lifespan": "Perennial",
+    "native_to": "Central America, South America",
+    "height": "Up to 6 meters (indoors), 15 meters (wild)",
+    "trunk": "Woody vine with aerial roots for climbing",
+    "leaves": "Heart-shaped, glossy green",
+    "fruit": "Small berry-like fruits (rare indoors)",
+    "parts_uses": {
+      "Leaves": "Air-purifying indoor plant",
+      "Stems": "Ornamental climber",
+      "Roots": "Aerial roots help climbing on walls/supports"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–28°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Well-drained, rich potting soil",
+      "sunlight": "Indirect light to partial shade"
+    },
+    "major_countries": ["Brazil", "Costa Rica", "India"],
+    "importance": {
+      "nutrition": "Not edible, toxic if ingested",
+      "economic": "Popular indoor ornamental plant",
+      "cultural": "Symbol of prosperity and indoor greenery"
+    },
+    "fun_facts": ["NASA listed it as an air-purifying plant", "Grows as both epiphyte and ground cover in the wild"],
+    "image_url": "https://www.thespruce.com/thmb/YEGERwuv5RfMiGGG9TSdl_EAVxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heartleaf-philodendron-guide-5181702-hero-d7f06d3be69a42e2b71441e6d0d0ed86.jpg"
+  },
+  {
+    "id": 1,
+    "common_name": "Philodendron Lemon Lime",
+    "scientific_name": "Philodendron hederaceum var. oxycardium 'Lemon Lime'",
+    "family": "Araceae",
+    "lifespan": "Perennial",
+    "native_to": "Hybrid cultivar, native to South America origin species",
+    "height": "2–4 meters (indoors with support)",
+    "trunk": "Woody vine with bright aerial roots",
+    "leaves": "Chartreuse to neon-green heart-shaped leaves",
+    "fruit": "Rarely produced indoors",
+    "parts_uses": {
+      "Leaves": "Decorative foliage",
+      "Stems": "Trained on moss poles indoors",
+      "Roots": "Helps it climb trellises or walls"
+    },
+    "growing_conditions": {
+      "climate": "Tropical indoor conditions",
+      "temperature": "18–30°C",
+      "rainfall": "High humidity preferred",
+      "soil": "Peat-based or cocopeat-rich soil",
+      "sunlight": "Bright indirect sunlight"
+    },
+    "major_countries": ["USA", "India", "Thailand"],
+    "importance": {
+      "nutrition": "Not edible, mildly toxic",
+      "economic": "Highly valued as a houseplant cultivar",
+      "cultural": "Used for decorative indoor vertical gardening"
+    },
+    "fun_facts": ["New leaves emerge bright yellow before turning lime-green", "Grows rapidly when trained on moss poles"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaswkMzFhfVH5fUkCHB-89LOc1Cd20FfwmEw&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Golden Pothos (Money Plant)",
+    "scientific_name": "Epipremnum aureum",
+    "family": "Araceae",
+    "lifespan": "Perennial",
+    "native_to": "Mo'orea (French Polynesia)",
+    "height": "Up to 20 meters in wild, 2–5 meters indoors",
+    "trunk": "Woody vine with adhesive aerial roots",
+    "leaves": "Heart-shaped green leaves with golden-yellow variegation",
+    "fruit": "Rarely flowers or fruits indoors",
+    "parts_uses": {
+      "Leaves": "Air purification and decorative",
+      "Stems": "Used in hanging baskets and wall climbers",
+      "Roots": "Clings strongly to surfaces"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "1500–2500 mm",
+      "soil": "Well-draining rich soil",
+      "sunlight": "Indirect light, tolerant of shade"
+    },
+    "major_countries": ["India", "USA", "Malaysia"],
+    "importance": {
+      "nutrition": "Not edible, toxic to pets",
+      "economic": "One of the most popular houseplants worldwide",
+      "cultural": "Believed to bring prosperity, called 'Money Plant'"
+    },
+    "fun_facts": ["Can grow indefinitely in water jars", "One of the easiest indoor plants to propagate"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabU-ZPwRFhrvnSKz52pNrDdQiZ901MFBDhw&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Climbing Fig",
+    "scientific_name": "Ficus pumila",
+    "family": "Moraceae",
+    "lifespan": "Perennial",
+    "native_to": "East Asia",
+    "height": "3–10 meters",
+    "trunk": "Woody vine with adhesive roots attaching to walls",
+    "leaves": "Small ovate juvenile leaves, larger leathery adult leaves",
+    "fruit": "Small green fig-like fruits",
+    "parts_uses": {
+      "Leaves": "Ornamental ground and wall cover",
+      "Stems": "Used in landscaping on walls and fences",
+      "Fruits": "Occasionally edible but not common"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical to tropical",
+      "temperature": "15–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Moist fertile soils",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["China", "Japan", "India"],
+    "importance": {
+      "nutrition": "Not widely consumed",
+      "economic": "Major ornamental wall creeper",
+      "cultural": "Popular for covering garden walls and pillars"
+    },
+    "fun_facts": ["Has two types of leaves (juvenile and adult)", "Can completely cover brick walls with greenery"],
+    "image_url": "https://m.media-amazon.com/images/I/71VfjOBXp-L._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "common_name": "English Ivy",
+    "scientific_name": "Hedera helix",
+    "family": "Araliaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe",
+    "height": "Up to 20 meters",
+    "trunk": "Woody stem with clinging rootlets",
+    "leaves": "Lobed dark green leaves with light veins",
+    "fruit": "Black berries (toxic to humans)",
+    "parts_uses": {
+      "Leaves": "Air purifier indoors",
+      "Stems": "Covers fences and walls",
+      "Fruits": "Wildlife food, though toxic to humans"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "10–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist but well-drained soils",
+      "sunlight": "Shade tolerant"
+    },
+    "major_countries": ["UK", "Germany", "USA"],
+    "importance": {
+      "nutrition": "Not edible, toxic berries",
+      "economic": "Popular ornamental creeper",
+      "cultural": "Symbol of fidelity in European culture"
+    },
+    "fun_facts": ["Can live for over 100 years", "Used in traditional herbal remedies"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggSiMDsKMGg-f2EBpGJtVo0EYERZq1qiVpw&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Monstera (Swiss Cheese Plant)",
+    "scientific_name": "Monstera deliciosa",
+    "family": "Araceae",
+    "lifespan": "Perennial",
+    "native_to": "Central America",
+    "height": "10–20 meters in wild",
+    "trunk": "Thick stems with strong aerial roots that cling to supports",
+    "leaves": "Large perforated glossy leaves",
+    "fruit": "Green, elongated fruit (edible when ripe)",
+    "parts_uses": {
+      "Leaves": "Decorative foliage indoors",
+      "Stems": "Trellis or moss-pole climber",
+      "Fruits": "Edible, tastes like pineapple-banana mix"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "1500–3000 mm",
+      "soil": "Rich, moist, well-drained soil",
+      "sunlight": "Bright indirect light"
+    },
+    "major_countries": ["Mexico", "India", "Thailand"],
+    "importance": {
+      "nutrition": "Fruit is edible but leaves are toxic",
+      "economic": "Valued ornamental houseplant",
+      "cultural": "Trend plant in interior design"
+    },
+    "fun_facts": ["Aerial roots act like natural anchors", "Unripe fruit is toxic but ripe fruit is delicious"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYf_CcOisLFVA8wtNaYiy4m-ViGaHHv1sGQ&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Creeping Charlie (Swedish Ivy)",
+    "scientific_name": "Plectranthus verticillatus",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southern Africa",
+    "height": "0.5–1 meter trailing, climbs with support",
+    "trunk": "Soft stems with small aerial roots",
+    "leaves": "Rounded scalloped leaves, green with purple underside",
+    "fruit": "Tiny nutlets, rarely noticed",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage indoors",
+      "Stems": "Used in hanging baskets",
+      "Roots": "Helps in creeping and climbing"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "18–28°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained potting mix",
+      "sunlight": "Indirect light, shade tolerant"
+    },
+    "major_countries": ["South Africa", "India", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Common decorative indoor trailing plant",
+      "cultural": "Popular in hanging pots for greenery"
+    },
+    "fun_facts": ["Easy to propagate from cuttings", "Nicknamed Swedish Ivy though not a true ivy"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5b-1HUkGvS-znscgQmSGiAFzZGdov6k32jw&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Grape Ivy",
+    "scientific_name": "Cissus rhombifolia",
+    "family": "Vitaceae",
+    "lifespan": "Perennial",
+    "native_to": "Central and South America",
+    "height": "Up to 3 meters indoors",
+    "trunk": "Woody stems with aerial roots for climbing",
+    "leaves": "Compound with three serrated leaflets",
+    "fruit": "Small grape-like berries (inedible)",
+    "parts_uses": {
+      "Leaves": "Indoor ornamental foliage",
+      "Stems": "Used as a climber on trellises",
+      "Roots": "Aerial roots help climbing"
+    },
+    "growing_conditions": {
+      "climate": "Tropical indoor",
+      "temperature": "18–27°C",
+      "rainfall": "High humidity preferred",
+      "soil": "Rich, well-drained soil",
+      "sunlight": "Indirect sunlight"
+    },
+    "major_countries": ["Brazil", "USA", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Indoor ornamental, easy to maintain",
+      "cultural": "Used in offices and homes for indoor greenery"
+    },
+    "fun_facts": ["Belongs to the grape family but not edible", "Very low-maintenance plant"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodh4ZUdURyATSq8NzK_78D0NysJMR96oWbQ&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Virginia Creeper",
+    "scientific_name": "Parthenocissus quinquefolia",
+    "family": "Vitaceae",
+    "lifespan": "Perennial",
+    "native_to": "Eastern North America",
+    "height": "Up to 20 meters",
+    "trunk": "Woody stems with adhesive pads and roots",
+    "leaves": "Compound with five leaflets, turns red in autumn",
+    "fruit": "Dark blue-black berries (toxic to humans)",
+    "parts_uses": {
+      "Leaves": "Foliage cover for walls and fences",
+      "Stems": "Used as natural shading",
+      "Fruits": "Food for birds"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Adaptable, prefers moist soils",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["USA", "Canada", "France"],
+    "importance": {
+      "nutrition": "Not edible for humans",
+      "economic": "Valued as a fast wall-covering creeper",
+      "cultural": "Used in landscapes for autumn red foliage"
+    },
+    "fun_facts": ["Can climb 50 feet up trees", "Often mistaken for poison ivy"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnOwH8C-8vFuNnEN5pOyCo9GBSFK_7ZpU4g&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Boston Ivy",
+    "scientific_name": "Parthenocissus tricuspidata",
+    "family": "Vitaceae",
+    "lifespan": "Perennial",
+    "native_to": "East Asia",
+    "height": "10–20 meters",
+    "trunk": "Woody stems with adhesive rootlets",
+    "leaves": "Three-lobed glossy leaves, red in autumn",
+    "fruit": "Dark blue berries (toxic)",
+    "parts_uses": {
+      "Leaves": "Wall covering, decorative autumn foliage",
+      "Stems": "Used for greening building walls",
+      "Fruits": "Wildlife food source"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–25°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Loamy, moist, well-drained",
+      "sunlight": "Full sun to shade"
+    },
+    "major_countries": ["Japan", "China", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Popular for green walls and reducing heat",
+      "cultural": "Iconic plant on Ivy League buildings"
+    },
+    "fun_facts": ["Turns fiery red in fall", "Seen covering Harvard and Yale walls"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwb98qrjKZhwcdfb95GUkiVrtEJaxacyH90g&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Pepper Vine",
+    "scientific_name": "Ampelopsis arborea",
+    "family": "Vitaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southeastern United States",
+    "height": "Up to 10 meters",
+    "trunk": "Slender vine with clinging roots",
+    "leaves": "Compound, serrated leaflets",
+    "fruit": "Small purple berries (not commonly eaten)",
+    "parts_uses": {
+      "Leaves": "Wild ornamental cover",
+      "Stems": "Grows on trees, fences, walls",
+      "Fruits": "Eaten by birds"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Moist fertile soils",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["USA", "Mexico"],
+    "importance": {
+      "nutrition": "Not commonly edible",
+      "economic": "Natural fence and shade cover",
+      "cultural": "Known as wild grape in southern USA"
+    },
+    "fun_facts": ["Closely related to grape family", "Fast-growing woodland climber"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIXjGH1P72A41qwjkfryaIPOoPuqz4_6NdFQ&s"
+  },
+  {
+    "id": 11,
+    "common_name": "Climbing Hydrangea",
+    "scientific_name": "Hydrangea petiolaris",
+    "family": "Hydrangeaceae",
+    "lifespan": "Perennial",
+    "native_to": "Japan, Korea",
+    "height": "Up to 15 meters",
+    "trunk": "Woody stems with aerial rootlets",
+    "leaves": "Ovate, serrated green leaves",
+    "fruit": "Capsules with small seeds",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Stems": "Covers walls and fences",
+      "Flowers": "Showy white clusters in summer"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "5–20°C",
+      "rainfall": "800–1800 mm",
+      "soil": "Rich, moist, well-drained",
+      "sunlight": "Partial to full shade"
+    },
+    "major_countries": ["Japan", "Korea", "UK"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Valuable ornamental flowering climber",
+      "cultural": "Used in shaded gardens and pergolas"
+    },
+    "fun_facts": ["Takes years to flower but then blooms spectacularly", "Can live for decades"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKmTHT2E8hQ9yWdfWmIPnVg6nyCyMS57HbAg&s"
+  },
+  {
+    "id": 12,
+    "common_name": "Climbing Yucca",
+    "scientific_name": "Yucca guatemalensis (as climber)",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial",
+    "native_to": "Central America",
+    "height": "3–6 meters",
+    "trunk": "Stiff woody stems with rootlets anchoring to supports",
+    "leaves": "Long sword-like green leaves",
+    "fruit": "Capsule with black seeds",
+    "parts_uses": {
+      "Leaves": "Ornamental indoors/outdoors",
+      "Stems": "Climbing in natural habitats",
+      "Roots": "Anchors to surfaces"
+    },
+    "growing_conditions": {
+      "climate": "Warm tropical",
+      "temperature": "20–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Dry sandy soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Guatemala", "Mexico", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Decorative xerophytic plant",
+      "cultural": "Symbol of resilience in dry gardens"
+    },
+    "fun_facts": ["A yucca that can climb when supported", "Tolerates dry conditions"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVTg-h1MRpqkDLsusSdcJBNGETz8qrQzncQ&s"
+  },
+  {
+    "id": 13,
+    "common_name": "Climbing Onion",
+    "scientific_name": "Bowiea volubilis",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial bulb",
+    "native_to": "Southern Africa",
+    "height": "2–3 meters",
+    "trunk": "Twining green stems with small rootlets",
+    "leaves": "Reduced to small scales",
+    "fruit": "Small capsules with seeds",
+    "parts_uses": {
+      "Bulb": "Medicinal (with caution, toxic if misused)",
+      "Stems": "Decorative climber in pots",
+      "Roots": "Helps climbing support"
+    },
+    "growing_conditions": {
+      "climate": "Semi-arid to subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "300–800 mm",
+      "soil": "Sandy well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["South Africa", "India"],
+    "importance": {
+      "nutrition": "Not edible, toxic",
+      "economic": "Medicinal and ornamental use",
+      "cultural": "Used in African traditional medicine"
+    },
+    "fun_facts": ["A bulb plant that produces climbing green stems", "Nicknamed 'Sea Onion' though not related to onion"],
+    "image_url": "https://static.wixstatic.com/media/c7c710_34e846f879e54d5b87021da5712bb491~mv2.jpg/v1/fill/w_560,h_632,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c7c710_34e846f879e54d5b87021da5712bb491~mv2.jpg"
+  },
+  {
+    "id": 14,
+    "common_name": "Climbing Asparagus Fern",
+    "scientific_name": "Asparagus scandens",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial",
+    "native_to": "South Africa",
+    "height": "2–3 meters",
+    "trunk": "Thin stems with small climbing roots",
+    "leaves": "Feathery cladodes (leaf-like structures)",
+    "fruit": "Orange-red berries",
+    "parts_uses": {
+      "Leaves": "Ornamental trailing foliage",
+      "Stems": "Used in hanging baskets and trellises",
+      "Fruits": "Decorative but mildly toxic"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "18–28°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist, fertile, well-drained",
+      "sunlight": "Indirect light"
+    },
+    "major_countries": ["South Africa", "Australia", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Common houseplant for greenery",
+      "cultural": "Used in hanging garden designs"
+    },
+    "fun_facts": ["Looks delicate but grows vigorously", "Spreads easily in gardens"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi04xt4cMOn5HTw8C1Ggh5fOzM1LrFkapiRQ&s"
+  },
+  {
+    "id": 15,
+    "common_name": "Climbing Philodendron Selloum",
+    "scientific_name": "Philodendron bipinnatifidum",
+    "family": "Araceae",
+    "lifespan": "Perennial",
+    "native_to": "South America",
+    "height": "Up to 5 meters",
+    "trunk": "Woody stems with aerial roots",
+    "leaves": "Deeply lobed large leaves",
+    "fruit": "Berry-like fruits (rare indoors)",
+    "parts_uses": {
+      "Leaves": "Decorative tropical foliage",
+      "Stems": "Used in large indoor spaces",
+      "Roots": "Helps climbing in natural habitats"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Rich, moist soil",
+      "sunlight": "Bright indirect light"
+    },
+    "major_countries": ["Brazil", "Argentina", "India"],
+    "importance": {
+      "nutrition": "Not edible, toxic if eaten",
+      "economic": "Valued ornamental climber",
+      "cultural": "Symbol of tropical elegance indoors"
+    },
+    "fun_facts": ["Leaves can grow over 1 meter long", "Used in interior landscaping"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWhQMtpOE5eVPoA1abEzLt-W8dtfmFwQW0A&s"
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "id": 0,
+    "common_name": "Bitter Leaf",
+    "scientific_name": "Vernonia amygdalina",
+    "family": "Asteraceae",
+    "lifespan": "Perennial",
+    "native_to": "Sub-Saharan Africa",
+    "height": "1.5–3 meters",
+    "trunk": "Woody shrub with rough bark",
+    "leaves": "Lanceolate, dark green leaves with a bitter taste",
+    "fruit": "Small, round capsule",
+    "parts_uses": {
+      "Leaves": "Used in traditional medicine for fever, diabetes, and malaria",
+      "Stem": "Used in decoctions for digestive disorders"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "25–30°C",
+      "rainfall": "1000–1500 mm",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Nigeria", "Ghana", "Cameroon"],
+    "importance": {
+      "nutrition": "Leaves used in cooking and traditional dishes",
+      "economic": "Cultivated for medicinal purposes",
+      "cultural": "Integral part of traditional medicine"
+    },
+    "fun_facts": ["Known for its extremely bitter taste", "Used in various traditional remedies"],
+    "image_url": "https://housing.com/news/wp-content/uploads/2023/01/shutterstock_2002893332-1200x700-compressed.jpg"
+  },
+  {
+    "id": 1,
+    "common_name": "Henna",
+    "scientific_name": "Lawsonia inermis",
+    "family": "Lythraceae",
+    "lifespan": "Perennial",
+    "native_to": "North Africa, Middle East, South Asia",
+    "height": "2–6 meters",
+    "trunk": "Multi-stemmed shrub",
+    "leaves": "Glossy, lance-shaped leaves",
+    "fruit": "Small, brown capsule",
+    "parts_uses": {
+      "Leaves": "Used for dyeing hair, skin, nails",
+      "Flowers": "Used in perfumes and cosmetics"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "30–40°C",
+      "rainfall": "Low to moderate",
+      "soil": "Well-drained, sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Pakistan", "Egypt"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Cultivated for dye production",
+      "cultural": "Used in cultural and religious ceremonies"
+    },
+    "fun_facts": ["Henna has been used for over 5,000 years", "Commonly applied during weddings and festivals"],
+    "image_url": "https://m.media-amazon.com/images/I/71sk+NRt2FL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "common_name": "Adhatoda",
+    "scientific_name": "Justicia adhatoda",
+    "family": "Acanthaceae",
+    "lifespan": "Perennial",
+    "native_to": "Indian subcontinent",
+    "height": "1.5–2 meters",
+    "trunk": "Woody, branched shrub",
+    "leaves": "Opposite, ovate leaves with a glossy surface",
+    "fruit": "Capsule containing seeds",
+    "parts_uses": {
+      "Leaves": "Used in traditional medicine for respiratory ailments",
+      "Roots": "Sometimes used in decoctions"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "25–35°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Nepal", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Used in traditional medicine",
+      "cultural": "Part of traditional healing practices"
+    },
+    "fun_facts": ["Also known as Malabar nut", "Leaves are extremely bitter, deterring animals from grazing"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCHIUJb2eUCAPeyKbuFGUmYpBxrJlBMiwSA&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Artemisia",
+    "scientific_name": "Artemisia annua",
+    "family": "Asteraceae",
+    "lifespan": "Annual",
+    "native_to": "China",
+    "height": "1–2 meters",
+    "trunk": "Herbaceous, branching stems",
+    "leaves": "Feathery, aromatic leaves",
+    "fruit": "Small, dry achene",
+    "parts_uses": {
+      "Leaves": "Used to produce artemisinin, an antimalarial compound",
+      "Flowers": "Used in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "20–30°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, slightly acidic",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "Vietnam", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Source of artemisinin for malaria treatment",
+      "cultural": "Used in traditional Chinese medicine"
+    },
+    "fun_facts": ["Artemisinin was developed from ancient Chinese herbal medicine", "Won a Nobel Prize in Medicine in 2015 for its discovery"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRL5eyzi-QPTeseZ07R7ifigRQwB8-FWW6w&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Senna",
+    "scientific_name": "Senna alexandrina",
+    "family": "Fabaceae",
+    "lifespan": "Perennial",
+    "native_to": "Tropical Africa and Asia",
+    "height": "1–2 meters",
+    "trunk": "Woody shrub with multiple stems",
+    "leaves": "Pinnate leaves with numerous leaflets",
+    "fruit": "Flat, brown pod containing seeds",
+    "parts_uses": {
+      "Leaves": "Used as a natural laxative",
+      "Pods": "Sometimes used in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "25–35°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, sandy",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Egypt", "Sudan"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Cultivated for medicinal purposes",
+      "cultural": "Used in traditional medicine"
+    },
+    "fun_facts": ["Contains compounds called sennosides that stimulate bowel movements", "Approved by the FDA as a laxative"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWCHc0xuIMnF9nnFSyESx4Ua9gZ4ARaYI-nQ&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Guava",
+    "scientific_name": "Psidium guajava",
+    "family": "Myrtaceae",
+    "lifespan": "Perennial",
+    "native_to": "Central America and northern South America",
+    "height": "3–10 meters",
+    "trunk": "Woody, gnarled trunk",
+    "leaves": "Opposite, ovate leaves with aromatic scent",
+    "fruit": "Round to pear-shaped, green to yellow fruit",
+    "parts_uses": {
+      "Leaves": "Used in traditional medicine for digestive issues",
+      "Fruit": "Consumed as food, rich in vitamin C"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Brazil", "Mexico"],
+    "importance": {
+      "nutrition": "High in vitamin C and dietary fiber",
+      "economic": "Cultivated for fruit production",
+      "cultural": "Used in traditional medicine and cuisine"
+    },
+    "fun_facts": ["Guava fruit contains more vitamin C than oranges", "Leaves are used in traditional remedies for diarrhea and infections"],
+    "image_url": "https://cdn.shopify.com/s/files/1/0555/8363/7660/files/Urban-plants-guava-fruit.jpg?v=1650512043"
+  },
+  {
+    "id": 6,
+    "common_name": "Rosemary",
+    "scientific_name": "Rosmarinus officinalis",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Mediterranean region",
+    "height": "1–2 meters",
+    "trunk": "Woody shrub with aromatic foliage",
+    "leaves": "Needle-like, dark green leaves with a strong fragrance",
+    "fruit": "Small, blue to purple flowers",
+    "parts_uses": {
+      "Leaves": "Used in cooking, aromatherapy, and traditional medicine",
+      "Flowers": "Used in herbal teas and as a garnish"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean",
+      "temperature": "15–25°C",
+      "rainfall": "Low to moderate",
+      "soil": "Well-drained, sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Italy", "Spain", "Greece"],
+    "importance": {
+      "nutrition": "Adds flavor to various dishes",
+      "economic": "Cultivated for culinary and medicinal purposes",
+      "cultural": "Used in Mediterranean cuisine and traditional remedies"
+    },
+    "fun_facts": ["Known to improve memory and digestion", "Often grown as an ornamental herb in gardens"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQTvWlR_WeUH_3vGedyr436h-bTj_Gzm-6lQ&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Holy Basil",
+    "scientific_name": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Indian subcontinent",
+    "height": "30–60 cm",
+    "trunk": "Small, bushy herbaceous stems",
+    "leaves": "Green, slightly hairy leaves with aromatic scent",
+    "fruit": "Tiny nutlets",
+    "parts_uses": {
+      "Leaves": "Used in traditional medicine for stress, immunity, and respiratory issues",
+      "Seeds": "Used in herbal drinks and remedies"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Used in herbal teas and tonics",
+      "economic": "Cultivated for medicinal and religious purposes",
+      "cultural": "Sacred in Hinduism, often used in rituals"
+    },
+    "fun_facts": ["Known as Tulsi in India", "Believed to purify the air and promote longevity"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvntjRZ6RaNYDaui3reYFi5myMj9xKISM3ow&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "family": "Meliaceae",
+    "lifespan": "Perennial",
+    "native_to": "Indian subcontinent",
+    "height": "15–20 meters",
+    "trunk": "Straight with rough, fissured bark",
+    "leaves": "Pinnate leaves with serrated edges",
+    "fruit": "Olive-like drupe",
+    "parts_uses": {
+      "Leaves": "Medicinal, pest repellent",
+      "Bark": "Used in traditional medicine",
+      "Seeds": "Neem oil production",
+      "Wood": "Furniture and tools"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "21–32°C",
+      "rainfall": "450–1200 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Pakistan", "Bangladesh"],
+    "importance": {
+      "nutrition": "Medicinal and herbal remedies",
+      "economic": "Neem oil, bio-pesticides",
+      "cultural": "Sacred in Indian traditions"
+    },
+    "fun_facts": ["Called 'Village Pharmacy'", "Leaves stay green most of the year but shed before new growth"],
+    "image_url": "https://m.media-amazon.com/images/I/71SPnqGx-JL._UF350,350_QL80_.jpg"
+  }
+]

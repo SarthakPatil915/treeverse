@@ -1,0 +1,1566 @@
+[
+  {
+    "id": 0,
+    "common_name": "Bismarck Palm",
+    "scientific_name": "Bismarckia nobilis",
+    "family": "Arecaceae",
+    "lifespan": "80–100 years",
+    "native_to": "Madagascar",
+    "height": "12–25 meters",
+    "trunk": "Solitary, stout grey trunk with ringed scars",
+    "leaves": "Large, stiff, blue-silver costapalmate leaves",
+    "fruit": "Small, round drupes in clusters",
+    "parts_uses": {
+      "Leaves": "Ornamental value, thatch in some regions",
+      "Trunk": "Landscape accent"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–38°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Well-drained sandy or loamy soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Madagascar",
+      "India",
+      "USA (Florida)",
+      "Australia"
+    ],
+    "importance": {
+      "nutrition": "Not used for food",
+      "economic": "High-value landscape specimen",
+      "cultural": "Iconic palm for public avenues"
+    },
+    "fun_facts": [
+      "Leaves can reach 3 m across",
+      "Highly drought-tolerant once established"
+    ],
+    "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAGpkr0EjM7T6pc_pIM2Cg8muajh0XjZaRGe2owDk3uTYvd3Jz4NTnsRFx3Y3lOTA2dXqpUBb4EgvCZbYgAuvxwQ"
+  },
+  {
+    "id": 1,
+    "common_name": "Euodia Tree",
+    "scientific_name": "Tetradium daniellii",
+    "family": "Rutaceae",
+    "lifespan": "50–80 years",
+    "native_to": "China, Korea",
+    "height": "7–15 meters",
+    "trunk": "Straight trunk with smooth grey bark",
+    "leaves": "Opposite, pinnate leaves with 5–11 leaflets",
+    "fruit": "Red to black capsules attractive to birds",
+    "parts_uses": {
+      "Flowers": "Excellent bee forage (bee-bee tree)",
+      "Wood": "Small utility uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, warm-temperate",
+      "temperature": "−10–32°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist, well-drained loam",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "China",
+      "Korea",
+      "USA",
+      "UK"
+    ],
+    "importance": {
+      "nutrition": "Nectar source for pollinators",
+      "economic": "Urban and park planting",
+      "cultural": "Valued as a pollinator tree"
+    },
+    "fun_facts": [
+      "Often called the bee-bee tree for its abundant nectar",
+      "Blooms in mid to late summer"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVt-bl7tQppmyaJR-LN0dCLsi3em6BpPaWw&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Areca Palm",
+    "scientific_name": "Dypsis lutescens",
+    "family": "Arecaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Madagascar",
+    "height": "6–12 meters",
+    "trunk": "Multiple slender canes with ringed nodes",
+    "leaves": "Arching fronds with many narrow leaflets",
+    "fruit": "Yellow to orange drupes",
+    "parts_uses": {
+      "Leaves": "Ornamental and indoor air-purifying plant",
+      "Stems": "Clumping screen in landscaping"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–35°C",
+      "rainfall": "900–2000 mm",
+      "soil": "Rich, well-drained soil",
+      "sunlight": "Bright light to full sun"
+    },
+    "major_countries": [
+      "Madagascar",
+      "India",
+      "Sri Lanka",
+      "USA (Florida)"
+    ],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Popular ornamental and indoor palm",
+      "cultural": "Common in tropical gardens"
+    },
+    "fun_facts": [
+      "Also called Butterfly Palm for its arching fronds",
+      "Prefers high humidity"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Beetle_palm_with_nut_bunch.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Livistona Australis",
+    "scientific_name": "Livistona australis",
+    "family": "Arecaceae",
+    "lifespan": "60–100 years",
+    "native_to": "Eastern Australia",
+    "height": "15–25 meters",
+    "trunk": "Tall, slender trunk with skirt of old leaf bases when young",
+    "leaves": "Fan-shaped (costapalmate) leaves",
+    "fruit": "Glossy black drupes",
+    "parts_uses": {
+      "Leaves": "Traditional thatching",
+      "Trunk": "Ornamental avenue planting"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, warm-temperate",
+      "temperature": "10–35°C",
+      "rainfall": "800–1800 mm",
+      "soil": "Moist, well-drained soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Australia",
+      "New Zealand",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "Not used for food",
+      "economic": "Street and park landscaping",
+      "cultural": "Known as Cabbage-tree Palm in Australia"
+    },
+    "fun_facts": [
+      "Tolerates coastal conditions",
+      "Produces large inflorescences"
+    ],
+    "image_url": "https://i.pinimg.com/736x/18/0d/d8/180dd8e11511b6845d20067b9420becd.jpg"
+  },
+  {
+    "id": 4,
+    "common_name": "Jacaranda Tree",
+    "scientific_name": "Jacaranda mimosifolia",
+    "family": "Bignoniaceae",
+    "lifespan": "50–75 years",
+    "native_to": "South America (Bolivia, Argentina)",
+    "height": "10–15 meters",
+    "trunk": "Grey-brown bark, branching canopy",
+    "leaves": "Bipinnate, fern-like leaves",
+    "fruit": "Rounded woody pods",
+    "parts_uses": {
+      "Flowers": "Ornamental displays and city avenues"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, warm-temperate",
+      "temperature": "10–32°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained loam or sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Argentina",
+      "Bolivia",
+      "India",
+      "South Africa",
+      "Australia"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Urban landscaping, tourism during bloom",
+      "cultural": "Iconic spring bloom in many cities"
+    },
+    "fun_facts": [
+      "Carpets streets with purple-blue flowers",
+      "Deciduous to semi-deciduous in dry season"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3PLydIXPaDz06zrlqkFyaII4GC3KbNJA1tQ&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Indian Laburnum",
+    "scientific_name": "Cassia fistula",
+    "family": "Fabaceae",
+    "lifespan": "40–50 years",
+    "native_to": "South Asia",
+    "height": "10–20 meters",
+    "trunk": "Medium-sized with smooth bark",
+    "leaves": "Compound leaves with oval leaflets",
+    "fruit": "Long cylindrical pods",
+    "parts_uses": {
+      "Flowers": "Ornamental, medicinal",
+      "Pods": "Traditional laxative (pulp)"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–35°C",
+      "rainfall": "500–1500 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "India",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "importance": {
+      "nutrition": "Medicinal uses",
+      "economic": "Garden and avenue planting",
+      "cultural": "State flower of Kerala; national tree of Thailand"
+    },
+    "fun_facts": [
+      "Also called Golden Shower Tree",
+      "Flowers appear before leaves in summer"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Indian_Laburnum_%28Cassia_Fistula-Fabaceae%29.JPG"
+  },
+  {
+    "id": 6,
+    "common_name": "Cherry Blossom (Japanese Cherry)",
+    "scientific_name": "Prunus serrulata",
+    "family": "Rosaceae",
+    "lifespan": "30–40 years",
+    "native_to": "Japan, China, Korea",
+    "height": "6–10 meters",
+    "trunk": "Smooth bark with horizontal lenticels",
+    "leaves": "Simple, serrated leaves turning red/orange in autumn",
+    "fruit": "Small cherries (ornamental cultivars fruit sparsely)",
+    "parts_uses": {
+      "Flowers": "Ornamental and cultural festivals (hanami)",
+      "Leaves": "Used salted in some Japanese confections"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "−10–25°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Moist, well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Japan",
+      "South Korea",
+      "China",
+      "USA",
+      "UK"
+    ],
+    "importance": {
+      "nutrition": "Minimal food use",
+      "economic": "Tourism, city planting",
+      "cultural": "Symbol of spring and impermanence in Japan"
+    },
+    "fun_facts": [
+      "Thousands of cultivars exist",
+      "Blossom timing celebrated in forecasts"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yJbgtxTuSpMdo4iAvwvsRI2ovPynCvR2iA&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Crape Myrtle",
+    "scientific_name": "Lagerstroemia indica",
+    "family": "Lythraceae",
+    "lifespan": "50–100 years",
+    "native_to": "China, Korea",
+    "height": "3–9 meters",
+    "trunk": "Smooth, mottled bark with peeling patches",
+    "leaves": "Opposite, simple leaves",
+    "fruit": "Brown capsules persisting in winter",
+    "parts_uses": {
+      "Flowers": "Ornamental in summer",
+      "Bark": "Attractive exfoliating feature"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, warm-temperate",
+      "temperature": "5–35°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "China",
+      "India",
+      "USA",
+      "Australia"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Street and garden tree",
+      "cultural": "Valued for long blooming period"
+    },
+    "fun_facts": [
+      "Blooms on new wood—pruning timing matters",
+      "Bark peels to reveal colorful patches"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lagerstroemia_indica_MHNT_Jardin_des_Plantes_de_Toulouse.jpg"
+  },
+  {
+    "id": 8,
+    "common_name": "Copperpod",
+    "scientific_name": "Peltophorum pterocarpum",
+    "family": "Fabaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Tropical Asia, Northern Australia",
+    "height": "10–20 meters",
+    "trunk": "Dark, rough bark with spreading crown",
+    "leaves": "Bipinnate leaves with small leaflets",
+    "fruit": "Flat brown pods",
+    "parts_uses": {
+      "Flowers": "Street and avenue planting",
+      "Bark": "Dye and tannins"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–35°C",
+      "rainfall": "700–2000 mm",
+      "soil": "Well-drained soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "India",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Ornamental and shade",
+      "cultural": "Bright yellow panicles in monsoon"
+    },
+    "fun_facts": [
+      "Also called Yellow Flame Tree",
+      "Fast-growing"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Starr_030514-0025_Peltophorum_pterocarpum.jpg"
+  },
+  {
+    "id": 9,
+    "common_name": "Pink Trumpet Tree",
+    "scientific_name": "Tabebuia rosea",
+    "family": "Bignoniaceae",
+    "lifespan": "40–70 years",
+    "native_to": "Central and South America",
+    "height": "7–15 meters",
+    "trunk": "Grey fissured bark",
+    "leaves": "Palmately compound, 5 leaflets",
+    "fruit": "Long narrow capsules",
+    "parts_uses": {
+      "Flowers": "Spectacular pink blossoms",
+      "Wood": "Light construction"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–32°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Mexico",
+      "Colombia",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Urban landscaping",
+      "cultural": "Seasonal avenue blooms"
+    },
+    "fun_facts": [
+      "Often leafless during peak flowering",
+      "Attracts pollinators"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpC4qC7dyKQ98wdnGTFfhwxKvLfwc0uRAc0A&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Golden Trumpet Tree",
+    "scientific_name": "Handroanthus chrysotrichus",
+    "family": "Bignoniaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Brazil",
+    "height": "5–10 meters",
+    "trunk": "Dark bark, irregular branching",
+    "leaves": "Palmately compound leaves",
+    "fruit": "Slender capsules",
+    "parts_uses": {
+      "Flowers": "Showy golden-yellow blooms"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–32°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Well-drained soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Brazil",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Ornamental planting",
+      "cultural": "Spring flowering display"
+    },
+    "fun_facts": [
+      "Formerly Tabebuia chrysotricha",
+      "National tree of Brazil (related species)"
+    ],
+    "image_url": "https://m.media-amazon.com/images/I/71tA7iCRMOL.jpg"
+  },
+  {
+    "id": 11,
+    "common_name": "Frangipani",
+    "scientific_name": "Plumeria rubra",
+    "family": "Apocynaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Mexico, Central America",
+    "height": "4–8 meters",
+    "trunk": "Succulent branches with milky latex",
+    "leaves": "Large, oblong leaves clustered at branch tips",
+    "fruit": "Paired follicles with winged seeds",
+    "parts_uses": {
+      "Flowers": "Fragrant leis and temple offerings",
+      "Latex": "Traditional remedies (caution)"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–35°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Mexico",
+      "India",
+      "Sri Lanka",
+      "Indonesia"
+    ],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Landscape and cut flowers",
+      "cultural": "Sacred/ceremonial in many regions"
+    },
+    "fun_facts": [
+      "Highly drought tolerant",
+      "Deciduous in dry season"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEEQCYG1MTjuQM3j-PyeBbVfSVDRWmgi3fzA&s"
+  },
+  {
+    "id": 12,
+    "common_name": "Magnolia",
+    "scientific_name": "Magnolia grandiflora",
+    "family": "Magnoliaceae",
+    "lifespan": "80–120 years",
+    "native_to": "Southeastern United States",
+    "height": "15–25 meters",
+    "trunk": "Straight trunk with dense pyramidal crown",
+    "leaves": "Large, evergreen, glossy leaves",
+    "fruit": "Cone-like aggregates with red seeds",
+    "parts_uses": {
+      "Flowers": "Fragrant ornamental",
+      "Wood": "Furniture and veneer"
+    },
+    "growing_conditions": {
+      "climate": "Warm-temperate, subtropical",
+      "temperature": "−5–32°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Acidic, well-drained",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "USA",
+      "India",
+      "Australia"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Avenue and estate plantings",
+      "cultural": "Symbol of the American South"
+    },
+    "fun_facts": [
+      "Large white blossoms up to 30 cm",
+      "Leaves have rust-brown underside"
+    ],
+    "image_url": "https://m.media-amazon.com/images/I/51ZxdNSh3mL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 13,
+    "common_name": "Hong Kong Orchid Tree",
+    "scientific_name": "Bauhinia blakeana",
+    "family": "Fabaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Hong Kong (cultivar origin)",
+    "height": "6–12 meters",
+    "trunk": "Smooth grey bark, spreading canopy",
+    "leaves": "Bilobed (camel’s foot) leaves",
+    "fruit": "Usually sterile; few or no pods",
+    "parts_uses": {
+      "Flowers": "Showy magenta orchid-like blooms"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, tropical",
+      "temperature": "10–35°C",
+      "rainfall": "800–1600 mm",
+      "soil": "Well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Hong Kong",
+      "India",
+      "Australia"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Ornamental city planting",
+      "cultural": "Floral emblem of Hong Kong"
+    },
+    "fun_facts": [
+      "Believed to be a hybrid species",
+      "Usually propagated by cuttings"
+    ],
+    "image_url": "https://artistree.com/wp-content/uploads/2021/04/HONG-KONG-ORCHID-TREE.jpg"
+  },
+  {
+    "id": 14,
+    "common_name": "Pink Shower Tree",
+    "scientific_name": "Cassia javanica",
+    "family": "Fabaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Southeast Asia",
+    "height": "10–20 meters",
+    "trunk": "Grey bark, rounded canopy",
+    "leaves": "Paripinnate leaves",
+    "fruit": "Cylindrical pods",
+    "parts_uses": {
+      "Flowers": "Ornamental clusters of pink blooms"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–35°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Thailand",
+      "India",
+      "Indonesia"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Avenue planting",
+      "cultural": "Spring flowering display"
+    },
+    "fun_facts": [
+      "Blooms profusely before leaf flush",
+      "Attracts pollinators"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7PiuI_n3-W1hWBtLQhQMKLsw-Taxpsk58hEL5_Br_INTxsXbnds54MLzXc4D6XML75Dl6x9xvk0u2iH_OLNWoA"
+  },
+  {
+    "id": 15,
+    "common_name": "African Tulip Tree",
+    "scientific_name": "Spathodea campanulata",
+    "family": "Bignoniaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Tropical Africa",
+    "height": "10–20 meters",
+    "trunk": "Grey to brown bark, upright form",
+    "leaves": "Large pinnate leaves",
+    "fruit": "Long pods splitting to release winged seeds",
+    "parts_uses": {
+      "Flowers": "Bright orange-scarlet ornamental",
+      "Nectar": "Visited by birds"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "18–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Moist, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Uganda",
+      "India",
+      "Sri Lanka"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Park and roadside planting",
+      "cultural": "Dramatic year-round blooms in tropics"
+    },
+    "fun_facts": [
+      "Seed pods resemble boats when split",
+      "Fast-growing"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqoAyYOlFKZo4cXIWwy2WrTqkYYFTHPgMbQ&s"
+  },
+  {
+    "id": 16,
+    "common_name": "Indian Coral Tree",
+    "scientific_name": "Erythrina variegata",
+    "family": "Fabaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Indian Ocean to Western Pacific",
+    "height": "10–15 meters",
+    "trunk": "Armed with prickles; irregular",
+    "leaves": "Trifoliate leaves",
+    "fruit": "Pods with bright red seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental red clusters",
+      "Leaves": "Fodder in some regions"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–32°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "India",
+      "Sri Lanka",
+      "Indonesia"
+    ],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Living fences and ornamentals",
+      "cultural": "Sacred/ceremonial uses in islands"
+    },
+    "fun_facts": [
+      "Deciduous during dry season",
+      "Attracts birds"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1BhLAVby5TMwLtob7k10TXvERcJZBa4a81w&s"
+  },
+  {
+    "id": 17,
+    "common_name": "Silk Floss Tree",
+    "scientific_name": "Ceiba speciosa",
+    "family": "Malvaceae",
+    "lifespan": "50–80 years",
+    "native_to": "South America",
+    "height": "10–20 meters",
+    "trunk": "Green trunk with conical spines",
+    "leaves": "Palmately compound leaves",
+    "fruit": "Large capsules with silky floss",
+    "parts_uses": {
+      "Flowers": "Showy pink flowers",
+      "Floss": "Stuffing (kapok-like)"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, tropical",
+      "temperature": "10–35°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Argentina",
+      "Brazil",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Urban ornamental",
+      "cultural": "Striking trunk and blooms"
+    },
+    "fun_facts": [
+      "Trunk stores water",
+      "Spectacular avenue tree"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkgyDCZDSniKUuQRrSLyES0m-6UAhCfjNhA&s"
+  },
+  {
+    "id": 18,
+    "common_name": "Cannonball Tree",
+    "scientific_name": "Couroupita guianensis",
+    "family": "Lecythidaceae",
+    "lifespan": "50–75 years",
+    "native_to": "Tropical South America",
+    "height": "15–25 meters",
+    "trunk": "Flowers borne on trunk (cauliflorous)",
+    "leaves": "Large, simple leaves in clusters",
+    "fruit": "Large spherical woody fruits",
+    "parts_uses": {
+      "Flowers": "Fragrant, used in temples in India",
+      "Fruit": "Not generally eaten"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "1500–3000 mm",
+      "soil": "Moist, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Brazil",
+      "India",
+      "Sri Lanka"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Botanical gardens, temple grounds",
+      "cultural": "Sacred associations in South Asia"
+    },
+    "fun_facts": [
+      "Inflorescences emerge from trunk",
+      "Fruits can be 24 cm across"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/CanonBall_tree_with_flowers_panmana_kollam.jpg"
+  },
+  {
+    "id": 19,
+    "common_name": "Queen's Crape Myrtle",
+    "scientific_name": "Lagerstroemia speciosa",
+    "family": "Lythraceae",
+    "lifespan": "50–80 years",
+    "native_to": "Southeast Asia",
+    "height": "10–20 meters",
+    "trunk": "Smooth bark peeling in plates",
+    "leaves": "Large, opposite leaves",
+    "fruit": "Woody capsules",
+    "parts_uses": {
+      "Flowers": "Large purple blooms",
+      "Leaves": "Traditional medicine (banaba)"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "18–35°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Moist, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Philippines",
+      "India",
+      "Thailand"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Ornamental and medicinal leaves",
+      "cultural": "City tree in parts of India"
+    },
+    "fun_facts": [
+      "Leaves turn red before shedding",
+      "Long blooming in summer"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLGZMQZoXt8nJo9CglRK2r-gQ-oec93uphw&s"
+  },
+  {
+    "id": 20,
+    "common_name": "Royal Palm",
+    "scientific_name": "Roystonea regia",
+    "family": "Arecaceae",
+    "lifespan": "80–100+ years",
+    "native_to": "Cuba, Caribbean",
+    "height": "20–30 meters",
+    "trunk": "Smooth, grey column with green crownshaft",
+    "leaves": "Large pinnate fronds",
+    "fruit": "Purple to black drupes",
+    "parts_uses": {
+      "Leaves": "Ornamental",
+      "Trunk": "Avenue planting"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–35°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Moist, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Cuba",
+      "India",
+      "USA (Florida)"
+    ],
+    "importance": {
+      "nutrition": "Fruit for wildlife",
+      "economic": "Iconic avenue palm",
+      "cultural": "Symbolic in Cuba"
+    },
+    "fun_facts": [
+      "Distinctive green crownshaft",
+      "Fast-growing in warm climates"
+    ],
+    "image_url": "https://plantsguru.com/cdn/shop/files/royal-palm.jpg?v=1745834744"
+  },
+  {
+    "id": 21,
+    "common_name": "Mexican Fan Palm",
+    "scientific_name": "Washingtonia robusta",
+    "family": "Arecaceae",
+    "lifespan": "80–100 years",
+    "native_to": "Mexico (Baja California, Sonora)",
+    "height": "20–30 meters",
+    "trunk": "Tall slender trunk with persistent skirt of dead leaves",
+    "leaves": "Large fan-shaped leaves",
+    "fruit": "Small black drupes",
+    "parts_uses": {
+      "Leaves": "Ornamental",
+      "Trunk": "Skylines and boulevards"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, warm-temperate",
+      "temperature": "5–35°C",
+      "rainfall": "200–800 mm",
+      "soil": "Well-drained, drought-tolerant",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Mexico",
+      "USA",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "Fruit eaten by birds",
+      "economic": "Street landscaping",
+      "cultural": "Iconic in Los Angeles skyline"
+    },
+    "fun_facts": [
+      "Very drought tolerant",
+      "Fast vertical growth"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORY7Vm8pNzbXybYQil-pO8cTFxa0n9PYyEw&s"
+  },
+  {
+    "id": 22,
+    "common_name": "Pygmy Date Palm",
+    "scientific_name": "Phoenix roebelenii",
+    "family": "Arecaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Southeast Asia",
+    "height": "2–3 meters (small tree)",
+    "trunk": "Slender trunk with fibrous base",
+    "leaves": "Graceful pinnate fronds",
+    "fruit": "Small edible dates (sour)",
+    "parts_uses": {
+      "Leaves": "Ornamental",
+      "Fruit": "Occasionally eaten"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–32°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained soils",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": [
+      "Laos",
+      "Vietnam",
+      "Thailand",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "Minor fruit use",
+      "economic": "Patio and landscape palm",
+      "cultural": "Popular in courtyards"
+    },
+    "fun_facts": [
+      "Often grown as a specimen in pairs",
+      "Spines near leaf bases"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Starr_070124-3839_Phoenix_roebelenii.jpg"
+  },
+  {
+    "id": 23,
+    "common_name": "Fishtail Palm",
+    "scientific_name": "Caryota urens",
+    "family": "Arecaceae",
+    "lifespan": "30–40 years",
+    "native_to": "Indian subcontinent, Southeast Asia",
+    "height": "12–20 meters",
+    "trunk": "Solitary grey trunk",
+    "leaves": "Bipinnate leaves with fishtail-shaped leaflets",
+    "fruit": "Round berries (irritant)",
+    "parts_uses": {
+      "Sap": "Toddy/palm sugar (jaggery)",
+      "Leaves": "Ornamental"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–35°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Rich, well-drained",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "India",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "importance": {
+      "nutrition": "Sugar from sap",
+      "economic": "Sugar production and ornamental",
+      "cultural": "Traditional toddy palm in parts of India"
+    },
+    "fun_facts": [
+      "Monocarpic—dies after flowering",
+      "Leaflets resemble a fish tail"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJJMgcNx1AJjao1qCHdLi4NxW2vQnNu6jPw&s"
+  },
+  {
+    "id": 24,
+    "common_name": "Windmill Palm",
+    "scientific_name": "Trachycarpus fortunei",
+    "family": "Arecaceae",
+    "lifespan": "60–80 years",
+    "native_to": "China",
+    "height": "8–12 meters",
+    "trunk": "Fibrous trunk with old leaf bases",
+    "leaves": "Fan-shaped leaves forming a windmill",
+    "fruit": "Bluish drupes",
+    "parts_uses": {
+      "Leaves": "Cordage and mats",
+      "Trunk": "Ornamental in cooler climates"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "−10–30°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Well-drained soils",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "China",
+      "Japan",
+      "UK"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Hardy ornamental palm",
+      "cultural": "Traditional fiber source in China"
+    },
+    "fun_facts": [
+      "One of the hardiest palms",
+      "Popular in Mediterranean gardens"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14tAriAwmKFSGfjZidi__6pFJo0tdoNq7Aw&s"
+  },
+  {
+    "id": 25,
+    "common_name": "Golden Rain Tree",
+    "scientific_name": "Koelreuteria paniculata",
+    "family": "Sapindaceae",
+    "lifespan": "40–70 years",
+    "native_to": "China, Korea",
+    "height": "7–12 meters",
+    "trunk": "Grey bark with ascending branches",
+    "leaves": "Pinnate leaves; young leaves bronze-tinted",
+    "fruit": "Papery lantern-like capsules",
+    "parts_uses": {
+      "Flowers": "Showy yellow panicles in summer",
+      "Seeds": "Used in crafts"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, warm-temperate",
+      "temperature": "−10–32°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Well-drained, tolerates poor soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "China",
+      "USA",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Urban ornamental",
+      "cultural": "Decorative lantern fruits"
+    },
+    "fun_facts": [
+      "Attracts bees and butterflies",
+      "Tolerant of pollution"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_KWAeFINQzePyFJuGFwIEesKqubnr98Zdg&s"
+  },
+  {
+    "id": 26,
+    "common_name": "Silk Tree (Mimosa)",
+    "scientific_name": "Albizia julibrissin",
+    "family": "Fabaceae",
+    "lifespan": "30–40 years",
+    "native_to": "Southwest to East Asia",
+    "height": "5–12 meters",
+    "trunk": "Short trunk with broad canopy",
+    "leaves": "Bipinnate, sensitive leaflets",
+    "fruit": "Flat brown pods",
+    "parts_uses": {
+      "Flowers": "Fragrant pink pom-poms",
+      "Bark": "Traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, warm-temperate",
+      "temperature": "5–35°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "China",
+      "Iran",
+      "India",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Garden and street tree",
+      "cultural": "Popular for evening fragrance"
+    },
+    "fun_facts": [
+      "Leaves close at night (nyctinasty)",
+      "Attracts pollinators"
+    ],
+    "image_url": "https://www.wilsonbrosgardens.com/assets/images/albizia-julibrissin-mimosa-tree-2.jpg"
+  },
+  {
+    "id": 27,
+    "common_name": "Japanese Maple",
+    "scientific_name": "Acer palmatum",
+    "family": "Sapindaceae",
+    "lifespan": "80–100 years",
+    "native_to": "Japan, Korea, China",
+    "height": "3–10 meters",
+    "trunk": "Graceful branching, smooth bark",
+    "leaves": "Deeply lobed, colorful foliage",
+    "fruit": "Paired samaras (winged seeds)",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Wood": "Small crafts"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "−15–25°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Moist, well-drained, slightly acidic",
+      "sunlight": "Partial shade to full sun (cool climates)"
+    },
+    "major_countries": [
+      "Japan",
+      "USA",
+      "UK"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "High-value ornamental cultivars",
+      "cultural": "Gardens and bonsai"
+    },
+    "fun_facts": [
+      "Thousands of named cultivars",
+      "Popular for bonsai training"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7QBDMQJgZLUGhd7enXDNMGMbI6-Ox7S6ZNjDAys0R7PnyeRE5Ce6-aPwHZLyUHnrIiM&usqp=CAU"
+  },
+  {
+    "id": 28,
+    "common_name": "Ginkgo",
+    "scientific_name": "Ginkgo biloba",
+    "family": "Ginkgoaceae",
+    "lifespan": "100–1000+ years",
+    "native_to": "China",
+    "height": "15–25 meters",
+    "trunk": "Straight trunk, conical in youth",
+    "leaves": "Fan-shaped leaves turning golden yellow",
+    "fruit": "Fleshy seeds (on female trees)",
+    "parts_uses": {
+      "Leaves": "Herbal supplements",
+      "Seeds": "Edible after processing (East Asia)"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "−20–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "China",
+      "Japan",
+      "USA",
+      "Europe"
+    ],
+    "importance": {
+      "nutrition": "Seeds used in cuisine",
+      "economic": "Urban street tree (pollution tolerant)",
+      "cultural": "Living fossil; temple plantings"
+    },
+    "fun_facts": [
+      "Survived the Hiroshima bombing near epicenter",
+      "Dioecious (separate male and female trees)"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/GINKGOBAUM-2.jpg/960px-GINKGOBAUM-2.jpg"
+  },
+  {
+    "id": 29,
+    "common_name": "Judas Tree",
+    "scientific_name": "Cercis siliquastrum",
+    "family": "Fabaceae",
+    "lifespan": "50–100 years",
+    "native_to": "Southern Europe, Western Asia",
+    "height": "5–12 meters",
+    "trunk": "Twisted trunk with smooth bark",
+    "leaves": "Heart-shaped leaves",
+    "fruit": "Purple-brown pods",
+    "parts_uses": {
+      "Flowers": "Ornamental; edible blossoms",
+      "Leaves": "Ornamental foliage"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean, temperate",
+      "temperature": "−10–30°C",
+      "rainfall": "400–900 mm",
+      "soil": "Well-drained calcareous or loamy soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Italy",
+      "Greece",
+      "Turkey"
+    ],
+    "importance": {
+      "nutrition": "Flowers edible in salads",
+      "economic": "Garden and urban tree",
+      "cultural": "Blooms on bare wood (cauliflory)"
+    },
+    "fun_facts": [
+      "Flowers appear before leaves",
+      "Attracts early pollinators"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuFcrZnA0w9kZU7msbPn-1N6ABuGLC58_Agk2vvdOLWj4SalJsD8A2XIlEPRkpsa6Q7oQ&usqp=CAU"
+  },
+  {
+    "id": 30,
+    "common_name": "Empress Tree",
+    "scientific_name": "Paulownia tomentosa",
+    "family": "Paulowniaceae",
+    "lifespan": "40–70 years",
+    "native_to": "China",
+    "height": "10–20 meters",
+    "trunk": "Straight trunk, broad crown",
+    "leaves": "Very large heart-shaped leaves",
+    "fruit": "Brown capsules with many tiny seeds",
+    "parts_uses": {
+      "Flowers": "Lavender panicles before leaf-out",
+      "Wood": "Lightweight timber"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "−10–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained, tolerates poor soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "China",
+      "Japan",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Fast-growing timber and ornamental",
+      "cultural": "Traditionally planted for newborn girls in Japan"
+    },
+    "fun_facts": [
+      "Extremely fast juvenile growth",
+      "Large leaves in coppiced shoots"
+    ],
+    "image_url": "https://m.media-amazon.com/images/I/71tm8KjhPsL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 31,
+    "common_name": "Tipu Tree",
+    "scientific_name": "Tipuana tipu",
+    "family": "Fabaceae",
+    "lifespan": "50–80 years",
+    "native_to": "Bolivia, Argentina",
+    "height": "10–20 meters",
+    "trunk": "Broad canopy with fissured bark",
+    "leaves": "Pinnate leaves",
+    "fruit": "Samaroid pods",
+    "parts_uses": {
+      "Flowers": "Yellow-orange display",
+      "Wood": "Utility timber"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical",
+      "temperature": "10–32°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Bolivia",
+      "Argentina",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Shade and street tree",
+      "cultural": "Popular in arid-city avenues"
+    },
+    "fun_facts": [
+      "Fast-growing and drought tolerant",
+      "Attracts bees"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWrWRRLNw2KShBT2lhoZ5CcilabMwiY7gsMqYoVIWmAfKuqohtuBwIpEffOj_VJ2SG044&usqp=CAU"
+  },
+  {
+    "id": 32,
+    "common_name": "Bottlebrush Tree",
+    "scientific_name": "Callistemon citrinus",
+    "family": "Myrtaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Australia",
+    "height": "3–8 meters",
+    "trunk": "Multi-stemmed small tree",
+    "leaves": "Narrow, aromatic leaves",
+    "fruit": "Woody capsules along stems",
+    "parts_uses": {
+      "Flowers": "Showy red bottlebrush spikes",
+      "Leaves": "Aromatic oils"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, Mediterranean",
+      "temperature": "5–35°C",
+      "rainfall": "400–1000 mm",
+      "soil": "Well-drained; tolerates poor soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Australia",
+      "India",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "Nectar for pollinators",
+      "economic": "Ornamental hedging and small trees",
+      "cultural": "Common streetscape plant"
+    },
+    "fun_facts": [
+      "Attracts birds and bees",
+      "Blooms multiple times a year in warm climates"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQakP5xu1IZIlrXCPtGDhwGspAY7N7bfKAl6A&s"
+  },
+  {
+    "id": 33,
+    "common_name": "Silver Birch",
+    "scientific_name": "Betula pendula",
+    "family": "Betulaceae",
+    "lifespan": "60–100 years",
+    "native_to": "Europe, parts of Asia",
+    "height": "10–25 meters",
+    "trunk": "White peeling bark with black fissures",
+    "leaves": "Triangular, serrated leaves",
+    "fruit": "Catkins with tiny winged seeds",
+    "parts_uses": {
+      "Sap": "Birch sap beverages",
+      "Wood": "Plywood, furniture"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, boreal",
+      "temperature": "−20–25°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Moist, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "UK",
+      "Germany",
+      "Russia"
+    ],
+    "importance": {
+      "nutrition": "Sap beverages in spring",
+      "economic": "Timber and ornament",
+      "cultural": "Feature in European folklore"
+    },
+    "fun_facts": [
+      "Early successional tree",
+      "Graceful, light canopy"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgi_GFq2ZFmrwUdJ32XZJBrwWzV1FjAB0_7A&s"
+  },
+  {
+    "id": 34,
+    "common_name": "Crabapple",
+    "scientific_name": "Malus floribunda",
+    "family": "Rosaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Japan",
+    "height": "4–8 meters",
+    "trunk": "Rounded small tree, smooth bark",
+    "leaves": "Simple leaves turning yellow/orange",
+    "fruit": "Small colorful pomes",
+    "parts_uses": {
+      "Flowers": "Spring blossom displays",
+      "Fruit": "Jellies and wildlife food"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "−15–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist, well-drained, slightly acidic",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Japan",
+      "USA",
+      "UK"
+    ],
+    "importance": {
+      "nutrition": "Fruit for birds and preserves",
+      "economic": "Ornamental breeding parent",
+      "cultural": "Traditional garden tree"
+    },
+    "fun_facts": [
+      "Good pollinator for apples",
+      "Profuse spring blossoms"
+    ],
+    "image_url": "https://www.planetnatural.com/wp-content/uploads/2023/09/Crabapple-Tree.jpg"
+  },
+  {
+    "id": 35,
+    "common_name": "Bradford Pear",
+    "scientific_name": "Pyrus calleryana",
+    "family": "Rosaceae",
+    "lifespan": "20–40 years",
+    "native_to": "China, Vietnam",
+    "height": "8–12 meters",
+    "trunk": "Pyramidal crown; smooth bark",
+    "leaves": "Glossy, ovate leaves, red fall color",
+    "fruit": "Small hard pears",
+    "parts_uses": {
+      "Flowers": "Early spring white bloom",
+      "Leaves": "Fall color"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "−15–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Adaptable, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "China",
+      "USA",
+      "Europe"
+    ],
+    "importance": {
+      "nutrition": "Fruit for birds",
+      "economic": "Urban ornamental (declining due to invasiveness in some regions)",
+      "cultural": "Common suburban street tree"
+    },
+    "fun_facts": [
+      "Known for weak branch crotches",
+      "Fragrant flowers in early spring"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScROBy3b_s8xFAPyh4iX3HjVX-atBABahI2w&s"
+  },
+  {
+    "id": 36,
+    "common_name": "Olive",
+    "scientific_name": "Olea europaea",
+    "family": "Oleaceae",
+    "lifespan": "500+ years",
+    "native_to": "Mediterranean Basin",
+    "height": "5–12 meters",
+    "trunk": "Gnarled trunk with grey bark",
+    "leaves": "Opposite, silvery-green leaves",
+    "fruit": "Olives (drupes)",
+    "parts_uses": {
+      "Fruit": "Table olives and olive oil",
+      "Leaves": "Herbal teas"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean",
+      "temperature": "−5–35°C",
+      "rainfall": "300–800 mm",
+      "soil": "Well-drained calcareous soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Spain",
+      "Italy",
+      "Greece"
+    ],
+    "importance": {
+      "nutrition": "Oil-rich fruit",
+      "economic": "Olive oil industry",
+      "cultural": "Symbol of peace and longevity"
+    },
+    "fun_facts": [
+      "Extremely long-lived",
+      "Tolerates drought and poor soils"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAJj9570d-0bWH3oo-mxyJ6yM0yWp9JQUFQ&s"
+  },
+  {
+    "id": 37,
+    "common_name": "Weeping Fig",
+    "scientific_name": "Ficus benjamina",
+    "family": "Moraceae",
+    "lifespan": "40–60 years",
+    "native_to": "South and Southeast Asia",
+    "height": "10–20 meters (outdoors)",
+    "trunk": "Smooth grey bark; drooping branches",
+    "leaves": "Glossy, elliptic leaves",
+    "fruit": "Small figs",
+    "parts_uses": {
+      "Leaves": "Popular indoor and landscape tree"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–35°C",
+      "rainfall": "800–2000 mm",
+      "soil": "Well-drained",
+      "sunlight": "Bright light to full sun"
+    },
+    "major_countries": [
+      "India",
+      "Thailand",
+      "Australia"
+    ],
+    "importance": {
+      "nutrition": "Fruits for birds",
+      "economic": "Common indoor tree",
+      "cultural": "Used in hedges and topiary"
+    },
+    "fun_facts": [
+      "Can develop aerial roots outdoors",
+      "Sensitive to drafts indoors"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeNqt7CpmYbFfi9UAuulWih2TA1cKmsff63g&s"
+  },
+  {
+    "id": 38,
+    "common_name": "Indian Almond",
+    "scientific_name": "Terminalia catappa",
+    "family": "Combretaceae",
+    "lifespan": "60–100 years",
+    "native_to": "Tropical Asia",
+    "height": "10–25 meters",
+    "trunk": "Whorled horizontal branches",
+    "leaves": "Large leaves with red seasonal color",
+    "fruit": "Fibrous drupes with edible kernel",
+    "parts_uses": {
+      "Fruit": "Edible kernel",
+      "Leaves": "Aquarium tannins; traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, coastal",
+      "temperature": "20–35°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Sandy, well-drained; salt tolerant",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "India",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "importance": {
+      "nutrition": "Edible nuts",
+      "economic": "Coastal avenue tree",
+      "cultural": "Shade along beaches"
+    },
+    "fun_facts": [
+      "Distinctive tiered branching",
+      "Leaves used to condition aquarium water"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hlaHvkuCdldmEsbNmpwJkBxtkbczKTKg0g&s"
+  },
+  {
+    "id": 39,
+    "common_name": "Queen Palm",
+    "scientific_name": "Syagrus romanzoffiana",
+    "family": "Arecaceae",
+    "lifespan": "60–80 years",
+    "native_to": "South America",
+    "height": "10–20 meters",
+    "trunk": "Smooth grey trunk with leaf scar rings",
+    "leaves": "Graceful pinnate fronds",
+    "fruit": "Orange drupes",
+    "parts_uses": {
+      "Leaves": "Ornamental",
+      "Fruit": "Eaten by wildlife"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, tropical",
+      "temperature": "10–35°C",
+      "rainfall": "800–1600 mm",
+      "soil": "Well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Brazil",
+      "Argentina",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "Fruit for birds",
+      "economic": "Avenue palm",
+      "cultural": "Popular in parks and boulevards"
+    },
+    "fun_facts": [
+      "Fast-growing",
+      "Elegant canopy movement in wind"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYhygaLxdRiVLH5lQd971Bw0-h5qKF7UmYSg&s"
+  },
+  {
+    "id": 40,
+    "common_name": "Majesty Palm",
+    "scientific_name": "Ravenea rivularis",
+    "family": "Arecaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Madagascar",
+    "height": "10–15 meters (outdoors)",
+    "trunk": "Smooth grey trunk, green crownshaft",
+    "leaves": "Feathery pinnate fronds",
+    "fruit": "Red to black drupes",
+    "parts_uses": {
+      "Leaves": "Ornamental",
+      "Trunk": "Garden specimen"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "18–32°C",
+      "rainfall": "1200–2500 mm",
+      "soil": "Moist, well-drained",
+      "sunlight": "Full sun to bright light"
+    },
+    "major_countries": [
+      "Madagascar",
+      "India",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Landscape and indoor palm",
+      "cultural": "Popular indoor specimen"
+    },
+    "fun_facts": [
+      "Needs consistent moisture",
+      "Native to river valleys"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gCLHsd_84bW1cR66UmIreIEfJrl3Z8nrDA&s"
+  }
+]

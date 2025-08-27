@@ -1,0 +1,387 @@
+[
+  {
+    "id": 0,
+    "common_name": "Bottle Gourd",
+    "scientific_name": "Lagenaria siceraria",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "Tropical Africa and Asia",
+    "height": "Creeping vine up to 10–15 meters",
+    "trunk": "Slender green stems with tendrils",
+    "leaves": "Large, heart-shaped green leaves",
+    "fruit": "Long, bottle-shaped green gourd",
+    "parts_uses": {
+      "Fruit": "Used in curries, soups, juices",
+      "Leaves": "Medicinal uses, cattle fodder",
+      "Seeds": "Used in snacks and oil extraction"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Fertile, well-drained loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Bangladesh", "Nepal"],
+    "importance": {
+      "nutrition": "Rich in water, fiber, vitamins, and minerals",
+      "economic": "Widely cultivated for vegetable markets",
+      "cultural": "Traditionally used in Ayurveda for health benefits"
+    },
+    "fun_facts": [
+      "One of the oldest cultivated plants in the world",
+      "Used to make musical instruments when dried"
+    ],
+    "image_url": "https://prabhaorganics.com/cdn/shop/files/bottle-gourd-long.png?v=1700658440"
+  },
+  {
+    "id": 1,
+    "common_name": "Bitter Gourd",
+    "scientific_name": "Momordica charantia",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "India and Southeast Asia",
+    "height": "Creeping vine up to 5 meters",
+    "trunk": "Thin, climbing stems with tendrils",
+    "leaves": "Deeply lobed green leaves",
+    "fruit": "Green, warty, elongated gourd",
+    "parts_uses": {
+      "Fruit": "Used in curries, pickles, stir-fries",
+      "Leaves": "Used in herbal teas and traditional medicine",
+      "Seeds": "Medicinal, but bitter in taste"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained sandy loam soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Philippines", "Thailand"],
+    "importance": {
+      "nutrition": "Rich in iron, magnesium, vitamins A and C",
+      "economic": "Popular in Asian vegetable markets",
+      "cultural": "Used in Ayurveda for diabetes management"
+    },
+    "fun_facts": [
+      "Known as ‘karela’ in India",
+      "One of the most bitter edible vegetables"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf_uXfC4GPcy8fMWZbWnaxe1bhL3ow46RDAA&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Pumpkin",
+    "scientific_name": "Cucurbita maxima",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "North and South America",
+    "height": "Creeping vine up to 10 meters",
+    "trunk": "Thick, trailing stems with tendrils",
+    "leaves": "Large, broad, rough green leaves",
+    "fruit": "Round, orange or green pumpkin",
+    "parts_uses": {
+      "Fruit": "Used in soups, pies, curries",
+      "Seeds": "Eaten roasted, oil extraction",
+      "Leaves": "Cooked as leafy greens"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical, temperate",
+      "temperature": "18–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained fertile sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["USA", "India", "China", "Mexico"],
+    "importance": {
+      "nutrition": "Rich in Vitamin A, antioxidants, fiber",
+      "economic": "High demand in food industry and festivals",
+      "cultural": "Used in Halloween as Jack-o’-lanterns"
+    },
+    "fun_facts": [
+      "Pumpkin is 90% water",
+      "Largest pumpkin recorded weighed over 1000 kg"
+    ],
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/pumpkin-plants-1656450678.jpg?crop=0.5625xw:1xh;center,top&resize=1200:*"
+  },
+  {
+    "id": 3,
+    "common_name": "Ridge Gourd",
+    "scientific_name": "Luffa acutangula",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "India and Southeast Asia",
+    "height": "Creeping vine up to 5–6 meters",
+    "trunk": "Slender green stem with ridged fruits",
+    "leaves": "Broad, lobed green leaves",
+    "fruit": "Elongated, ridged green gourd",
+    "parts_uses": {
+      "Fruit": "Cooked in curries, soups, stir-fry",
+      "Leaves": "Medicinal uses, edible in some regions",
+      "Seeds": "Used in oil extraction"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "22–35°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Fertile, sandy loam soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Bangladesh", "Indonesia"],
+    "importance": {
+      "nutrition": "Rich in fiber, Vitamin C, iron",
+      "economic": "Widely cultivated vegetable in Asia",
+      "cultural": "Common in traditional Indian dishes"
+    },
+    "fun_facts": [
+      "Also called ‘Turai’ in India",
+      "Harvested young before fibers harden"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-_xVfGsBcrnzTvhGsKaPFOD5vVPAZc26qw&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Snake Gourd",
+    "scientific_name": "Trichosanthes cucumerina",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "South and Southeast Asia",
+    "height": "Creeping vine up to 6 meters",
+    "trunk": "Long, climbing stems with tendrils",
+    "leaves": "Deeply lobed, broad green leaves",
+    "fruit": "Slender, long, snake-like gourd",
+    "parts_uses": {
+      "Fruit": "Used in curries, soups, stir-fry",
+      "Leaves": "Medicinal use in Ayurveda",
+      "Seeds": "Sometimes used in herbal remedies"
+    },
+    "growing_conditions": {
+      "climate": "Warm, humid tropical regions",
+      "temperature": "24–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Sri Lanka", "Thailand", "Malaysia"],
+    "importance": {
+      "nutrition": "Low in calories, high in fiber and vitamins",
+      "economic": "Valuable in local vegetable markets",
+      "cultural": "Used in traditional Ayurvedic medicine"
+    },
+    "fun_facts": [
+      "Can grow over 1.5 meters long",
+      "Often spiral-shaped when hanging from vines"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVFMBHyEbMRPUtsFRMbtRH1C-rX8gH_xuZA&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Ivy Gourd",
+    "scientific_name": "Coccinia grandis",
+    "family": "Cucurbitaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "India, Southeast Asia",
+    "height": "Climbing vine up to 5 meters",
+    "trunk": "Slender, green stems with climbing ability",
+    "leaves": "Small, lobed green leaves",
+    "fruit": "Small, oval green gourd turning red when ripe",
+    "parts_uses": {
+      "Fruit": "Used in curries, stir-fry, pickles",
+      "Leaves": "Medicinal, used in Ayurveda",
+      "Roots": "Traditional remedies for diabetes"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained sandy or loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Thailand", "Indonesia", "Philippines"],
+    "importance": {
+      "nutrition": "Rich in beta-carotene, fiber, and vitamins",
+      "economic": "Sold in local vegetable markets",
+      "cultural": "Popular home-garden vegetable in India"
+    },
+    "fun_facts": [
+      "Also called ‘Tindora’ or ‘Kundru’ in India",
+      "Considered beneficial for diabetes management"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmpKRUxgbtQtAs7y8HbwzMG0IBhGZW0shCA&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Cucumber",
+    "scientific_name": "Cucumis sativus",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual creeper",
+    "native_to": "India",
+    "height": "Creeping vine up to 2–3 meters",
+    "trunk": "Slender, climbing stems with tendrils",
+    "leaves": "Broad, heart-shaped green leaves",
+    "fruit": "Cylindrical, green cucumber",
+    "parts_uses": {
+      "Fruit": "Eaten raw in salads, pickled, juices",
+      "Leaves": "Medicinal uses in folk remedies",
+      "Seeds": "Oil extraction, eaten roasted"
+    },
+    "growing_conditions": {
+      "climate": "Warm, tropical to temperate",
+      "temperature": "18–30°C",
+      "rainfall": "700–1200 mm",
+      "soil": "Fertile sandy loam soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Turkey", "USA"],
+    "importance": {
+      "nutrition": "Rich in water, vitamin K, antioxidants",
+      "economic": "Widely grown for salad markets",
+      "cultural": "Used in beauty and skincare remedies"
+    },
+    "fun_facts": [
+      "Cucumber is 96% water",
+      "One of the oldest cultivated vegetables in India"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXstHjGJ9U3fNV039qq2plCPWBlVVotRvNtlzectyl9beetyBd8zeriMl5uK3f0NHHBs4&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "common_name": "Ash Gourd",
+    "scientific_name": "Benincasa hispida",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual creeper",
+    "native_to": "South and Southeast Asia",
+    "height": "Creeping vine up to 3–5 meters",
+    "trunk": "Trailing vine with coarse stems",
+    "leaves": "Large, rough, green leaves",
+    "fruit": "Large, round to oblong green gourd with white waxy coating",
+    "parts_uses": {
+      "Fruit": "Used in curries, soups, sweets, and beverages",
+      "Seeds": "Medicinal oil extraction",
+      "Leaves": "Used in folk medicine"
+    },
+    "growing_conditions": {
+      "climate": "Warm, tropical",
+      "temperature": "20–30°C",
+      "rainfall": "800–1200 mm",
+      "soil": "Fertile loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Thailand", "Indonesia"],
+    "importance": {
+      "nutrition": "Rich in water, fiber, vitamins C and B",
+      "economic": "Cultivated for vegetable and Ayurvedic medicine",
+      "cultural": "Used in making ‘petha’ sweet in India"
+    },
+    "fun_facts": [
+      "Also called Winter Melon or White Pumpkin",
+      "Fruits can weigh over 20 kg"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4yHJK5ojhwS0p02m8atmqVMHu65MLSwHQw&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Sponge Gourd",
+    "scientific_name": "Luffa cylindrica",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual creeper",
+    "native_to": "South Asia",
+    "height": "Creeping vine up to 6 meters",
+    "trunk": "Climbing stem with tendrils",
+    "leaves": "Broad, green leaves",
+    "fruit": "Cylindrical green gourd turning fibrous when mature",
+    "parts_uses": {
+      "Fruit": "Eaten young as vegetable",
+      "Mature fruit": "Used as natural loofah sponge",
+      "Seeds": "Used for oil extraction"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "22–34°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "China", "Thailand"],
+    "importance": {
+      "nutrition": "Rich in vitamins A and C",
+      "economic": "Vegetable and loofah industry",
+      "cultural": "Used as natural scrubber in households"
+    },
+    "fun_facts": [
+      "Dried fruit is used as a natural sponge",
+      "Known as ‘Nenua’ in Hindi"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROB4l9gqfLpZPCfDdzN5d-33vGdmU63thVuw&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Pointed Gourd",
+    "scientific_name": "Trichosanthes dioica",
+    "family": "Cucurbitaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "India and Bangladesh",
+    "height": "Climbing vine up to 5 meters",
+    "trunk": "Thin stems with tendrils",
+    "leaves": "Small, green, heart-shaped leaves",
+    "fruit": "Small, green, oval striped gourd",
+    "parts_uses": {
+      "Fruit": "Cooked in curries, fried, stuffed",
+      "Leaves": "Medicinal use in Ayurveda",
+      "Roots": "Used in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Warm, humid tropical",
+      "temperature": "22–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Sandy loam, fertile",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "Nepal"],
+    "importance": {
+      "nutrition": "Rich in vitamins, fiber, and antioxidants",
+      "economic": "Important commercial creeper in Bengal region",
+      "cultural": "Known as ‘Parwal’ in Hindi"
+    },
+    "fun_facts": [
+      "Pointed gourd is a perennial creeper unlike most gourds",
+      "Very popular in Bengali cuisine"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfrMieIAVLqb8fCm4GrGveYxLP7ws4e_R1w&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Chayote",
+    "scientific_name": "Sechium edule",
+    "family": "Cucurbitaceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "Central America",
+    "height": "Climbing vine up to 12 meters",
+    "trunk": "Fast-growing, sprawling stems",
+    "leaves": "Broad, heart-shaped green leaves",
+    "fruit": "Pear-shaped light green gourd",
+    "parts_uses": {
+      "Fruit": "Cooked in stews, curries, salads",
+      "Shoots": "Eaten as leafy greens",
+      "Roots": "Edible and starchy"
+    },
+    "growing_conditions": {
+      "climate": "Warm, tropical",
+      "temperature": "18–28°C",
+      "rainfall": "1000–1500 mm",
+      "soil": "Well-drained fertile soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "Costa Rica", "India", "Philippines"],
+    "importance": {
+      "nutrition": "Rich in folate, vitamin C, potassium",
+      "economic": "Commercially grown in Latin America and Asia",
+      "cultural": "Staple vegetable in Central America"
+    },
+    "fun_facts": [
+      "Also called ‘Chow Chow’ or ‘Seemebadnekai’ in India",
+      "Entire plant is edible (fruits, roots, shoots, leaves)"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmm18r6ox4BmSmg4n6al7g7GZHqhnUtbB64A&s"
+  }
+]

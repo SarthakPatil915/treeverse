@@ -1,0 +1,511 @@
+[
+  {
+    "id": 0,
+    "common_name": "Urceola",
+    "scientific_name": "Urceola polymorpha",
+    "family": "Apocynaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southeast Asia",
+    "height": "5–10 meters",
+    "trunk": "Woody, flexible twining stems",
+    "leaves": "Opposite, elliptical, leathery green leaves",
+    "fruit": "Follicles containing winged seeds",
+    "parts_uses": {
+      "Leaves": "Traditionally used in herbal medicine",
+      "Stems": "Used in traditional remedies",
+      "Flowers": "Ornamental value"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "22–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["Thailand", "Vietnam", "Myanmar"],
+    "importance": {
+      "nutrition": "Minor medicinal uses",
+      "economic": "Grown for medicinal and ornamental value",
+      "cultural": "Used in folk remedies"
+    },
+    "fun_facts": ["Belongs to the same family as periwinkle and frangipani", "Has milky latex in its stems"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTxA2cRxl0SwHQj9GYhLyiYGpUdNx13rpCQ&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Blue Pea Vine",
+    "scientific_name": "Clitoria ternatea",
+    "family": "Fabaceae",
+    "lifespan": "Perennial",
+    "native_to": "Tropical Asia",
+    "height": "2–3 meters",
+    "trunk": "Slender herbaceous twining stem",
+    "leaves": "Pinnate with 5–7 leaflets",
+    "fruit": "Flat linear pods with several seeds",
+    "parts_uses": {
+      "Flowers": "Used as natural food colorant and in herbal teas",
+      "Leaves": "Traditional medicine",
+      "Seeds": "Mild laxative"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Fertile, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Thailand", "Indonesia"],
+    "importance": {
+      "nutrition": "Flowers rich in antioxidants",
+      "economic": "Food colorant and herbal tea industry",
+      "cultural": "Sacred plant in some Indian traditions"
+    },
+    "fun_facts": ["Used to make blue rice in Thailand", "Flower changes color with pH when used as a tea"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPrE3Lddmso54hOUtN_w3xSEXYOUagB4YYA&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Cypress Vine",
+    "scientific_name": "Ipomoea quamoclit",
+    "family": "Convolvulaceae",
+    "lifespan": "Annual",
+    "native_to": "Tropical America",
+    "height": "3–6 meters",
+    "trunk": "Slender twining herbaceous stems",
+    "leaves": "Finely divided feathery leaves",
+    "fruit": "Capsule containing 2–4 seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, attracts pollinators",
+      "Leaves": "Occasionally used in folk medicine"
+    },
+    "growing_conditions": {
+      "climate": "Warm tropical to subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Sandy loam, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "India", "Philippines"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Valuable ornamental climber",
+      "cultural": "Planted near fences and trellises"
+    },
+    "fun_facts": ["Flowers open in the morning and close by evening", "Favored by hummingbirds and butterflies"],
+    "image_url": "https://m.media-amazon.com/images/I/71ame7akHAL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Morning Glory",
+    "scientific_name": "Ipomoea purpurea",
+    "family": "Convolvulaceae",
+    "lifespan": "Annual",
+    "native_to": "Mexico and Central America",
+    "height": "2–4 meters",
+    "trunk": "Slender, twining, herbaceous stem",
+    "leaves": "Heart-shaped green leaves",
+    "fruit": "Capsules with black seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental",
+      "Seeds": "Traditional medicine in small amounts"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate and tropical",
+      "temperature": "18–28°C",
+      "rainfall": "700–1200 mm",
+      "soil": "Well-drained sandy or loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "USA", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Important ornamental garden climber",
+      "cultural": "Symbol of love and affection in some cultures"
+    },
+    "fun_facts": ["Flowers open early morning and fade by noon", "Attracts bees and butterflies"],
+    "image_url": "https://www.almanac.com/sites/default/files/users/AlmanacStaffArchive/morning-glory-purple.jpg"
+  },
+  {
+    "id": 4,
+    "common_name": "Hyacinth Bean",
+    "scientific_name": "Lablab purpureus",
+    "family": "Fabaceae",
+    "lifespan": "Perennial (grown as annual in temperate regions)",
+    "native_to": "Africa",
+    "height": "3–6 meters",
+    "trunk": "Twining herbaceous stems",
+    "leaves": "Trifoliate green leaves with purple tinge",
+    "fruit": "Flat purple pods with seeds",
+    "parts_uses": {
+      "Pods": "Cooked as vegetable",
+      "Seeds": "Used in curries after soaking",
+      "Leaves": "Fodder and traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Fertile, loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "Nigeria"],
+    "importance": {
+      "nutrition": "Rich in protein, iron, and dietary fiber",
+      "economic": "Food and fodder crop",
+      "cultural": "Traditional crop in India and Africa"
+    },
+    "fun_facts": ["One of the oldest cultivated legumes", "Flowers are fragrant and attract pollinators"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoOYrXLFVDskuGsp3w7g0_67fO6ycPeg-CkQ&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Velvet Bean",
+    "scientific_name": "Mucuna pruriens",
+    "family": "Fabaceae",
+    "lifespan": "Annual or short-lived perennial",
+    "native_to": "Tropical Asia and Africa",
+    "height": "3–15 meters",
+    "trunk": "Strong twining stems with hairy surface",
+    "leaves": "Trifoliate with ovate green leaflets",
+    "fruit": "Pod covered with itchy hairs containing seeds",
+    "parts_uses": {
+      "Seeds": "Source of L-DOPA for Parkinson’s treatment",
+      "Pods": "Used in traditional medicine",
+      "Leaves": "Fodder for cattle"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "22–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nigeria", "Brazil"],
+    "importance": {
+      "nutrition": "High protein legume",
+      "economic": "Medicinal and fodder uses",
+      "cultural": "Used in Ayurveda for nervous disorders"
+    },
+    "fun_facts": ["Seeds are used in Ayurvedic medicine", "Pods cause severe itching when touched"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdip-90nPFSwwIWBGhPFHAbfgShY3hRQ70bw&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Scarlet Runner Bean",
+    "scientific_name": "Phaseolus coccineus",
+    "family": "Fabaceae",
+    "lifespan": "Perennial (grown as annual)",
+    "native_to": "Central America",
+    "height": "3–5 meters",
+    "trunk": "Twining stems with herbaceous base",
+    "leaves": "Trifoliate green leaves",
+    "fruit": "Pods containing edible seeds",
+    "parts_uses": {
+      "Pods": "Cooked as vegetable",
+      "Seeds": "Rich in protein and starch",
+      "Flowers": "Ornamental and edible"
+    },
+    "growing_conditions": {
+      "climate": "Cool to warm temperate",
+      "temperature": "15–25°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Rich, well-drained loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "UK", "Poland"],
+    "importance": {
+      "nutrition": "Good protein and carbohydrate source",
+      "economic": "Food crop and ornamental plant",
+      "cultural": "Popular in European gardens"
+    },
+    "fun_facts": ["Attracts hummingbirds", "Flowers are bright red and highly ornamental"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThrl_8i4YNaW5a2ApmPNbs78yTonO9akayVw&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Wild Yam",
+    "scientific_name": "Dioscorea villosa",
+    "family": "Dioscoreaceae",
+    "lifespan": "Perennial",
+    "native_to": "North America",
+    "height": "2–6 meters",
+    "trunk": "Slender, twining vine with herbaceous stem",
+    "leaves": "Heart-shaped green leaves",
+    "fruit": "Winged capsule",
+    "parts_uses": {
+      "Roots": "Used in herbal medicine",
+      "Leaves": "Occasionally used in remedies"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "15–28°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Moist, loamy soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["USA", "Canada", "Mexico"],
+    "importance": {
+      "nutrition": "Roots contain steroidal compounds",
+      "economic": "Herbal supplement industry",
+      "cultural": "Traditional Native American medicine"
+    },
+    "fun_facts": ["Roots were once studied for contraceptive drugs", "Twines to the left unlike many vines"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcbRAPgyRhgLwnSmpFanhTGpDEZgdiZD6UrA&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Bitter Gourd Vine",
+    "scientific_name": "Momordica charantia",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "Africa and Asia",
+    "height": "2–5 meters",
+    "trunk": "Slender, twining vine with ridged stem",
+    "leaves": "Deeply lobed green leaves",
+    "fruit": "Green warty bitter fruits",
+    "parts_uses": {
+      "Fruits": "Cooked as vegetable, used in medicine",
+      "Leaves": "Used in traditional remedies",
+      "Seeds": "Medicinal oils"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "22–32°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Fertile, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Philippines"],
+    "importance": {
+      "nutrition": "Rich in vitamin C, iron, and antioxidants",
+      "economic": "Widely cultivated vegetable crop",
+      "cultural": "Traditional in Asian diets"
+    },
+    "fun_facts": ["Fruits are extremely bitter but medicinal", "Used in Ayurveda and Chinese medicine for diabetes"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYgGkKdSCkraz4m4r-uAUWi1VOivtGIv14Q&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Bottle Gourd",
+    "scientific_name": "Lagenaria siceraria",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "Africa",
+    "height": "2–5 meters",
+    "trunk": "Twining vine with soft hairy stem",
+    "leaves": "Broad, heart-shaped green leaves",
+    "fruit": "Green bottle-shaped gourds",
+    "parts_uses": {
+      "Fruits": "Cooked as vegetable",
+      "Seeds": "Edible oil source",
+      "Shell": "Used for making utensils and musical instruments"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "China"],
+    "importance": {
+      "nutrition": "Low calorie, rich in water content",
+      "economic": "Vegetable and craft uses",
+      "cultural": "Used for making traditional instruments like sitar bodies"
+    },
+    "fun_facts": ["Fruits can be shaped into utensils when dried", "One of the first domesticated plants"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbC0ntZ8VBimlUYyADnCQLdvwT_ZGMZUqqnA&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Passionflower",
+    "scientific_name": "Passiflora edulis",
+    "family": "Passifloraceae",
+    "lifespan": "Perennial",
+    "native_to": "South America",
+    "height": "5–10 meters",
+    "trunk": "Woody, twining vine with tendrils",
+    "leaves": "Lobed green leaves",
+    "fruit": "Round purple or yellow edible fruit",
+    "parts_uses": {
+      "Fruits": "Eaten fresh or in juices",
+      "Leaves": "Used in herbal teas",
+      "Flowers": "Medicinal uses for relaxation"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Fertile, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "Colombia", "India"],
+    "importance": {
+      "nutrition": "Rich in vitamin C, fiber, and antioxidants",
+      "economic": "Fruit juice and herbal industries",
+      "cultural": "Symbolic in Christian iconography"
+    },
+    "fun_facts": ["Flowers have unique structures symbolizing the Passion of Christ", "Pollinated by bees and hummingbirds"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7NakUjaBUBD_nA17vLmpJBuswdi83p2oC_A&s"
+  },
+  {
+    "id": 11,
+    "common_name": "Sweet Potato Vine",
+    "scientific_name": "Ipomoea batatas",
+    "family": "Convolvulaceae",
+    "lifespan": "Perennial (grown as annual)",
+    "native_to": "Central and South America",
+    "height": "1–3 meters",
+    "trunk": "Twining and trailing herbaceous stems",
+    "leaves": "Variable, heart-shaped or lobed leaves",
+    "fruit": "Capsules with seeds (rare in cultivation)",
+    "parts_uses": {
+      "Roots": "Staple food, rich in starch",
+      "Leaves": "Cooked as leafy vegetable",
+      "Stems": "Used as fodder"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–32°C",
+      "rainfall": "750–1500 mm",
+      "soil": "Light, sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "India", "Nigeria"],
+    "importance": {
+      "nutrition": "Rich in carbohydrates, vitamin A, and fiber",
+      "economic": "Staple food crop worldwide",
+      "cultural": "Important in African and Asian cuisines"
+    },
+    "fun_facts": ["Leaves are edible and highly nutritious", "China produces over 60% of the world’s sweet potatoes"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFthpEXGykg_m7Y5f578F65vYnozTt2hCgJQ&s"
+  },
+  {
+    "id": 12,
+    "common_name": "Scarlet Runner Bean",
+    "scientific_name": "Phaseolus coccineus",
+    "family": "Fabaceae",
+    "lifespan": "Perennial (grown as annual in temperate regions)",
+    "native_to": "Central America",
+    "height": "3–4 meters",
+    "trunk": "Herbaceous, twining stems",
+    "leaves": "Trifoliate, broad green leaves",
+    "fruit": "Long green pods with edible beans",
+    "parts_uses": {
+      "Pods": "Consumed as green beans",
+      "Seeds": "Cooked as pulses",
+      "Flowers": "Occasionally used in salads"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "15–25°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Moist, fertile, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "USA", "UK"],
+    "importance": {
+      "nutrition": "Rich in protein, fiber, and vitamins",
+      "economic": "Cultivated as vegetable and ornamental",
+      "cultural": "Traditional staple crop in Central America"
+    },
+    "fun_facts": ["Flowers are bright red and highly ornamental", "Beans must be cooked to remove toxins"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-8lhgxbAyqZc7ZVA_k4ODnjyEgxRiNiang&s"
+  },
+  {
+    "id": 13,
+    "common_name": "Balloon Vine",
+    "scientific_name": "Cardiospermum halicacabum",
+    "family": "Sapindaceae",
+    "lifespan": "Annual to perennial",
+    "native_to": "Tropical and subtropical regions worldwide",
+    "height": "3–5 meters",
+    "trunk": "Slender, herbaceous twining stems",
+    "leaves": "Compound, deeply lobed leaves",
+    "fruit": "Puffy, balloon-like capsules containing black seeds with a white heart-shaped mark",
+    "parts_uses": {
+      "Leaves": "Used in traditional medicine for joint pain",
+      "Roots": "Anti-inflammatory properties",
+      "Seeds": "Sometimes used in home remedies"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–32°C",
+      "rainfall": "800–2000 mm",
+      "soil": "Moist, sandy loam soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Sri Lanka", "Brazil"],
+    "importance": {
+      "nutrition": "Minor medicinal uses",
+      "economic": "Popular in traditional medicine",
+      "cultural": "Known as 'Heartseed' due to seed markings"
+    },
+    "fun_facts": ["Called 'love-in-a-puff' because of balloon-like fruits", "Seeds have a natural heart-shaped mark"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuD-BsnFCHoxMBPAV3DdoNNXvQ20PXSZ5aiw&s"
+  },
+  {
+    "id": 14,
+    "common_name": "Hyacinth Bean",
+    "scientific_name": "Lablab purpureus",
+    "family": "Fabaceae",
+    "lifespan": "Perennial (often grown as annual)",
+    "native_to": "Africa",
+    "height": "3–6 meters",
+    "trunk": "Woody or semi-woody twining stem",
+    "leaves": "Trifoliate leaves, broad green with purple tint",
+    "fruit": "Flat, purple or green pods containing beans",
+    "parts_uses": {
+      "Pods": "Cooked as vegetable",
+      "Seeds": "Eaten after proper cooking to remove toxins",
+      "Leaves": "Used as fodder"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Fertile loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nigeria", "Bangladesh"],
+    "importance": {
+      "nutrition": "Rich in protein and dietary fiber",
+      "economic": "Food crop and fodder crop",
+      "cultural": "Traditional crop in Africa and Asia"
+    },
+    "fun_facts": ["One of the oldest cultivated legumes", "Pods and seeds vary in color from white to purple"],
+    "image_url": "https://utgardens.tennessee.edu/wp-content/uploads/sites/220/2023/05/hyacinth-bean-scaled.jpeg"
+  },
+  {
+    "id": 15,
+    "common_name": "Purple Yam Vine",
+    "scientific_name": "Dioscorea alata",
+    "family": "Dioscoreaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southeast Asia",
+    "height": "5–10 meters",
+    "trunk": "Twining, herbaceous to woody stems",
+    "leaves": "Heart-shaped, opposite or alternate leaves",
+    "fruit": "Small winged capsules, but mainly grown for underground tubers",
+    "parts_uses": {
+      "Tubers": "Consumed boiled, baked, or processed into desserts",
+      "Leaves": "Occasionally used as fodder"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "21–32°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Philippines", "India", "Indonesia"],
+    "importance": {
+      "nutrition": "Rich in carbohydrates, vitamin C, and anthocyanins",
+      "economic": "Important root crop in Southeast Asia",
+      "cultural": "Used in traditional desserts like Filipino 'ube halaya'"
+    },
+    "fun_facts": ["Known as 'Ube' in the Philippines", "Its purple pigment is a natural antioxidant"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHaLD9JNfkh00Afd1fqI56O58P6Q2mZ7z1OA&s"
+  }
+]
+  

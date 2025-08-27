@@ -1,0 +1,515 @@
+[
+  {
+    "id": 0,
+    "common_name": "Bougainvillea",
+    "scientific_name": "Bougainvillea spectabilis",
+    "family": "Nyctaginaceae",
+    "lifespan": "Perennial",
+    "native_to": "South America (Brazil, Peru, Argentina)",
+    "height": "5–12 meters",
+    "trunk": "Woody stems with sharp thorns",
+    "leaves": "Simple, ovate green leaves",
+    "fruit": "Small, inconspicuous achene",
+    "parts_uses": {
+      "Leaves": "Medicinal use in cough remedies",
+      "Flowers": "Ornamental bracts used in decoration",
+      "Stems": "Used as natural fencing due to thorns"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Well-drained sandy or loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Brazil", "Thailand"],
+    "importance": {
+      "nutrition": "Limited direct nutritional value",
+      "economic": "Widely cultivated as an ornamental plant",
+      "cultural": "Used in gardens, temples, and public spaces"
+    },
+    "fun_facts": ["Bracts are often mistaken for flowers", "Can be trained into hedges or archways"],
+    "image_url": "https://potsandpetals.in/wp-content/uploads/2023/12/kayatta.jpg"
+  },
+  {
+    "id": 1,
+    "common_name": "Rose",
+    "scientific_name": "Rosa indica",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Asia",
+    "height": "1–6 meters (climbing varieties)",
+    "trunk": "Woody stem with sharp curved thorns",
+    "leaves": "Compound, serrated leaflets",
+    "fruit": "Rose hip (berry-like)",
+    "parts_uses": {
+      "Flowers": "Used in perfumes, decorations, and garlands",
+      "Petals": "Processed into rose water and gulkand",
+      "Fruits": "Source of vitamin C"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "15–28°C",
+      "rainfall": "800–1200 mm",
+      "soil": "Loamy, fertile, well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Bulgaria", "Turkey"],
+    "importance": {
+      "nutrition": "Rose hips are rich in vitamin C",
+      "economic": "High value in floriculture and cosmetics",
+      "cultural": "Symbol of love and beauty in many cultures"
+    },
+    "fun_facts": ["There are over 300 species of roses", "The oldest fossilized rose is 35 million years old"],
+    "image_url": "https://images.unsplash.com/photo-1586082207282-3dcb61d25ebd?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZSUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 2,
+    "common_name": "Blackberry",
+    "scientific_name": "Rubus fruticosus",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe",
+    "height": "2–5 meters",
+    "trunk": "Arching stems with curved prickles (hooks)",
+    "leaves": "Compound, serrated green leaves",
+    "fruit": "Aggregate drupelets (blackberry)",
+    "parts_uses": {
+      "Fruits": "Consumed fresh or processed into jams, juices",
+      "Leaves": "Used in traditional teas",
+      "Stems": "Occasionally used in weaving"
+    },
+    "growing_conditions": {
+      "climate": "Temperate regions",
+      "temperature": "10–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist, well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["UK", "USA", "Germany"],
+    "importance": {
+      "nutrition": "Rich in vitamin C, K, fiber, and antioxidants",
+      "economic": "Cultivated for berries worldwide",
+      "cultural": "Common in folklore and countryside hedges"
+    },
+    "fun_facts": ["Can form dense thickets known as brambles", "A single blackberry is made up of 50–100 drupelets"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPPf6mgy-g5TfyvLiWRjyXOHkYNYPoZ6opMQ&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Cat's Claw Creeper",
+    "scientific_name": "Dolichandra unguis-cati",
+    "family": "Bignoniaceae",
+    "lifespan": "Perennial",
+    "native_to": "Central and South America",
+    "height": "5–15 meters",
+    "trunk": "Woody, slender stems with claw-like hooks",
+    "leaves": "Opposite, compound leaves with claw-like tendrils",
+    "fruit": "Long, slender seed pods",
+    "parts_uses": {
+      "Roots": "Used in folk medicine",
+      "Stems": "Climbs rapidly and used as natural fencing",
+      "Leaves": "Some medicinal properties"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–32°C",
+      "rainfall": "800–2000 mm",
+      "soil": "Adaptable, prefers sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "India", "Australia"],
+    "importance": {
+      "nutrition": "Not edible, mainly ornamental/medicinal",
+      "economic": "Used as ground cover and climber",
+      "cultural": "Known for aggressive growth and yellow flowers"
+    },
+    "fun_facts": ["Called 'Cat’s claw' because of its climbing hooks", "Considered invasive in Australia"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwTp5bosIDCy2Uv327ELJW94dsp26-9P9lg&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Himalayan Blackberry",
+    "scientific_name": "Rubus armeniacus",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Western Asia, Europe",
+    "height": "3–6 meters",
+    "trunk": "Arching woody stems with curved prickles",
+    "leaves": "Palmately compound with serrated edges",
+    "fruit": "Large black aggregate drupelets",
+    "parts_uses": {
+      "Fruits": "Eaten fresh, jams, pies, and wines",
+      "Leaves": "Traditional medicinal teas",
+      "Stems": "Used in basket weaving"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–25°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Well-drained fertile loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["USA", "UK", "Germany"],
+    "importance": {
+      "nutrition": "High in vitamins C and K, fiber, and antioxidants",
+      "economic": "Important commercial berry crop",
+      "cultural": "Traditional hedgerow plant in Europe"
+    },
+    "fun_facts": ["Known as one of the most invasive species in the USA", "Produces berries for over 20 years"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYnJWfXl5yA3hIqA_05ok_v-s98I3o54rWpA&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Climbing Rose",
+    "scientific_name": "Rosa multiflora",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "East Asia",
+    "height": "3–5 meters",
+    "trunk": "Woody stem with recurved thorns",
+    "leaves": "Compound, serrated green leaves",
+    "fruit": "Rose hips (small, red)",
+    "parts_uses": {
+      "Flowers": "Ornamental and perfume use",
+      "Leaves": "Used in some herbal teas",
+      "Fruits": "Vitamin-rich hips used in syrups"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "12–28°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Fertile loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "Japan", "India"],
+    "importance": {
+      "nutrition": "Rose hips contain vitamin C",
+      "economic": "Widely cultivated in floriculture",
+      "cultural": "Popular in gardens and wedding decorations"
+    },
+    "fun_facts": ["Used as rootstock for grafting roses", "Can be invasive in some countries"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_j9xzhqTKJW7fkS3JijFsDCMMa2jp3xKYw&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Wild Raspberry",
+    "scientific_name": "Rubus idaeus",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe and Northern Asia",
+    "height": "1.5–3 meters",
+    "trunk": "Slender canes with hooked thorns",
+    "leaves": "Pinnately compound with serrated leaflets",
+    "fruit": "Aggregate drupelets (raspberry)",
+    "parts_uses": {
+      "Fruits": "Eaten fresh, processed into jams, jellies",
+      "Leaves": "Medicinal teas for digestive health",
+      "Roots": "Used in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "12–25°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Well-drained fertile soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Russia", "Poland", "USA"],
+    "importance": {
+      "nutrition": "Rich in antioxidants, vitamins C and K",
+      "economic": "Commercial berry crop",
+      "cultural": "Symbol of summer harvest in Europe"
+    },
+    "fun_facts": ["Raspberry plants live for decades", "Each drupelet in raspberry is a separate fruit"],
+    "image_url": "https://www.thespruce.com/thmb/2aDNQEnEM8SBtjzitTGXF0VVqHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/growing-wild-raspberry-bushes-5076279-hero-cb9ac15409154674a57d48e80829cc42.jpg"
+  },
+  {
+    "id": 7,
+    "common_name": "Wild Rose",
+    "scientific_name": "Rosa canina",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe, Northwest Africa, West Asia",
+    "height": "2–5 meters",
+    "trunk": "Woody stems with strong recurved thorns",
+    "leaves": "Compound leaves with serrated leaflets",
+    "fruit": "Rose hips (red-orange)",
+    "parts_uses": {
+      "Flowers": "Ornamental, fragrance use",
+      "Fruits": "Rose hips used in jams, teas, syrups",
+      "Leaves": "Traditional medicinal use"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Calcareous loam soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["UK", "Germany", "France"],
+    "importance": {
+      "nutrition": "Rose hips high in vitamin C",
+      "economic": "Used in natural health products",
+      "cultural": "Symbol of love and folklore in Europe"
+    },
+    "fun_facts": ["Called 'Dog Rose'", "Used in medieval Europe against rabies"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc22v3ii_u6H4bBwAGIUw9-3vQ8t9d25UFA&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Himalayan Climbing Rose",
+    "scientific_name": "Rosa brunonii",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Himalayan regions",
+    "height": "5–10 meters",
+    "trunk": "Woody with strong hooked thorns",
+    "leaves": "Compound pinnate leaves",
+    "fruit": "Rose hips (orange to red)",
+    "parts_uses": {
+      "Flowers": "Ornamental and religious use",
+      "Fruits": "Vitamin-rich hips used in jams",
+      "Leaves": "Traditional medicinal applications"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "12–25°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Bhutan"],
+    "importance": {
+      "nutrition": "Rose hips rich in antioxidants",
+      "economic": "Locally cultivated for ornamental and medicinal value",
+      "cultural": "Popular in Himalayan gardens"
+    },
+    "fun_facts": ["Native to high altitudes", "Strong fragrance loved in local traditions"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDg5ltUHKiPKBJbF1R8lwTiKNTAKoi1BKZw&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Gooseberry",
+    "scientific_name": "Ribes uva-crispa",
+    "family": "Grossulariaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe, North Africa, West Asia",
+    "height": "1–3 meters",
+    "trunk": "Woody with spiny shoots",
+    "leaves": "Lobed green leaves",
+    "fruit": "Small green to red berries",
+    "parts_uses": {
+      "Fruits": "Consumed fresh, in pies, jams, syrups",
+      "Leaves": "Medicinal use for digestive issues",
+      "Stems": "Protective hedges"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Moist loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["UK", "Germany", "Russia"],
+    "importance": {
+      "nutrition": "Rich in vitamin C, manganese, fiber",
+      "economic": "Widely grown in Europe",
+      "cultural": "Traditional English garden fruit"
+    },
+    "fun_facts": ["Banned in some US states due to disease host", "Comes in green, yellow, red varieties"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQ17WTCx6kGynVkLun9alMHhftHh00LXm2g&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Wild Blackberry",
+    "scientific_name": "Rubus ulmifolius",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southern Europe, North Africa",
+    "height": "2–4 meters",
+    "trunk": "Woody arching canes with hooked prickles",
+    "leaves": "Compound, serrated leaves",
+    "fruit": "Dark purple-black drupelets",
+    "parts_uses": {
+      "Fruits": "Eaten fresh, processed into jams, syrups",
+      "Leaves": "Used for herbal infusions",
+      "Stems": "Hedging and erosion control"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean, temperate",
+      "temperature": "12–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Spain", "Italy", "Portugal"],
+    "importance": {
+      "nutrition": "Rich in vitamins C and K, fiber",
+      "economic": "Used in winemaking and syrups",
+      "cultural": "Traditional food source in Mediterranean"
+    },
+    "fun_facts": ["Naturalized in many parts of the world", "Forms dense thickets"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAI7e3g1QwDsJRTsOtoWQEZIXGey6YSNnFw&s"
+  },
+  {
+    "id": 11,
+    "common_name": "Bougainvillea peruviana",
+    "scientific_name": "Bougainvillea peruviana",
+    "family": "Nyctaginaceae",
+    "lifespan": "Perennial",
+    "native_to": "South America",
+    "height": "5–12 meters",
+    "trunk": "Woody with sharp thorns",
+    "leaves": "Ovate, green, papery texture",
+    "fruit": "Small, dry achene",
+    "parts_uses": {
+      "Flowers": "Widely used in ornamental gardening",
+      "Leaves": "Minor medicinal uses in folk remedies",
+      "Stems": "Hedging and fencing purposes"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–34°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained sandy or loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "Peru", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Major ornamental export plant",
+      "cultural": "Symbol of beauty and celebration in many regions"
+    },
+    "fun_facts": ["Has natural hybridization ability", "Forms colorful displays with papery bracts"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS5A6V3dPfSqMSO0DhSbZ8i_sk31ZMv56yEQ&s"
+  },
+  {
+    "id": 12,
+    "common_name": "Devil’s Walking Stick",
+    "scientific_name": "Aralia spinosa",
+    "family": "Araliaceae",
+    "lifespan": "Perennial",
+    "native_to": "Eastern North America",
+    "height": "3–10 meters",
+    "trunk": "Woody, armed with stiff prickles",
+    "leaves": "Huge, bipinnate leaves up to 1 meter long",
+    "fruit": "Dark purple to black drupes",
+    "parts_uses": {
+      "Roots": "Used in traditional medicine",
+      "Bark": "Herbal teas in folk medicine",
+      "Fruits": "Attract birds and wildlife"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–28°C",
+      "rainfall": "800–1400 mm",
+      "soil": "Moist, well-drained loamy soils",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["USA", "Canada"],
+    "importance": {
+      "nutrition": "Fruits feed birds and pollinators",
+      "economic": "Limited use as ornamental shrub",
+      "cultural": "Called 'Devil’s Walking Stick' due to its spines"
+    },
+    "fun_facts": ["Considered one of the spiniest plants in North America", "Provides nectar for pollinators"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgWCbNlItcj1mpHfvzXbcphatKIck8GZGi7g&s"
+  },
+  {
+    "id": 13,
+    "common_name": "Wild Raspberry",
+    "scientific_name": "Rubus idaeus",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe and Asia",
+    "height": "1–3 meters",
+    "trunk": "Woody cane with hooked prickles",
+    "leaves": "Compound leaves with serrated edges",
+    "fruit": "Aggregate drupelets (raspberry)",
+    "parts_uses": {
+      "Fruits": "Consumed fresh, in jams, and desserts",
+      "Leaves": "Used in herbal teas",
+      "Roots": "Traditional medicinal applications"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "15–25°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Russia", "Poland", "USA"],
+    "importance": {
+      "nutrition": "High in vitamin C, antioxidants, and fiber",
+      "economic": "Important fruit crop worldwide",
+      "cultural": "Long tradition in European herbal remedies"
+    },
+    "fun_facts": ["Each raspberry is made up of tiny drupelets", "Raspberries belong to the rose family"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qJ66pi5XPwJ3yTqhQbR44ct3Ks82qKoX3Q&s"
+  },
+  {
+    "id": 14,
+    "common_name": "Bougainvillea Glabra",
+    "scientific_name": "Bougainvillea glabra",
+    "family": "Nyctaginaceae",
+    "lifespan": "Perennial",
+    "native_to": "Brazil",
+    "height": "5–10 meters",
+    "trunk": "Woody, thorny stems",
+    "leaves": "Ovate, glossy green leaves",
+    "fruit": "Small, dry achene",
+    "parts_uses": {
+      "Flowers": "Ornamental, used in landscaping",
+      "Leaves": "Minor folk medicinal uses",
+      "Stems": "Trained as living fences"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–34°C",
+      "rainfall": "500–1200 mm",
+      "soil": "Well-drained sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Brazil", "Thailand"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Widely planted ornamental",
+      "cultural": "Commonly used in parks, homes, and city landscapes"
+    },
+    "fun_facts": ["Nicknamed 'paper flower'", "Often used for bonsai"],
+    "image_url": "https://m.media-amazon.com/images/I/61MWPdXJXpL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 15,
+    "common_name": "Bridal Wreath",
+    "scientific_name": "Petrea volubilis",
+    "family": "Verbenaceae",
+    "lifespan": "Perennial",
+    "native_to": "Central and South America",
+    "height": "3–12 meters",
+    "trunk": "Woody stem with rough texture",
+    "leaves": "Opposite, leathery, rough leaves",
+    "fruit": "Small dry drupe",
+    "parts_uses": {
+      "Flowers": "Ornamental, used in garlands and decoration",
+      "Leaves": "Folk medicinal value",
+      "Stems": "Climbing ornamental"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "22–32°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained fertile soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "India", "Brazil"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Valuable ornamental plant",
+      "cultural": "Used as decorative flowering creeper"
+    },
+    "fun_facts": ["Known as 'Queen’s Wreath'", "Flowers resemble wisteria but are tropical"],
+    "image_url": "https://m.media-amazon.com/images/I/617tHGn+zDS.jpg"
+  }
+]
+

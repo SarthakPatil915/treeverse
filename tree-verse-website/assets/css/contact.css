@@ -1,0 +1,165 @@
+/* Contact Page Style  */
+
+/* --- General Page Styling --- */
+.contact-page-container {
+    /* This uses the light green color from your screenshot */
+    background-color: #dbebe3; /* A color close to your screenshot's green */
+    padding: 4rem 2rem;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact-content {
+    padding-top: 80px;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact-content h1 {
+    font-size: 2.5rem;
+    color: #2c5c41; /* A darker green for titles */
+    margin-bottom: 1rem;
+}
+
+.contact-content > p {
+    font-size: 1.1rem;
+    max-width: 800px;
+    margin: 0 auto 3rem auto;
+    line-height: 1.6;
+}
+
+/* --- Main Wrapper for Form and Info --- */
+.contact-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden; /* Ensures border-radius is respected by children */
+    text-align: left;
+}
+
+/* --- Contact Form Styling (Left Side) --- */
+.contact-form {
+    flex: 1; /* Takes up half the space */
+    padding: 2rem;
+    min-width: 300px;
+}
+
+.contact-form h3, .contact-info h3 {
+    font-size: 1.5rem;
+    color: #2c5c41;
+    margin-bottom: 1.5rem;
+    border-left: 4px solid #5d9c7d;
+    padding-left: 10px;
+}
+
+.form-group {
+    margin-bottom: 1.25rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    color: #555;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    box-sizing: border-box; /* Important for padding and width calculation */
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #5d9c7d; /* Highlight focus with a theme color */
+    box-shadow: 0 0 5px rgba(93, 156, 125, 0.5);
+}
+
+.submit-btn {
+    display: block;
+    width: 100%;
+    padding: 0.8rem;
+    background-color: #2c5c41; /* Dark green */
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+    background-color: #1e3e2c; /* Even darker green on hover */
+}
+
+/* --- Contact Info Styling (Right Side) --- */
+.contact-info {
+    flex: 1; /* Takes up the other half */
+    padding: 2rem;
+    background-color: #f4f7f6; /* A very light grey/green tint */
+    min-width: 300px;
+}
+
+.info-list {
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0;
+}
+
+.info-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+}
+
+.info-list i {
+    font-size: 1.5rem;
+    color: #5d9c7d; /* Medium green for icons */
+    width: 40px; /* To ensure text aligns nicely */
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.info-list a {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.info-list a:hover {
+    color: #2c5c41;
+}
+
+.map-container {
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 1.5rem;
+}
+
+/* --- Responsive Design for smaller screens --- */
+@media (max-width: 768px) {
+    .contact-wrapper {
+        flex-direction: column;
+    }
+    .contact-page-container {
+        padding: 2rem 1rem;
+    }
+}
+
+@media (max-width: 780px) {
+
+    .contact-content{
+        padding-top: 180px;
+    }
+}

@@ -1,0 +1,927 @@
+[
+  {
+    "id": 0,
+    "common_name": "Spider Lily",
+    "scientific_name": "Hymenocallis x festalis",
+    "family": "Amaryllidaceae",
+    "lifespan": "Perennial",
+    "native_to": "Tropical Americas",
+    "height": "0.3–0.6 meters",
+    "trunk": "Bulbous base",
+    "leaves": "Strap-like glossy leaves",
+    "fruit": "Capsules with seeds",
+    "parts_uses": {
+      "Bulb": "Ornamental; some cultural uses",
+      "Leaves": "Mulch/groundcover in gardens"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate to tropical",
+      "temperature": "15–30°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Brazil", "Mexico", "India"],
+    "importance": {
+      "nutrition": "Not a food crop",
+      "economic": "Ornamental bulb trade",
+      "cultural": "Used in ceremonial plantings"
+    },
+    "fun_facts": ["Named for its spidery white flowers", "Fragrant at night"],
+    "image_url": "https://m.media-amazon.com/images/I/51DS7hyjB1S._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 1,
+    "common_name": "Lotus",
+    "scientific_name": "Nelumbo nucifera",
+    "family": "Nelumbonaceae",
+    "lifespan": "Perennial aquatic",
+    "native_to": "Asia",
+    "height": "0.5–1.5 meters (leaf stalks above water)",
+    "trunk": "Rhizomatous underwater stem",
+    "leaves": "Large circular leaves",
+    "fruit": "Nut-like seed pods",
+    "parts_uses": {
+      "Seeds": "Edible (lotus seeds)",
+      "Rhizome": "Starchy vegetable",
+      "Flowers": "Ornamental and ceremonial"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate to tropical",
+      "temperature": "20–30°C",
+      "rainfall": "Aquatic",
+      "soil": "Muddy substrate",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Japan"],
+    "importance": {
+      "nutrition": "Seeds and rhizomes are nutritious",
+      "economic": "Culinary and ornamental markets",
+      "cultural": "Sacred in many Asian cultures"
+    },
+    "fun_facts": ["Seeds can remain viable for centuries", "Leaves repel water (lotus effect)"],
+    "image_url": "https://m.media-amazon.com/images/I/61xtSilwdmL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "common_name": "Elephant Ear (Colocasia)",
+    "scientific_name": "Colocasia esculenta",
+    "family": "Araceae",
+    "lifespan": "Perennial",
+    "native_to": "Southeast Asia",
+    "height": "0.5–1.5 meters",
+    "trunk": "Tuberous corms",
+    "leaves": "Huge heart-shaped leaves",
+    "fruit": "Rarely fruits in cultivation",
+    "parts_uses": {
+      "Corms": "Staple food in many cultures (taro)",
+      "Leaves": "Cooked as leafy vegetable in some cuisines"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "High",
+      "soil": "Moist, rich soils",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["India", "Philippines", "Fiji"],
+    "importance": {
+      "nutrition": "High in carbohydrates when cooked",
+      "economic": "Food crop and ornamental",
+      "cultural": "Staple in Pacific island diets"
+    },
+    "fun_facts": ["Leaves can reach over 1 meter wide", "Corms must be cooked to remove toxins"],
+    "image_url": "https://m.media-amazon.com/images/I/819W77TeemL.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Heliconia",
+    "scientific_name": "Heliconia spp.",
+    "family": "Heliconiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Central and South America",
+    "height": "0.5–4 meters (species dependent)",
+    "trunk": "Rhizomatous",
+    "leaves": "Large paddle-shaped leaves",
+    "fruit": "Berries",
+    "parts_uses": {
+      "Inflorescences": "Cut flower industry; ornamental",
+      "Rhizomes": "Occasional local uses"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "High",
+      "soil": "Rich, well-drained",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["Colombia", "Costa Rica", "Ecuador"],
+    "importance": {
+      "nutrition": "Not a food crop",
+      "economic": "Important in floriculture",
+      "cultural": "Used in tropical landscaping"
+    },
+    "fun_facts": ["Also called false bird-of-paradise", "Bracts are often brightly colored"],
+    "image_url": "https://tropics-plants.info/Library/Psittacorum.jpg"
+  },
+  {
+    "id": 4,
+    "common_name": "Costus Spicatus (Red Button Ginger)",
+    "scientific_name": "Costus spicatus",
+    "family": "Costaceae",
+    "lifespan": "Perennial",
+    "native_to": "Caribbean and Americas",
+    "height": "1–2 meters",
+    "trunk": "Short rhizomes",
+    "leaves": "Spiral arrangement, lanceolate leaves",
+    "fruit": "Capsules",
+    "parts_uses": {
+      "Leaves/Roots": "Traditional medicinal uses",
+      "Flowers": "Ornamental"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "18–28°C",
+      "rainfall": "Moderate to high",
+      "soil": "Rich, moist",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Cuba", "Jamaica", "Brazil"],
+    "importance": {
+      "nutrition": "Not typically eaten",
+      "economic": "Nursery trade",
+      "cultural": "Used in traditional remedies"
+    },
+    "fun_facts": ["Attracts hummingbirds", "Has spirally arranged leaves"],
+    "image_url": "https://png.pngtree.com/thumb_back/fh260/background/20220630/pngtree-costus-spicatus-gingerlike-herb-with-blooming-flower-summer-beauty-environmental-photo-image_32190256.jpg"
+  },
+  {
+    "id": 5,
+    "common_name": "African Lily",
+    "scientific_name": "Agapanthus africanus",
+    "family": "Amaryllidaceae",
+    "lifespan": "Perennial",
+    "native_to": "South Africa",
+    "height": "0.5–1 meter",
+    "trunk": "Rhizomatous/short bulb",
+    "leaves": "Strap-like basal leaves",
+    "fruit": "Capsules",
+    "parts_uses": {
+      "Flowers": "Ornamental; cut flowers",
+      "Roots": "Occasional medicinal use"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean to temperate",
+      "temperature": "5–25°C",
+      "rainfall": "Low to moderate",
+      "soil": "Well-drained",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["South Africa", "New Zealand", "United Kingdom"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Garden and cut-flower market",
+      "cultural": "Popular ornamental in temperate gardens"
+    },
+    "fun_facts": ["Often used in wedding bouquets", "Produces large spherical flower clusters"],
+    "image_url": "https://m.media-amazon.com/images/I/51ONcofngML._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 6,
+    "common_name": "Spider Plant",
+    "scientific_name": "Chlorophytum comosum",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial (houseplant)",
+    "native_to": "Tropical and Southern Africa",
+    "height": "0.2–0.5 meters",
+    "trunk": "No trunk; fibrous rootstock",
+    "leaves": "Arching, narrow leaves",
+    "fruit": "Small capsules",
+    "parts_uses": {
+      "Leaves": "Ornamental; air-purifying indoor plant",
+      "Plantlets": "Easily propagated"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to temperate indoors",
+      "temperature": "15–25°C",
+      "rainfall": "Moderate (watering needed)",
+      "soil": "Well-draining potting mix",
+      "sunlight": "Bright indirect light"
+    },
+    "major_countries": ["South Africa", "United Kingdom", "United States"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Popular houseplant market",
+      "cultural": "Common gift plant"
+    },
+    "fun_facts": ["Known for producing many baby plantlets", "Tolerates a wide range of conditions"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hierbabuena_0611_Revised.jpg"
+  },
+  {
+    "id": 7,
+    "common_name": "Canna Lily",
+    "scientific_name": "Canna indica",
+    "family": "Cannaceae",
+    "lifespan": "Perennial (tuberous)",
+    "native_to": "Central and South America",
+    "height": "0.5–2 meters",
+    "trunk": "Tuberous rhizomes",
+    "leaves": "Large pleated leaves",
+    "fruit": "Capsules",
+    "parts_uses": {
+      "Rhizomes": "Edible starch in some cultures",
+      "Leaves/Flowers": "Ornamental and wrapping food"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to warm temperate",
+      "temperature": "15–32°C",
+      "rainfall": "Moderate to high",
+      "soil": "Moist, fertile",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Brazil", "USA"],
+    "importance": {
+      "nutrition": "Rhizomes provide starch",
+      "economic": "Ornamental and edible uses",
+      "cultural": "Used in traditional foods and crafts"
+    },
+    "fun_facts": ["Some species used for starch production", "Vivid foliage used in tropical gardens"],
+    "image_url": "https://m.media-amazon.com/images/I/71z0mfPJ7HL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 8,
+    "common_name": "Bird of Paradise",
+    "scientific_name": "Strelitzia reginae",
+    "family": "Strelitziaceae",
+    "lifespan": "Perennial",
+    "native_to": "South Africa",
+    "height": "0.5–1.5 meters",
+    "trunk": "Clumping rhizomes",
+    "leaves": "Large banana-like leaves",
+    "fruit": "Woody capsules",
+    "parts_uses": {
+      "Flowers": "High-value cut flowers",
+      "Leaves": "Ornamental foliage"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical",
+      "temperature": "10–30°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["South Africa", "Netherlands", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Significant in floriculture",
+      "cultural": "Iconic ornamental plant" 
+    },
+    "fun_facts": ["Flowers resemble a bird in flight", "Attracts sunbirds and hummingbirds"],
+    "image_url": "https://www.mapro.com/cdn/shop/articles/bird-of-paradise-mapro.jpg?v=1739768854"
+  },
+  {
+    "id": 9,
+    "common_name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "family": "Zingiberaceae",
+    "lifespan": "Perennial (rhizome)",
+    "native_to": "Southeast Asia",
+    "height": "0.5–1 meter",
+    "trunk": "Underground rhizome",
+    "leaves": "Narrow lanceolate leaves",
+    "fruit": "Fibrous capsules (rarely mature)",
+    "parts_uses": {
+      "Rhizome": "Culinary spice and medicinal uses",
+      "Leaves": "Occasional flavoring"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "High",
+      "soil": "Rich, well-drained",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "China", "Indonesia"],
+    "importance": {
+      "nutrition": "Used for flavor and health benefits",
+      "economic": "Major spice crop",
+      "cultural": "Important in Asian cuisines and medicine"
+    },
+    "fun_facts": ["Used for thousands of years", "Also grown for ornamental ginger flowers"],
+    "image_url": "https://cdn.shopify.com/s/files/1/0148/1945/9126/files/Fresh_Ginger_1024x1024.jpg?v=1600439558"
+  },
+  {
+    "id": 10,
+    "common_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "lifespan": "Perennial (rhizome)",
+    "native_to": "South Asia",
+    "height": "0.5–1 meter",
+    "trunk": "Rhizome",
+    "leaves": "Large, elongated leaves",
+    "fruit": "Dry capsules",
+    "parts_uses": {
+      "Rhizome": "Spice, dye, traditional medicine",
+      "Leaves": "Wrapping food"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "Moderate to high",
+      "soil": "Fertile, well-drained",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "Bangladesh", "Indonesia"],
+    "importance": {
+      "nutrition": "Contains curcumin; used as spice",
+      "economic": "Important agricultural crop",
+      "cultural": "Key in South Asian cuisine and rituals"
+    },
+    "fun_facts": ["Natural yellow dye", "Used in many cultural ceremonies"],
+    "image_url": "https://m.media-amazon.com/images/I/51FbM9yVtHL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "common_name": "Lavender",
+    "scientific_name": "Lavandula angustifolia",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Mediterranean",
+    "height": "0.3–0.9 meters",
+    "trunk": "Woody base",
+    "leaves": "Fragrant grey-green leaves",
+    "fruit": "Small nutlets",
+    "parts_uses": {
+      "Flowers": "Essential oils, sachets, ornamental",
+      "Leaves": "Aromatic uses"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean",
+      "temperature": "6–30°C",
+      "rainfall": "Low to moderate",
+      "soil": "Well-drained, alkaline",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["France", "United Kingdom", "Australia"],
+    "importance": {
+      "nutrition": "Used in small amounts in cuisine",
+      "economic": "Aromatherapy and cosmetic industries",
+      "cultural": "Symbolic in European gardens"
+    },
+    "fun_facts": ["Popular in perfumes", "Attracts pollinators"],
+    "image_url": "https://m.media-amazon.com/images/I/51hMo++CUuL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 12,
+    "common_name": "Rosemary",
+    "scientific_name": "Rosmarinus officinalis",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial shrub",
+    "native_to": "Mediterranean",
+    "height": "0.5–2 meters",
+    "trunk": "Woody stems",
+    "leaves": "Needle-like aromatic leaves",
+    "fruit": "Small nutlets",
+    "parts_uses": {
+      "Leaves": "Culinary herb and medicinal uses",
+      "Essential_oil": "Aromatherapy"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean",
+      "temperature": "-5–30°C",
+      "rainfall": "Low to moderate",
+      "soil": "Well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Spain", "Italy", "United States"],
+    "importance": {
+      "nutrition": "Flavoring herb",
+      "economic": "Herb and essential oil production",
+      "cultural": "Used in cooking and rituals"
+    },
+    "fun_facts": ["Associated with memory in folklore", "Drought tolerant once established"],
+    "image_url": "https://m.media-amazon.com/images/I/71gprMwlHlL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 13,
+    "common_name": "Mint",
+    "scientific_name": "Mentha spp.",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Temperate regions of Europe and Asia",
+    "height": "0.2–0.9 meters",
+    "trunk": "Spreading rhizomes",
+    "leaves": "Aromatic opposite leaves",
+    "fruit": "Small nutlets",
+    "parts_uses": {
+      "Leaves": "Culinary, medicinal, teas",
+      "Oil": "Flavoring and aromatherapy"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "10–30°C",
+      "rainfall": "Moderate",
+      "soil": "Moist, fertile",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["United States", "India", "Egypt"],
+    "importance": {
+      "nutrition": "Used as flavor and in beverages",
+      "economic": "Essential oil production",
+      "cultural": "Common in cuisines worldwide"
+    },
+    "fun_facts": ["Spreads aggressively", "Many hybrid species exist"],
+    "image_url": "https://theaffordableorganicstore.com/cdn/shop/files/1713181721.jpg?v=1744630667"
+  },
+  {
+    "id": 14,
+    "common_name": "Lemongrass",
+    "scientific_name": "Cymbopogon citratus",
+    "family": "Poaceae",
+    "lifespan": "Perennial in tropics",
+    "native_to": "Southeast Asia",
+    "height": "0.5–1.5 meters",
+    "trunk": "Clumping grass",
+    "leaves": "Long fragrant blades",
+    "fruit": "Grass-like seeds",
+    "parts_uses": {
+      "Leaves": "Culinary flavoring and tea",
+      "Oil": "Lemongrass oil for aromatherapy"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Thailand", "Indonesia"],
+    "importance": {
+      "nutrition": "Used in teas and cooking",
+      "economic": "Essential oil market",
+      "cultural": "Common in Southeast Asian cuisines" 
+    },
+    "fun_facts": ["Repels mosquitoes naturally", "Easy to grow from divisions"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/YosriNov04Pokok_Serai.JPG/250px-YosriNov04Pokok_Serai.JPG"
+  },
+  {
+    "id": 15,
+    "common_name": "Sage",
+    "scientific_name": "Salvia officinalis",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Mediterranean",
+    "height": "0.4–0.8 meters",
+    "trunk": "Woody base",
+    "leaves": "Grey-green aromatic leaves",
+    "fruit": "Nutlets",
+    "parts_uses": {
+      "Leaves": "Culinary and medicinal uses",
+      "Essential_oil": "Aromatherapy"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean",
+      "temperature": "-5–30°C",
+      "rainfall": "Low to moderate",
+      "soil": "Well-drained, rocky",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Italy", "France", "United States"],
+    "importance": {
+      "nutrition": "Used sparingly in cooking",
+      "economic": "Herb market",
+      "cultural": "Used in traditional medicine and ceremonies"
+    },
+    "fun_facts": ["Name derives from Latin 'salvere' (to heal)", "Attracts pollinators"],
+    "image_url": "https://cdn.britannica.com/10/198810-050-A2364A2D/sage-plant.jpg"
+  },
+  {
+    "id": 16,
+    "common_name": "Oregano",
+    "scientific_name": "Origanum vulgare",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe and the Mediterranean",
+    "height": "0.2–0.8 meters",
+    "trunk": "Woody base",
+    "leaves": "Aromatic opposite leaves",
+    "fruit": "Nutlets",
+    "parts_uses": {
+      "Leaves": "Culinary herb (pizza, sauces)",
+      "Oil": "Medicinal and flavoring"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean",
+      "temperature": "-10–30°C",
+      "rainfall": "Low to moderate",
+      "soil": "Well-drained, lean soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Greece", "Turkey", "Italy"],
+    "importance": {
+      "nutrition": "Flavoring herb",
+      "economic": "Culinary herb production",
+      "cultural": "Staple in Mediterranean cooking"
+    },
+    "fun_facts": ["Oregano oil has antimicrobial properties", "Many cultivars exist"],
+    "image_url": "https://i.herbalreality.com/wp-content/uploads/2023/10/18162340/Oregano-Origanum-vulgare-600x600.jpeg"
+  },
+  {
+    "id": 17,
+    "common_name": "Basil (Perennial types)",
+    "scientific_name": "Ocimum basilicum (and perennial Ocimum spp.)",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial in warm climates",
+    "native_to": "India to Iran",
+    "height": "0.3–1 meter",
+    "trunk": "Soft herbaceous stems",
+    "leaves": "Aromatic opposite leaves",
+    "fruit": "Small nutlets",
+    "parts_uses": {
+      "Leaves": "Culinary (pesto, seasoning)",
+      "Oil": "Essential oil uses"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate to tropical",
+      "temperature": "15–30°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Italy", "Thailand"],
+    "importance": {
+      "nutrition": "Rich in aroma compounds",
+      "economic": "Culinary herb market",
+      "cultural": "Used in many cuisines and rituals"
+    },
+    "fun_facts": ["Over 60 varieties exist", "Sweet basil is an annual in cold climates"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Basil-Basilico-Ocimum_basilicum-albahaca.jpg"
+  },
+  {
+    "id": 18,
+    "common_name": "Aglaonema",
+    "scientific_name": "Aglaonema spp.",
+    "family": "Araceae",
+    "lifespan": "Perennial (houseplant)",
+    "native_to": "Tropical Asia",
+    "height": "0.3–1 meter",
+    "trunk": "Short rhizome",
+    "leaves": "Variegated glossy leaves",
+    "fruit": "Berries",
+    "parts_uses": {
+      "Leaves": "Indoor ornamental",
+      "Stems": "Air-purifying houseplant"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "18–28°C",
+      "rainfall": "Moderate",
+      "soil": "Well-draining potting mix",
+      "sunlight": "Low to bright indirect light"
+    },
+    "major_countries": ["Thailand", "Malaysia", "China"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Popular indoor plant industry",
+      "cultural": "Common in offices and homes" 
+    },
+    "fun_facts": ["Tolerates low light well", "Many cultivars with striking patterns"],
+    "image_url": "https://m.media-amazon.com/images/I/51xd9hyLfTS._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 19,
+    "common_name": "Peace Lily",
+    "scientific_name": "Spathiphyllum spp.",
+    "family": "Araceae",
+    "lifespan": "Perennial (houseplant)",
+    "native_to": "Tropical Americas and Asia",
+    "height": "0.3–1.2 meters",
+    "trunk": "Clumping rhizomes",
+    "leaves": "Glossy lanceolate leaves",
+    "fruit": "Berries",
+    "parts_uses": {
+      "Leaves/Flowers": "Indoor ornamental; air-purifying qualities"
+    },
+    "growing_conditions": {
+      "climate": "Tropical indoors",
+      "temperature": "18–28°C",
+      "rainfall": "Moderate watering needed",
+      "soil": "Moist, well-draining",
+      "sunlight": "Low to bright indirect light"
+    },
+    "major_countries": ["Colombia", "USA", "Netherlands"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Houseplant market",
+      "cultural": "Popular gift plant" 
+    },
+    "fun_facts": ["Produces white spathes that resemble flowers", "Excellent for low-light rooms"],
+    "image_url": "https://m.media-amazon.com/images/I/61N5G2LbIoL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 20,
+    "common_name": "Begonia (Rhizomatous types)",
+    "scientific_name": "Begonia spp.",
+    "family": "Begoniaceae",
+    "lifespan": "Perennial",
+    "native_to": "Tropical and subtropical regions",
+    "height": "0.1–0.6 meters",
+    "trunk": "Rhizomes or tubers",
+    "leaves": "Asymmetrical ornamental leaves",
+    "fruit": "Winged capsules",
+    "parts_uses": {
+      "Leaves/Flowers": "Ornamental house and garden plants",
+      "Tuber": "Edible in some species"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to temperate (species dependent)",
+      "temperature": "15–25°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, humus-rich",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Brazil", "China", "Colombia"],
+    "importance": {
+      "nutrition": "Some species have edible tubers",
+      "economic": "Significant ornamental trade",
+      "cultural": "Collected by hobbyists worldwide" 
+    },
+    "fun_facts": ["Huge variety of leaf shapes and colors", "Many are grown as houseplants"],
+    "image_url": "https://m.media-amazon.com/images/I/61ByEkCNbXL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 21,
+    "common_name": "Alpinia (Cardamom/Ornamental gingers)",
+    "scientific_name": "Alpinia spp.",
+    "family": "Zingiberaceae",
+    "lifespan": "Perennial",
+    "native_to": "Asia",
+    "height": "0.5–3 meters",
+    "trunk": "Rhizomatous",
+    "leaves": "Large lanceolate leaves",
+    "fruit": "Capsules or berries",
+    "parts_uses": {
+      "Rhizomes/Seeds": "Spices (cardamom) and ornamental uses",
+      "Flowers": "Cut flower trade"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "18–30°C",
+      "rainfall": "High",
+      "soil": "Moist, fertile",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "Sri Lanka", "Indonesia"],
+    "importance": {
+      "nutrition": "Spice and flavoring",
+      "economic": "Cardamom is a valuable spice",
+      "cultural": "Used in traditional cuisines" 
+    },
+    "fun_facts": ["Some species produce showy inflorescences", "Cardamom is one of the world’s most expensive spices"],
+    "image_url": "https://m.media-amazon.com/images/I/61VcpfuVvxL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 22,
+    "common_name": "Bromeliad",
+    "scientific_name": "Bromeliaceae family (various genera)",
+    "family": "Bromeliaceae",
+    "lifespan": "Perennial",
+    "native_to": "Americas",
+    "height": "0.1–2 meters",
+    "trunk": "Rosette or tank-forming",
+    "leaves": "Stiff rosette leaves that hold water",
+    "fruit": "Berries or capsules",
+    "parts_uses": {
+      "Leaves/Inflorescences": "Ornamental; some edible (pineapple)"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "Moderate to high",
+      "soil": "Well-drained or epiphytic media",
+      "sunlight": "Bright indirect to partial sun"
+    },
+    "major_countries": ["Brazil", "Costa Rica", "USA"],
+    "importance": {
+      "nutrition": "Pineapple is a member with edible fruit",
+      "economic": "Popular ornamental houseplant and cut flowers",
+      "cultural": "Used in tropical landscaping" 
+    },
+    "fun_facts": ["Some bromeliads hold water in leaf tanks", "Include the pineapple genus Ananas"],
+    "image_url": "https://cdn.britannica.com/14/138914-050-D5736E15/Inflorescences-Bromelia.jpg"
+  },
+  {
+    "id": 23,
+    "common_name": "Ornamental Banana",
+    "scientific_name": "Musa spp.",
+    "family": "Musaceae",
+    "lifespan": "Perennial (pseudostem)",
+    "native_to": "Southeast Asia",
+    "height": "1–6 meters (varies)",
+    "trunk": "Pseudostem of leaf bases",
+    "leaves": "Large elongated leaves",
+    "fruit": "Berries (bananas) in edible types",
+    "parts_uses": {
+      "Fruit": "Edible in fruiting varieties",
+      "Leaves": "Wrapping and ornamental uses"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "High",
+      "soil": "Rich, well-drained",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Philippines", "Ecuador"],
+    "importance": {
+      "nutrition": "Major fruit crop for calories and potassium",
+      "economic": "Important commercial crop",
+      "cultural": "Staple in many tropical diets" 
+    },
+    "fun_facts": ["Technically an herb (not a tree)", "Pseudostems die after flowering"],
+    "image_url": "https://mapio.net/images-p/88195175.jpg"
+  },
+  {
+    "id": 24,
+    "common_name": "Liriope (Lilyturf)",
+    "scientific_name": "Liriope muscari",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial",
+    "native_to": "East Asia",
+    "height": "0.2–0.5 meters",
+    "trunk": "Clumping rootstock",
+    "leaves": "Grass-like evergreen leaves",
+    "fruit": "Small berries",
+    "parts_uses": {
+      "Leaves/Roots": "Ornamental groundcover; traditional medicine in some regions"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "-10–30°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["China", "Japan", "United States"],
+    "importance": {
+      "nutrition": "Not a food crop",
+      "economic": "Landscaping industry",
+      "cultural": "Popular ornamental border plant" 
+    },
+    "fun_facts": ["Often used as low-maintenance groundcover", "Produces lavender flower spikes"],
+    "image_url": "https://m.media-amazon.com/images/I/717CscNtMxL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 25,
+    "common_name": "Caladium",
+    "scientific_name": "Caladium bicolor",
+    "family": "Araceae",
+    "lifespan": "Perennial (in warm climates)",
+    "native_to": "South America",
+    "height": "0.2–0.6 meters",
+    "trunk": "Tuberous rhizomes",
+    "leaves": "Colorful heart-shaped leaves",
+    "fruit": "Capsules",
+    "parts_uses": {
+      "Tubers": "Ornamental; some traditional uses",
+      "Leaves": "Foliage interest in shade gardens"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "Moderate",
+      "soil": "Moist, well-drained",
+      "sunlight": "Partial to full shade"
+    },
+    "major_countries": ["Brazil", "Netherlands", "United States"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Valuable ornamental foliage plant",
+      "cultural": "Popular in shaded garden displays" 
+    },
+    "fun_facts": ["Many cultivars with striking patterns", "Leaves can be confused with poisonous Arisaema in some regions"],
+    "image_url": "https://himadriaquatics.b-cdn.net/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-14-at-7.25.36-PM.jpeg"
+  },
+  {
+    "id": 26,
+    "common_name": "Cardinal Flower",
+    "scientific_name": "Lobelia cardinalis",
+    "family": "Campanulaceae",
+    "lifespan": "Perennial",
+    "native_to": "North America",
+    "height": "0.6–1.2 meters",
+    "trunk": "Clumping rootstock",
+    "leaves": "Lanceolate toothed leaves",
+    "fruit": "Capsules",
+    "parts_uses": {
+      "Leaves/Flowers": "Ornamental; historically medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–30°C",
+      "rainfall": "Prefers moist soils",
+      "soil": "Rich, moist",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["United States", "Canada"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Native plant nursery trade",
+      "cultural": "Attracts hummingbirds in native plantings" 
+    },
+    "fun_facts": ["Very attractive to hummingbirds", "Has striking red flowers"],
+    "image_url": "https://m.media-amazon.com/images/I/41zpDdkM42L._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 27,
+    "common_name": "Sedges (Carex spp.)",
+    "scientific_name": "Carex spp.",
+    "family": "Cyperaceae",
+    "lifespan": "Perennial",
+    "native_to": "Worldwide",
+    "height": "0.1–1 meter",
+    "trunk": "Clumping or rhizomatous",
+    "leaves": "Grass-like leaves",
+    "fruit": "Achenes",
+    "parts_uses": {
+      "Leaves/Roots": "Erosion control, ornamental groundcover"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical (species dependent)",
+      "temperature": "Varies widely",
+      "rainfall": "Varies",
+      "soil": "Various, often moist",
+      "sunlight": "Shade to full sun depending on species"
+    },
+    "major_countries": ["Global"],
+    "importance": {
+      "nutrition": "Not food",
+      "economic": "Important in restoration and landscaping",
+      "cultural": "Used in traditional weaving in some cultures" 
+    },
+    "fun_facts": ["Huge genus with many ecological roles", "Valuable for wetland restoration"],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/61fc35559eb62e4b37b4c3f2/67249b0b-af45-47a7-9ca0-79ab999e7ccc/blog-feature-sedge.jpg"
+  },
+  {
+    "id": 28,
+    "common_name": "Ferns (Perennial ornamental ferns)",
+    "scientific_name": "Various genera (Nephrolepis, Pteris, etc.)",
+    "family": "Multiple families",
+    "lifespan": "Perennial",
+    "native_to": "Worldwide",
+    "height": "0.1–3 meters",
+    "trunk": "Rhizomes or rhizomatous crowns",
+    "leaves": "Fronds",
+    "fruit": "Sori (spore clusters)",
+    "parts_uses": {
+      "Fronds": "Ornamental, some edible fiddleheads",
+      "Rhizomes": "Traditional uses in some cultures"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "Varies",
+      "rainfall": "Moderate to high",
+      "soil": "Moist, humus-rich",
+      "sunlight": "Shade to partial shade"
+    },
+    "major_countries": ["Global"],
+    "importance": {
+      "nutrition": "Some species produce edible fiddleheads",
+      "economic": "Horticultural value",
+      "cultural": "Used in traditional medicines and crafts" 
+    },
+    "fun_facts": ["Ferns reproduce via spores, not seeds", "Some are ancient plant lineages"],
+    "image_url": "https://cdn.britannica.com/30/73130-138-917E422E/Ferns-systems-tracheophytes-leaves-water.jpg?w=800&h=450&c=crop"
+  },
+  {
+    "id": 29,
+    "common_name": "Anthurium",
+    "scientific_name": "Anthurium andraeanum",
+    "family": "Araceae",
+    "lifespan": "Perennial",
+    "native_to": "South America",
+    "height": "0.2–0.6 meters",
+    "trunk": "Rhizomatous or short stem",
+    "leaves": "Glossy heart-shaped leaves",
+    "fruit": "Berries",
+    "parts_uses": {
+      "Flowers/Leaves": "Cut flower trade and ornamentals"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "18–28°C",
+      "rainfall": "Moderate to high",
+      "soil": "Well-draining, rich",
+      "sunlight": "Bright indirect light"
+    },
+    "major_countries": ["Colombia", "Ecuador", "Netherlands"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Significant in floriculture",
+      "cultural": "Common in tropical ornamental plantings" 
+    },
+    "fun_facts": ["Often called flamingo flower", "Long-lasting spathes make great cut flowers"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Ewu1hupUqmAnR9jW769mCLwdakUlx_tzhg&s"
+  }
+]

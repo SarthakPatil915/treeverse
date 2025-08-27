@@ -1,0 +1,271 @@
+* {    
+       margin: 0;
+       padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          sans-serif;
+        background-color: #f8faf8;
+        color: #2d3d2d;
+        line-height: 1.6;
+      }
+
+      /* Container */
+      .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 0 1.5rem;
+        padding-top: 150px;
+        margin-bottom: 50px;
+      }
+
+      /* Tree Card */
+      .tree-card {
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        overflow: hidden;
+      }
+
+      .tree-image {
+        height: 400px;
+        background: #f0f4f0;
+        position: relative;
+        display: flex; /* enables flexbox */
+        justify-content: center; /* center horizontally */
+        align-items: center; /* center vertically */
+        padding: 20px;
+
+        overflow: hidden; /* clip image corners */
+      }
+
+      .tree-img {
+        max-width: 100%; /* prevent overflow */
+        max-height: 100%;
+        object-fit: contain; /* keep full image */
+        border-radius: 20px; /* image rounded corners */
+      }
+
+      .tree-header {
+        padding: 2rem;
+        border-bottom: 1px solid #e8ece8;
+      }
+
+      .tree-title {
+        font-size: 2.2rem;
+        font-weight: 700;
+        color: #2e7d32;
+        margin-bottom: 0.5rem;
+      }
+
+      .tree-scientific {
+        font-size: 1.1rem;
+        font-style: italic;
+        color: #666;
+      }
+
+      /* Content */
+      .content {
+        padding: 2rem;
+      }
+
+      /* Basic Info Grid */
+      .basic-info {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+        margin-bottom: 2.5rem;
+      }
+
+      .info-card {
+        background: #f8faf8;
+        padding: 1rem;
+        border-radius: 8px;
+        border-left: 3px solid #4caf50;
+      }
+
+      .info-label {
+        font-size: 0.85rem;
+        font-weight: 600;
+        color: #666;
+        text-transform: uppercase;
+        margin-bottom: 0.3rem;
+      }
+
+      .info-value {
+        font-size: 1rem;
+        color: #2d3d2d;
+      }
+
+      /* Sections */
+      .section {
+        margin-bottom: 2rem;
+      }
+
+      .section-title {
+        font-size: 1.4rem;
+        font-weight: 600;
+        color: #2e7d32;
+        margin-bottom: 1rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid #e8f5e9;
+      }
+
+      .section-list {
+        list-style: none;
+      }
+
+      .section-list li {
+        background: white;
+        padding: 0.8rem;
+        margin-bottom: 0.5rem;
+        border-radius: 6px;
+        border-left: 2px solid #81c784;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+      }
+
+      .list-label {
+        font-weight: 600;
+        color: #2e7d32;
+      }
+
+      /* Countries special styling */
+      .countries-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        list-style: none;
+      }
+
+      .countries-list li {
+        background: #4caf50;
+        color: white;
+        padding: 0.4rem 0.8rem;
+        border-radius: 20px;
+        font-size: 0.9rem;
+        font-weight: 500;
+        margin-bottom: 0;
+        border: none;
+        box-shadow: none;
+      }
+
+      /* Fun facts styling */
+      .fun-facts-list li {
+        background: #e8f5e9;
+        border-left-color: #66bb6a;
+      }
+
+      .fun-facts-list li::before {
+        content: "🌿 ";
+      }
+
+      /* Back button */
+      .back-button {
+        display: inline-block;
+        background: #2e7d32;
+        color: white;
+        padding: 0.8rem 1.5rem;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 500;
+        margin-top: 1.5rem;
+        transition: background 0.2s;
+      }
+
+      .back-button:hover {
+        background: #1b5e20;
+      }
+
+      /* Loading */
+      .loading {
+        text-align: center;
+        padding: 3rem;
+        color: #666;
+      }
+
+      .loading-spinner {
+        width: 32px;
+        height: 32px;
+        border: 3px solid #e8f5e9;
+        border-top: 3px solid #4caf50;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin: 0 auto 1rem;
+      }
+
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      /* Mobile responsive */
+      @media (max-width: 768px) {
+        .header-content {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.5rem;
+        }
+
+        .tagline {
+          margin-left: 0;
+        }
+
+        .container {
+          /* margin: 1rem auto; */
+          padding: 0 1rem;
+          padding-top: 220px;
+        }
+
+        .tree-header,
+        .content {
+          padding: 1.5rem;
+        }
+
+        .tree-title {
+          font-size: 1.8rem;
+        }
+
+        .basic-info {
+          grid-template-columns: 1fr;
+        }
+
+        /* Copy Media From Header  */
+        .navabar{
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .Option{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-bottom: 20px;
+        
+    }
+    .sub-op{
+        height: 25px;
+        width: 60px;
+        font-size: 0.6rem;
+        margin: none;
+    }
+    .Tree-Search{
+        padding-bottom: 15px;
+    }
+    .Search-Bar{
+        height: 35px;
+        width: 250px;
+    }
+    .Search-Icon{
+        height: 35px;
+        width: 35px;
+    }
+}

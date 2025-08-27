@@ -1,0 +1,196 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+
+.main-body {
+    background: linear-gradient(135deg, #f9fbe7, #e8f5e9, #e3f2fd);
+    background-size: 300% 300%;
+    animation: gradientShift 12s ease infinite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    padding: 120px 20px 30px 20px;
+}
+
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.category {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 0;
+    padding: 20px;
+    border-radius: 15px;
+    background: #f1f9f1;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    opacity: 0; 
+    transform: translateY(60px) scale(0.98);
+    transition: all 0.8s cubic-bezier(0.19, 1, 0.22, 1);
+}
+.category.show {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+}
+
+.category:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
+.category:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 10px 30px rgba(0, 128, 0, 0.25),
+                0 0 20px rgba(76, 175, 80, 0.2);
+}
+
+
+.subbox {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex: 1;
+    padding: 20px;
+    border-radius: 15px;
+    background: linear-gradient(to right,#eafaea,#f6fff6);
+    box-shadow: inset 0 0 15px rgba(0,0,0,0.05);
+    transition: all 0.4s ease;
+}
+.subbox:hover {
+    background: linear-gradient(to right,#def7e0,#e8fbe9);
+}
+
+
+.headlogo {
+    height: 130px;
+    transition: transform 0.4s ease, opacity 0.4s ease;
+    animation: float 3s ease-in-out infinite, popIn 0.8s ease forwards;
+}
+.subbox:hover .headlogo {
+    transform: scale(1.2) rotate(-5deg);
+}
+
+
+@keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+}
+@keyframes popIn {
+    0% { transform: scale(0); opacity: 0; }
+    60% { transform: scale(1.2); opacity: 1; }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+
+.title {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #2c5c41;
+    margin-bottom: 10px;
+}
+
+
+.Short-Info {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #333;
+    max-width: 550px;
+}
+
+
+.category-img {
+    height: 300px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    transition: transform 0.5s ease, opacity 0.5s ease;
+}
+.category:hover .category-img {
+    transform: scale(1.05);
+    opacity: 0.95;
+}
+
+.btn-click {
+    height: 50px;
+    width: 160px;
+    border-radius: 50px;
+    border: none;
+    font-size: 1rem;
+    font-weight: 600;
+    background: linear-gradient(to right, #4caf50, #388e3c);
+    color: white;
+    cursor: pointer;
+    margin: 0 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.4s;
+}
+.btn-click:hover {
+    transform: scale(1.08);
+    background: linear-gradient(to right, #43a047, #2e7d32);
+    box-shadow: 0 0 20px rgba(76, 175, 80, 0.6);
+}
+
+@media (max-width: 992px) {
+    .category {
+        flex-direction: column !important;
+        text-align: center;
+        padding: 30px;
+    }
+    .subbox {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .category-img {
+        height: 250px;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 780px) {
+    .main-body {
+        padding-top: 220px;
+    }
+    .category {
+        flex-direction: column !important;
+        justify-content: center;
+        padding: 20px;
+        width: 90%;
+        margin: 0 auto 20px auto;
+    }
+    .subbox {
+        flex-direction: column;
+        width: 95%;
+        padding: 10px;
+    }
+    .headlogo {
+        margin: 10px;
+        height: 5rem;
+    }
+    .title {
+        font-size: 1.1rem;
+        margin: 10px;
+        text-align: center;
+    }
+    .Short-Info {
+        font-size: 14px;
+        padding: 0 10px 15px 10px;
+    }
+    .category-img {
+        height: 150px;
+    }
+    .btn-click {
+        margin: 15px;
+        height: 40px;
+        width: 120px;
+        font-size: 0.9rem;
+    }
+}

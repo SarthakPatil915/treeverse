@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Treeverse - Tree Details</title>
+    <link rel="stylesheet" href="../../../assets/css/header.css" />
+    <link rel="stylesheet" href="../../../assets/css/info.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    
+    <header>
+        <div class="navabar">
+            <div class="logo">
+                <img class="Tree-Logo" src="../../../assets/images/header/Tree-logo.png" alt="Tree-Logo">
+                <img class="Name-logo" src="../../../assets/images/header/Tree-Verse.png" alt="Tree-Verse logo">
+            </div>
+            <div class="Option">
+                <div class="sub-op"><a href="../../../index.html">Home</a></div>
+                <div class="sub-op"><a href="../../tree-list.html">Tree-list</a></div>
+                <div class="sub-op"><a href="../../categories.html">Categories</a> </div>
+                <div class="sub-op"><a href="../../about.html">About</a></div>
+                <div class="sub-op"><a href="../../contact.html">Contact</a></div>
+            </div>
+            <div class="Tree-Search">
+                <input
+                placeholder="Search For Trees & Its Information" class="Search-Bar">
+                <img class="Search-Icon" src="../../../assets/images/header/Search-icon.png" alt="Search-Icon">
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+      <div class="tree-card" id="tree-details">
+        <div class="loading">
+          <div class="loading-spinner"></div>
+          <p>Loading tree information...</p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const treeId = params.get("id");
+
+      fetch("../../../data/flowering_shrubs.json")
+        .then((res) => { if (!res.ok) { throw new Error(`HTTP error! status: ${res.status}`); } return res.json(); })
+        .then((data) => {
+          const tree = data[treeId];
+          if (!tree) {
+            document.getElementById("tree-details").innerHTML = `
+                        <div class="loading">
+                            <p>Tree not found</p>
+                            <a href="1.html" class="back-button">← Back to Shrubs</a>
+                        </div>
+                    `;
+            return;
+          }
+
+          document.getElementById("tree-details").innerHTML = `
+                    <div class="tree-image">
+                        <img src="${tree.image_url}" alt="${
+            tree.common_name
+          }" class="tree-img">
+                    </div>
+                    
+                    <div class="tree-header">
+                        <h1 class="tree-title">${tree.common_name}</h1>
+                        <p class="tree-scientific">${tree.scientific_name}</p>
+                    </div>
+                    
+                    <div class="content">
+                        <div class="basic-info">
+                            <div class="info-card">
+                                <div class="info-label">Family</div>
+                                <div class="info-value">${tree.family}</div>
+                            </div>
+                            <div class="info-card">
+                                <div class="info-label">Lifespan</div>
+                                <div class="info-value">${tree.lifespan}</div>
+                            </div>
+                            <div class="info-card">
+                                <div class="info-label">Native To</div>
+                                <div class="info-value">${tree.native_to}</div>
+                            </div>
+                            <div class="info-card">
+                                <div class="info-label">Height</div>
+                                <div class="info-value">${tree.height}</div>
+                            </div>
+                            <div class="info-card">
+                                <div class="info-label">Trunk</div>
+                                <div class="info-value">${tree.trunk}</div>
+                            </div>
+                            <div class="info-card">
+                                <div class="info-label">Leaves</div>
+                                <div class="info-value">${tree.leaves}</div>
+                            </div>
+                            <div class="info-card">
+                                <div class="info-label">Fruit</div>
+                                <div class="info-value">${tree.fruit}</div>
+                            </div>
+                        </div>
+
+                        <div class="section">
+                            <h2 class="section-title">Parts & Uses</h2>
+                            <ul class="section-list">
+                                ${Object.entries(tree.parts_uses)
+                                  .map(
+                                    ([part, use]) =>
+                                      `<li><span class="list-label">${part}:</span> ${use}</li>`
+                                  )
+                                  .join("")}
+                            </ul>
+                        </div>
+
+                        <div class="section">
+                            <h2 class="section-title">Growing Conditions</h2>
+                            <ul class="section-list">
+                                ${Object.entries(tree.growing_conditions)
+                                  .map(
+                                    ([cond, val]) =>
+                                      `<li><span class="list-label">${cond}:</span> ${val}</li>`
+                                  )
+                                  .join("")}
+                            </ul>
+                        </div>
+
+                        <div class="section">
+                            <h2 class="section-title">Major Countries</h2>
+                            <ul class="countries-list">
+                                ${tree.major_countries
+                                  .map((country) => `<li>${country}</li>`)
+                                  .join("")}
+                            </ul>
+                        </div>
+
+                        <div class="section">
+                            <h2 class="section-title">Importance</h2>
+                            <ul class="section-list">
+                                ${Object.entries(tree.importance)
+                                  .map(
+                                    ([type, val]) =>
+                                      `<li><span class="list-label">${type}:</span> ${val}</li>`
+                                  )
+                                  .join("")}
+                            </ul>
+                        </div>
+
+                        <div class="section">
+                            <h2 class="section-title">Fun Facts</h2>
+                            <ul class="section-list fun-facts-list">
+                                ${tree.fun_facts
+                                  .map((fact) => `<li>${fact}</li>`)
+                                  .join("")}
+                            </ul>
+                        </div>
+
+                        <a href="1.html" class="back-button">← Back to Shrubs</a>
+                    </div>
+                `;
+        })
+        .catch((err) => {
+          console.error("Error loading JSON:", err);
+          document.getElementById("tree-details").innerHTML = `
+                    <div class="loading">
+                        <p>Failed to load tree details</p>
+                        <a href="1.html" class="back-button">← Back to Shrubs</a>
+                    </div>
+                `;
+        });
+    </script>
+
+  </body>
+</html>
+
+
+
+

@@ -1,0 +1,1189 @@
+[
+  {
+    "id": 0,
+    "common_name": "Parsley",
+    "scientific_name": "Petroselinum crispum",
+    "family": "Apiaceae",
+    "lifespan": "Biennial (grown as annual)",
+    "native_to": "Mediterranean region",
+    "height": "0.3–0.6 meters",
+    "trunk": "Slender, green herbaceous stem",
+    "leaves": "Bright green, curly or flat, aromatic",
+    "fruit": "Tiny dry schizocarp",
+    "parts_uses": {
+      "Leaves": "Culinary garnish, flavoring",
+      "Roots": "Used in soups and stews (Hamburg parsley)",
+      "Seeds": "Medicinal, diuretic"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "15–25°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Moist, well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Italy",
+      "France",
+      "India",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins C, A, K; antioxidants",
+      "economic": "Widely cultivated culinary herb",
+      "cultural": "Staple herb in Mediterranean and Middle Eastern cuisines"
+    },
+    "fun_facts": [
+      "Romans used parsley as a breath freshener",
+      "Flat-leaf parsley is preferred by chefs for stronger flavor"
+    ],
+    "image_url": "https://cdn.britannica.com/62/193862-050-4A7DBC6F/Parsley.jpg"
+  },
+  {
+    "id": 1,
+    "common_name": "Caraway",
+    "scientific_name": "Carum carvi",
+    "family": "Apiaceae",
+    "lifespan": "Biennial",
+    "native_to": "Europe and Western Asia",
+    "height": "0.3–0.8 meters",
+    "trunk": "Slender, grooved stem",
+    "leaves": "Feathery, divided leaves",
+    "fruit": "Crescent-shaped aromatic seeds (schizocarps)",
+    "parts_uses": {
+      "Seeds": "Spice in breads, cheese, sauerkraut, liqueurs",
+      "Leaves": "Used fresh in salads and soups",
+      "Roots": "Edible, similar to parsnip"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "10–20°C",
+      "rainfall": "400–800 mm",
+      "soil": "Fertile, well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Netherlands",
+      "Germany",
+      "Poland",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "Source of fiber and essential oils (carvone)",
+      "economic": "Important spice crop for bakery and spirits",
+      "cultural": "Traditional in Central and Northern European cuisine"
+    },
+    "fun_facts": [
+      "One of the oldest known spices, used since antiquity",
+      "Often used in rye bread for its distinct flavor"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtJkBXTfDHLMkIp3JEYuSt_ke_7g1wYgCOQ&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Angelica",
+    "scientific_name": "Angelica archangelica",
+    "family": "Apiaceae",
+    "lifespan": "Biennial",
+    "native_to": "Northern Europe, Greenland, West Siberia",
+    "height": "1–2.5 meters",
+    "trunk": "Hollow, fluted herbaceous stem",
+    "leaves": "Very large bipinnate leaves with toothed margins",
+    "fruit": "Oblong seeds in spherical umbels",
+    "parts_uses": {
+      "Roots": "Flavoring in gin, Chartreuse, bitters",
+      "Stems": "Candied for confectionery",
+      "Leaves": "Tea, salads, aromatics",
+      "Seeds": "Perfumes and liqueurs"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "10–25°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Rich, moist, slightly acidic to neutral loam",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Norway",
+      "Sweden",
+      "Finland",
+      "Germany",
+      "France"
+    ],
+    "importance": {
+      "nutrition": "Aromatic compounds; digestive tonics",
+      "economic": "Used by beverage and confectionery industries",
+      "cultural": "Medieval herb garden staple; folklore against plague"
+    },
+    "fun_facts": [
+      "Name linked to Archangel Gabriel in folklore",
+      "Attracts many pollinators with large green‑white umbels"
+    ],
+    "image_url": "https://media.post.rvohealth.io/wp-content/uploads/2020/10/Angelica-archangelica-732x549-thumbnail.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Fennel",
+    "scientific_name": "Foeniculum vulgare",
+    "family": "Apiaceae",
+    "lifespan": "Perennial or biennial (often grown as annual/biennial)",
+    "native_to": "Mediterranean region",
+    "height": "1–2 meters",
+    "trunk": "Erect, branching, grooved stem",
+    "leaves": "Finely feathery, thread-like segments",
+    "fruit": "Ribbed oblong seeds (schizocarps)",
+    "parts_uses": {
+      "Bulb": "Eaten raw or cooked; anise-like flavor",
+      "Leaves": "Herb for fish and salads",
+      "Seeds": "Spice, digestive, mouth freshener",
+      "Stems": "Culinary use, stocks"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate, Mediterranean",
+      "temperature": "15–28°C",
+      "rainfall": "400–800 mm",
+      "soil": "Well-drained fertile loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Italy",
+      "India",
+      "France",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "Vitamin C, fiber, anethole-rich essential oils",
+      "economic": "Culinary herb/spice; vegetable crop",
+      "cultural": "Used since Roman times; common in Italian cuisine"
+    },
+    "fun_facts": [
+      "Seeds are used as mukhwas (mouth freshener) in India",
+      "Florence fennel is grown for its bulb"
+    ],
+    "image_url": "https://utgardens.tennessee.edu/wp-content/uploads/sites/220/2023/03/Antares-Fennel-2000x1200.jpeg"
+  },
+  {
+    "id": 4,
+    "common_name": "Chervil",
+    "scientific_name": "Anthriscus cerefolium",
+    "family": "Apiaceae",
+    "lifespan": "Annual or biennial (commonly annual)",
+    "native_to": "Caucasus and Europe",
+    "height": "0.3–0.6 meters",
+    "trunk": "Slender, branched stem",
+    "leaves": "Delicate, lacy, fern-like leaves",
+    "fruit": "Small narrow achenes",
+    "parts_uses": {
+      "Leaves": "French fines herbes blend; subtle anise flavor",
+      "Seeds": "Occasional spice use",
+      "Stems": "Tender shoots eaten fresh"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "10–18°C",
+      "rainfall": "500–800 mm",
+      "soil": "Moist, well-drained soil rich in humus",
+      "sunlight": "Partial shade to full sun (cool)"
+    },
+    "major_countries": [
+      "France",
+      "Germany",
+      "UK",
+      "Russia"
+    ],
+    "importance": {
+      "nutrition": "Source of vitamins A and C",
+      "economic": "Culinary herb in European cuisine",
+      "cultural": "Classic herb in French cooking (fines herbes)"
+    },
+    "fun_facts": [
+      "Flavor is delicate and fades with heat—best added at the end",
+      "Often called 'gourmet’s parsley'"
+    ],
+    "image_url": "https://gardenerspath.com/wp-content/uploads/2020/05/Curled-Chervil.jpg"
+  },
+  {
+    "id": 5,
+    "common_name": "Foxglove",
+    "scientific_name": "Digitalis purpurea",
+    "family": "Plantaginaceae",
+    "lifespan": "Biennial (sometimes short-lived perennial)",
+    "native_to": "Western Europe",
+    "height": "0.6–2 meters",
+    "trunk": "Erect, unbranched to sparsely branched stem",
+    "leaves": "Basal rosette first year; lanceolate, downy leaves",
+    "fruit": "Capsules with many tiny seeds",
+    "parts_uses": {
+      "Leaves": "Source of cardiac glycosides (historical, pharmacological)",
+      "Flowers": "Ornamental garden plant"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist, humus-rich, well-drained",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": [
+      "UK",
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "importance": {
+      "nutrition": "Not edible; toxic if ingested",
+      "economic": "Ornamental; historical pharmaceutical source",
+      "cultural": "Cottage garden icon; folklore plant"
+    },
+    "fun_facts": [
+      "Name may derive from 'folk’s glove' (fairies) in folklore",
+      "Highly toxic; do not consume any part"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGjtrGsps88H69ZpQifek_tfLgqi2mCuwDA&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Burdock",
+    "scientific_name": "Arctium lappa",
+    "family": "Asteraceae",
+    "lifespan": "Biennial",
+    "native_to": "Europe and Asia",
+    "height": "1–2 meters",
+    "trunk": "Robust, grooved stem",
+    "leaves": "Large, heart-shaped basal leaves",
+    "fruit": "Hooked burs (achenes)",
+    "parts_uses": {
+      "Roots": "Vegetable (gobo) in East Asia; medicinal",
+      "Leaves": "Poultices in folk medicine",
+      "Seeds": "Traditional remedies"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–22°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Deep, loose loam; well-drained",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Japan",
+      "China",
+      "Russia",
+      "Poland"
+    ],
+    "importance": {
+      "nutrition": "Root rich in inulin and fiber",
+      "economic": "Vegetable and herbal product",
+      "cultural": "Inspired invention of Velcro via its burs"
+    },
+    "fun_facts": [
+      "Burs inspired Velcro’s hook-and-loop design",
+      "Roots called 'gobo' in Japanese cuisine"
+    ],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5921ca57ff7c5032ee0f5266/1572632124298-DWQS7BX4HDL4AN7Q222V/IMG_3610.JPG"
+  },
+  {
+    "id": 7,
+    "common_name": "Sweet William",
+    "scientific_name": "Dianthus barbatus",
+    "family": "Caryophyllaceae",
+    "lifespan": "Biennial (often grown as annual)",
+    "native_to": "Southern Europe",
+    "height": "0.3–0.6 meters",
+    "trunk": "Erect, herbaceous stems in clumps",
+    "leaves": "Lanceolate, opposite leaves",
+    "fruit": "Capsule with small seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental cut flowers and bedding",
+      "Leaves": "Occasional edible garnish"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "500–900 mm",
+      "soil": "Well-drained, moderately fertile",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Netherlands",
+      "UK",
+      "Italy",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "Primarily ornamental",
+      "economic": "Horticultural trade and floristry",
+      "cultural": "Popular Victorian garden plant"
+    },
+    "fun_facts": [
+      "Often used in cottage gardens for vibrant clusters",
+      "Attracts butterflies and pollinators"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHU0-0mymRWtykRHuqgmctdjWgZxs6ZBamA&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Black Cumin",
+    "scientific_name": "Nigella sativa",
+    "family": "Ranunculaceae",
+    "lifespan": "Annual (included for spice relevance; sometimes biennial in habit)",
+    "native_to": "Southwest Asia",
+    "height": "0.2–0.5 meters",
+    "trunk": "Slender, branching herbaceous stems",
+    "leaves": "Finely divided thread-like leaves",
+    "fruit": "Inflated capsules with black seeds",
+    "parts_uses": {
+      "Seeds": "Spice (kalonji), medicinal oil",
+      "Leaves": "Occasional herb use"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15–25°C",
+      "rainfall": "300–600 mm",
+      "soil": "Well-drained loam or sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "India",
+      "Turkey",
+      "Egypt",
+      "Pakistan"
+    ],
+    "importance": {
+      "nutrition": "Seeds contain thymoquinone-rich oil",
+      "economic": "Culinary spice and nutraceutical",
+      "cultural": "Traditional medicine in Unani and Ayurveda"
+    },
+    "fun_facts": [
+      "Often called 'kalonji' in South Asia",
+      "Used on naan and breads for aroma"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGdz2kS67hkMkl9YHd6RQ7rKUOPAokz7VWA&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Evening Primrose",
+    "scientific_name": "Oenothera biennis",
+    "family": "Onagraceae",
+    "lifespan": "Biennial",
+    "native_to": "North America",
+    "height": "0.5–1.5 meters",
+    "trunk": "Erect, often reddish stems",
+    "leaves": "Lanceolate leaves in basal rosette first year",
+    "fruit": "Capsules with numerous seeds",
+    "parts_uses": {
+      "Seeds": "Oil rich in gamma-linolenic acid (GLA)",
+      "Leaves": "Traditional herbal uses",
+      "Flowers": "Edible garnish"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–22°C",
+      "rainfall": "400–900 mm",
+      "soil": "Sandy or gravelly well-drained soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "USA",
+      "Canada",
+      "UK",
+      "Germany"
+    ],
+    "importance": {
+      "nutrition": "Seed oil used as supplement (GLA)",
+      "economic": "Cosmetic and nutraceutical industries",
+      "cultural": "Opens flowers at dusk; attracts moth pollinators"
+    },
+    "fun_facts": [
+      "Flowers typically open in the evening, hence the name",
+      "Second-year flowering after basal rosette year"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Oenothera_biennis%2C_Vic-la-Gardiole_01.jpg/500px-Oenothera_biennis%2C_Vic-la-Gardiole_01.jpg"
+  },
+  {
+    "id": 10,
+    "common_name": "Teasel",
+    "scientific_name": "Dipsacus fullonum",
+    "family": "Caprifoliaceae",
+    "lifespan": "Biennial",
+    "native_to": "Europe, North Africa, Western Asia",
+    "height": "1–2 meters",
+    "trunk": "Stout spiny stems",
+    "leaves": "Prickly leaves forming cups that hold water",
+    "fruit": "Bristly seed heads",
+    "parts_uses": {
+      "Seed heads": "Historically used to raise nap on cloth",
+      "Stems": "Ornamental dried arrangements"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "500–900 mm",
+      "soil": "Varied; prefers well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "UK",
+      "France",
+      "Italy",
+      "Germany"
+    ],
+    "importance": {
+      "nutrition": "Not used as food",
+      "economic": "Historic textile tool (fuller's teasel)",
+      "cultural": "Architectural seed heads in winter gardens"
+    },
+    "fun_facts": [
+      "Leaves join to form a cup that can hold rainwater",
+      "Seed heads used historically in wool processing"
+    ],
+    "image_url": "https://www.norfolkherbs.co.uk/wp-content/uploads/2016/06/Teasel.jpg"
+  },
+  {
+    "id": 11,
+    "common_name": "Clary Sage",
+    "scientific_name": "Salvia sclarea",
+    "family": "Lamiaceae",
+    "lifespan": "Biennial or short-lived perennial",
+    "native_to": "Mediterranean, Central Asia",
+    "height": "0.5–1.2 meters",
+    "trunk": "Square, aromatic stems",
+    "leaves": "Large wrinkled leaves; hairy",
+    "fruit": "Nutlets",
+    "parts_uses": {
+      "Leaves": "Herbal teas and flavoring",
+      "Flowers": "Aromatic; essential oil source",
+      "Seeds": "Mucilaginous; traditional uses"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate, Mediterranean",
+      "temperature": "15–25°C",
+      "rainfall": "400–800 mm",
+      "soil": "Well-drained calcareous soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "France",
+      "Bulgaria",
+      "Italy",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "Aromatic herb (not staple food)",
+      "economic": "Essential oil for perfumery (sclareol)",
+      "cultural": "Historically used to flavor wines (muscatel sage)"
+    },
+    "fun_facts": [
+      "Name derives from Latin 'clarus' (clear) from eye applications",
+      "Showy pink-lilac bracts attract pollinators"
+    ],
+    "image_url": "https://media.post.rvohealth.io/wp-content/uploads/2020/08/732x549_THUMBNAIL_Clary_Sage.jpg"
+  },
+  {
+    "id": 12,
+    "common_name": "Alexanders",
+    "scientific_name": "Smyrnium olusatrum",
+    "family": "Apiaceae",
+    "lifespan": "Biennial or short-lived perennial",
+    "native_to": "Mediterranean and Black Sea regions",
+    "height": "0.6–1.5 meters",
+    "trunk": "Hollow, grooved stems",
+    "leaves": "Glossy, ternate leaves",
+    "fruit": "Black aromatic seeds",
+    "parts_uses": {
+      "Leaves": "Edible, once used like celery",
+      "Stems": "Blanched shoots eaten",
+      "Seeds": "Spice-like flavor"
+    },
+    "growing_conditions": {
+      "climate": "Mild maritime",
+      "temperature": "8–20°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Coastal, well-drained soils",
+      "sunlight": "Full sun to light shade"
+    },
+    "major_countries": [
+      "UK",
+      "Ireland",
+      "Italy",
+      "Greece"
+    ],
+    "importance": {
+      "nutrition": "Foraged coastal vegetable historically",
+      "economic": "Niche wild food",
+      "cultural": "Roman-era pot herb naturalized along coasts"
+    },
+    "fun_facts": [
+      "Common along old monastery sites and coastal lanes",
+      "Replaced by celery in modern cuisine"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Smyrnium_olusatrum_Ile_de_Re.jpg/960px-Smyrnium_olusatrum_Ile_de_Re.jpg"
+  },
+  {
+    "id": 13,
+    "common_name": "Honesty",
+    "scientific_name": "Lunaria annua",
+    "family": "Brassicaceae",
+    "lifespan": "Biennial (sometimes annual)",
+    "native_to": "Southeast Europe",
+    "height": "0.5–1 meter",
+    "trunk": "Erect branched stems",
+    "leaves": "Heart-shaped, toothed leaves",
+    "fruit": "Flat, translucent silique (silver dollar)",
+    "parts_uses": {
+      "Seeds": "Oilseed (ornamental interest mainly)",
+      "Stems": "Dried arrangements"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "500–900 mm",
+      "soil": "Moist, well-drained garden soil",
+      "sunlight": "Partial shade to sun"
+    },
+    "major_countries": [
+      "UK",
+      "France",
+      "Germany",
+      "Poland"
+    ],
+    "importance": {
+      "nutrition": "Primarily ornamental",
+      "economic": "Cut flower/dried arrangement trade",
+      "cultural": "Known as 'money plant' for its coin-like pods"
+    },
+    "fun_facts": [
+      "Also called 'silver dollars' or 'moonwort'",
+      "Attractive to pollinators in spring"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfTtJ69Q9bn34-lxuDrRrXD5sOEKL1oPdlYw&s"
+  },
+  {
+    "id": 14,
+    "common_name": "Great Mullein",
+    "scientific_name": "Verbascum thapsus",
+    "family": "Scrophulariaceae",
+    "lifespan": "Biennial",
+    "native_to": "Europe, North Africa, Asia",
+    "height": "1–2 meters",
+    "trunk": "Erect woolly stem",
+    "leaves": "Large, soft, woolly leaves in basal rosette",
+    "fruit": "Capsules with many seeds",
+    "parts_uses": {
+      "Leaves": "Herbal teas and traditional remedies",
+      "Flowers": "Infused oils"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, dry",
+      "temperature": "8–22°C",
+      "rainfall": "300–700 mm",
+      "soil": "Dry, sandy or gravelly soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Spain",
+      "France",
+      "Turkey",
+      "USA (naturalized)"
+    ],
+    "importance": {
+      "nutrition": "Not used as food",
+      "economic": "Herbal products; ornamental spikes",
+      "cultural": "Historic use as torches ('candlewick plant')"
+    },
+    "fun_facts": [
+      "Tall yellow flower spikes in second year",
+      "Leaves are densely hairy and soft to touch"
+    ],
+    "image_url": "https://growhoss.com/cdn/shop/files/mullein-02_460x@2x.jpg?v=1689638465"
+  },
+  {
+    "id": 15,
+    "common_name": "Wild Carrot",
+    "scientific_name": "Daucus carota",
+    "family": "Apiaceae",
+    "lifespan": "Biennial",
+    "native_to": "Europe and Southwest Asia",
+    "height": "0.3–1 meter",
+    "trunk": "Branched, ridged stems",
+    "leaves": "Finely divided, fern-like leaves",
+    "fruit": "Bristly schizocarps",
+    "parts_uses": {
+      "Roots": "Ancestor of cultivated carrot (woody in wild)",
+      "Seeds": "Traditional herbal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "400–800 mm",
+      "soil": "Well-drained sandy or loamy soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "UK",
+      "France",
+      "Germany",
+      "Turkey"
+    ],
+    "importance": {
+      "nutrition": "Source species for carrot domestication",
+      "economic": "Wildflower meadows, pollinator plant",
+      "cultural": "Also called Queen Anne’s lace for its lacy umbels"
+    },
+    "fun_facts": [
+      "Often shows a single dark purple floret in the center",
+      "Biennial lifecycle with first-year rosette"
+    ],
+    "image_url": "https://missouripoisoncenter.org/wp-content/uploads/2022/01/iStock-516064124.jpg"
+  },
+  {
+    "id": 16,
+    "common_name": "Beetroot",
+    "scientific_name": "Beta vulgaris",
+    "family": "Amaranthaceae",
+    "lifespan": "Biennial (grown as annual for roots)",
+    "native_to": "Mediterranean and Western Asia",
+    "height": "0.3–0.8 meters",
+    "trunk": "Herbaceous, succulent stems",
+    "leaves": "Broad, often red-veined leaves",
+    "fruit": "Aggregated seed clusters (glomerules)",
+    "parts_uses": {
+      "Roots": "Vegetable; pickled, roasted, juiced",
+      "Leaves": "Edible greens",
+      "Seeds": "Propagation; beet sugar relatives"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "10–20°C",
+      "rainfall": "400–800 mm",
+      "soil": "Loose, fertile, well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Russia",
+      "Poland",
+      "USA",
+      "India"
+    ],
+    "importance": {
+      "nutrition": "Rich in folate, manganese, betalains",
+      "economic": "Vegetable crop; related to sugar beet industry",
+      "cultural": "Traditional Eastern European cuisine"
+    },
+    "fun_facts": [
+      "Deep red color comes from betalain pigments",
+      "Leaves (chard) are closely related and edible"
+    ],
+    "image_url": "https://urbanthottam.com/wp-content/uploads/2020/12/Beetroot_Tatiana-Volgutova-495x400.jpg"
+  },
+  {
+    "id": 17,
+    "common_name": "Celery",
+    "scientific_name": "Apium graveolens",
+    "family": "Apiaceae",
+    "lifespan": "Biennial (grown as annual)",
+    "native_to": "Mediterranean and Middle East",
+    "height": "0.3–0.8 meters",
+    "trunk": "Fleshy, ribbed petioles (stalks)",
+    "leaves": "Pinnate, glossy green leaves",
+    "fruit": "Small aromatic schizocarps",
+    "parts_uses": {
+      "Stalks": "Vegetable in salads and soups",
+      "Leaves": "Seasoning and garnish",
+      "Seeds": "Spice and essential oil"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "12–20°C",
+      "rainfall": "500–900 mm",
+      "soil": "Moist, rich organic soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "USA",
+      "China",
+      "India",
+      "Spain"
+    ],
+    "importance": {
+      "nutrition": "Low-calorie, source of vitamin K and folate",
+      "economic": "Vegetable and spice industries",
+      "cultural": "Ancient medicinal and culinary plant"
+    },
+    "fun_facts": [
+      "Celery was used as a garland in ancient Greece",
+      "Celery seed is a distinct spice with warm aroma"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLHJgVZHhmCCh37MpTZ4hH9I1V_LgIVtwvQ&s"
+  },
+  {
+    "id": 18,
+    "common_name": "Florence Fennel",
+    "scientific_name": "Foeniculum vulgare var. azoricum",
+    "family": "Apiaceae",
+    "lifespan": "Biennial (grown as annual)",
+    "native_to": "Mediterranean (cultivar group)",
+    "height": "0.5–1 meter",
+    "trunk": "Thickened leaf bases forming bulb",
+    "leaves": "Finely divided, feathery leaves",
+    "fruit": "Ribbed aromatic seeds",
+    "parts_uses": {
+      "Bulb": "Vegetable (finocchio) raw or cooked",
+      "Fronds": "Herb with anise flavor",
+      "Seeds": "Spice and tea"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15–24°C",
+      "rainfall": "400–700 mm",
+      "soil": "Fertile, well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Italy",
+      "France",
+      "Spain",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "Vitamin C, fiber, potassium",
+      "economic": "Vegetable crop in Mediterranean cuisine",
+      "cultural": "Classic Italian ingredient called 'finocchio'"
+    },
+    "fun_facts": [
+      "Harvested before bolting to keep bulbs tender",
+      "Distinct from common fennel grown for fronds/seeds"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQA7h0SiZak7S_EXYZa2aw0sJKEKNurSxxA&s"
+  },
+  {
+    "id": 19,
+    "common_name": "Sea Holly",
+    "scientific_name": "Eryngium maritimum",
+    "family": "Apiaceae",
+    "lifespan": "Perennial (often treated as biennial in cultivation)",
+    "native_to": "European coasts",
+    "height": "0.2–0.6 meters",
+    "trunk": "Stiff, branched stems",
+    "leaves": "Bluish-green, spiny, leathery leaves",
+    "fruit": "Small schizocarps",
+    "parts_uses": {
+      "Roots": "Historically candied as a sweetmeat",
+      "Whole plant": "Ornamental for coastal gardens"
+    },
+    "growing_conditions": {
+      "climate": "Coastal temperate",
+      "temperature": "8–20°C",
+      "rainfall": "400–800 mm",
+      "soil": "Sandy, well-drained, poor soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "UK",
+      "France",
+      "Spain",
+      "Portugal"
+    ],
+    "importance": {
+      "nutrition": "Not a food staple",
+      "economic": "Ornamental and conservation interest",
+      "cultural": "Associated with dunes and maritime folklore"
+    },
+    "fun_facts": [
+      "Leaves and bracts are a metallic blue in bloom",
+      "Deep roots stabilize dunes"
+    ],
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/thorny-plant-of-eryngium-medicinal-plant-in-summer-royalty-free-image-1737141705.pjpeg?crop=0.99953xw:1xh;center,top&resize=980:*"
+  },
+  {
+    "id": 20,
+    "common_name": "Hound’s Tongue",
+    "scientific_name": "Cynoglossum officinale",
+    "family": "Boraginaceae",
+    "lifespan": "Biennial",
+    "native_to": "Europe and Western Asia",
+    "height": "0.3–1 meter",
+    "trunk": "Hairy, erect stems",
+    "leaves": "Soft, gray-green, tongue-shaped leaves",
+    "fruit": "Burr-like nutlets that cling to fur",
+    "parts_uses": {
+      "Leaves": "Historical medicinal uses (now discouraged due to alkaloids)",
+      "Seeds": "No culinary use; burrs aid dispersal"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "8–20°C",
+      "rainfall": "400–800 mm",
+      "soil": "Dry, calcareous or sandy soils",
+      "sunlight": "Full sun to light shade"
+    },
+    "major_countries": [
+      "UK",
+      "Germany",
+      "Russia",
+      "Turkey"
+    ],
+    "importance": {
+      "nutrition": "Not edible; contains pyrrolizidine alkaloids",
+      "economic": "Weed management relevance",
+      "cultural": "Name from leaf texture resembling a dog's tongue"
+    },
+    "fun_facts": [
+      "Seeds readily hitchhike on clothing and animal fur",
+      "Reddish-purple flowers in cymes"
+    ],
+    "image_url": "https://bcinvasives.ca/wp-content/uploads/2021/01/Hounds_tongue001_NBakker-scaled.jpg"
+  },
+  {
+    "id": 21,
+    "common_name": "Lunaria",
+    "scientific_name": "Lunaria rediviva",
+    "family": "Brassicaceae",
+    "lifespan": "Perennial (related to biennial L. annua)",
+    "native_to": "Central and Eastern Europe",
+    "height": "0.6–1.2 meters",
+    "trunk": "Erect stems from woody base",
+    "leaves": "Opposite, heart-shaped leaves",
+    "fruit": "Large translucent silicles",
+    "parts_uses": {
+      "Stems": "Dried arrangements",
+      "Flowers": "Ornamental fragrance"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate woodlands",
+      "temperature": "8–18°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Humus-rich, moist, well-drained",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": [
+      "Poland",
+      "Czech Republic",
+      "Austria",
+      "Germany"
+    ],
+    "importance": {
+      "nutrition": "Ornamental only",
+      "economic": "Garden plant for shade borders",
+      "cultural": "Known for moon-like seedpods"
+    },
+    "fun_facts": [
+      "Name 'Lunaria' refers to moon-like pods",
+      "Fragrant lilac flowers in late spring"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQeWT7RnLr1C0lLbWGQTfmz4tNN0IBAFVBw&s"
+  },
+  {
+    "id": 22,
+    "common_name": "Cabbage",
+    "scientific_name": "Brassica oleracea",
+    "family": "Brassicaceae",
+    "lifespan": "Biennial (grown as annual; biennial for seed)",
+    "native_to": "Coastal Western Europe (wild ancestors)",
+    "height": "0.3–0.6 meters",
+    "trunk": "Short stem with compact leafy head",
+    "leaves": "Broad, waxy leaves forming a head",
+    "fruit": "Siliques with small seeds (in second year)",
+    "parts_uses": {
+      "Leaves": "Vegetable raw or cooked",
+      "Seeds": "Oil and propagation"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "10–18°C",
+      "rainfall": "500–900 mm",
+      "soil": "Fertile, moisture-retentive loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "China",
+      "India",
+      "Russia",
+      "Poland"
+    ],
+    "importance": {
+      "nutrition": "Vitamin C, K, fiber, glucosinolates",
+      "economic": "Major global vegetable crop",
+      "cultural": "Staple in fermented foods (sauerkraut, kimchi)"
+    },
+    "fun_facts": [
+      "Heads form in the first season; flowering occurs in the second",
+      "Many cultivar groups exist (savoy, red, white)"
+    ],
+    "image_url": "https://media.istockphoto.com/id/1341385091/photo/cabbage-cultivation-close-up.jpg?s=612x612&w=0&k=20&c=KlKO9b5L2nzeEcOTT8wfKWq41h234M7AH9rS-OSaoDM="
+  },
+  {
+    "id": 23,
+    "common_name": "Kale",
+    "scientific_name": "Brassica oleracea var. sabellica",
+    "family": "Brassicaceae",
+    "lifespan": "Biennial (grown as annual/short-lived perennial)",
+    "native_to": "Derived from Mediterranean wild cabbage",
+    "height": "0.3–1 meter",
+    "trunk": "Sturdy, fibrous stems",
+    "leaves": "Curly or flat bluish-green leaves",
+    "fruit": "Siliques in second year",
+    "parts_uses": {
+      "Leaves": "Leafy vegetable; salads, soups, sautés",
+      "Stems": "Cooked as vegetable"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "5–18°C",
+      "rainfall": "500–900 mm",
+      "soil": "Moist, fertile loam",
+      "sunlight": "Full sun to light shade"
+    },
+    "major_countries": [
+      "USA",
+      "UK",
+      "Germany",
+      "Netherlands"
+    ],
+    "importance": {
+      "nutrition": "High in vitamins K, C, A; lutein",
+      "economic": "Leafy green market crop",
+      "cultural": "Traditional winter green in Europe"
+    },
+    "fun_facts": [
+      "Flavor sweetens after frost",
+      "Popular in Dutch 'stamppot' dishes"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzu8e1Y5tqjt3KRd3Gf5_I-18EeII7Im4Fg&s"
+  },
+  {
+    "id": 24,
+    "common_name": "Mustard Greens",
+    "scientific_name": "Brassica juncea",
+    "family": "Brassicaceae",
+    "lifespan": "Annual or biennial (grown as annual)",
+    "native_to": "Central Asia",
+    "height": "0.3–1 meter",
+    "trunk": "Erect branching stems",
+    "leaves": "Large, lobed to smooth leaves, pungent",
+    "fruit": "Siliques with small seeds",
+    "parts_uses": {
+      "Leaves": "Leafy vegetable and pickles",
+      "Seeds": "Brown mustard spice and oil",
+      "Stems": "Pickled as vegetable (Asian cuisines)"
+    },
+    "growing_conditions": {
+      "climate": "Cool to warm temperate",
+      "temperature": "10–25°C",
+      "rainfall": "400–800 mm",
+      "soil": "Fertile, well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "India",
+      "China",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "importance": {
+      "nutrition": "Vitamins A, C, K; glucosinolates",
+      "economic": "Oilseed and leafy green crop",
+      "cultural": "Sarson ka saag is iconic in North India"
+    },
+    "fun_facts": [
+      "Leaves are pungent due to mustard oils",
+      "Seeds pressed for mustard oil widely used in South Asia"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbB7E4xlOLzfrueumV1y2ddvJG7zLX_hP5MQ&s"
+  },
+  {
+    "id": 25,
+    "common_name": "Turnip",
+    "scientific_name": "Brassica rapa subsp. rapa",
+    "family": "Brassicaceae",
+    "lifespan": "Biennial (grown as annual for roots)",
+    "native_to": "Eurasia",
+    "height": "0.3–0.6 meters",
+    "trunk": "Swollen hypocotyl (root) with leafy tops",
+    "leaves": "Green, lobed leaves",
+    "fruit": "Siliques in second year",
+    "parts_uses": {
+      "Roots": "Boiled, roasted, mashed; pickled",
+      "Leaves": "Turnip greens edible",
+      "Seeds": "Propagation"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "10–18°C",
+      "rainfall": "400–700 mm",
+      "soil": "Loose, fertile, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "China",
+      "India",
+      "France",
+      "UK"
+    ],
+    "importance": {
+      "nutrition": "Vitamin C, fiber; leafy greens rich in K",
+      "economic": "Vegetable and fodder crop",
+      "cultural": "Traditional European staple root"
+    },
+    "fun_facts": [
+      "Young small turnips are sweetest",
+      "Flowering and seed set occur in the second year"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqekBUNXABzU14eUIO_P_ikQg2YLsYut3Zg&s"
+  },
+  {
+    "id": 26,
+    "common_name": "Rutabaga",
+    "scientific_name": "Brassica napobrassica",
+    "family": "Brassicaceae",
+    "lifespan": "Biennial (grown as annual for roots)",
+    "native_to": "Northern Europe (hybrid origin)",
+    "height": "0.3–0.6 meters",
+    "trunk": "Swollen root with leaf rosette",
+    "leaves": "Bluish-green waxy leaves",
+    "fruit": "Siliques in second year",
+    "parts_uses": {
+      "Roots": "Cooked in stews, mashes; roasted",
+      "Leaves": "Young greens edible"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "8–16°C",
+      "rainfall": "400–700 mm",
+      "soil": "Moist, fertile, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Sweden",
+      "UK",
+      "Canada",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "Vitamin C, fiber; low calories",
+      "economic": "Vegetable and fodder crop in cool climates",
+      "cultural": "Called 'swede' in the UK"
+    },
+    "fun_facts": [
+      "A cross between cabbage and turnip",
+      "Traditionally carved into lanterns before pumpkins"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuw3Ct-hjgBC_59qkuN_7NNAetO37K9zH7Vw&s"
+  },
+  {
+    "id": 27,
+    "common_name": "Salsify",
+    "scientific_name": "Tragopogon porrifolius",
+    "family": "Asteraceae",
+    "lifespan": "Biennial (grown as annual for roots)",
+    "native_to": "Southern Europe and Near East",
+    "height": "0.6–1 meter",
+    "trunk": "Slender, hollow stems",
+    "leaves": "Grass-like linear leaves",
+    "fruit": "Large dandelion-like seed head (achenes)",
+    "parts_uses": {
+      "Roots": "Vegetable with oyster-like flavor",
+      "Shoots": "Blanched young shoots edible"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "400–700 mm",
+      "soil": "Deep, sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Italy",
+      "France",
+      "UK",
+      "USA"
+    ],
+    "importance": {
+      "nutrition": "Dietary fiber and minerals",
+      "economic": "Specialty root vegetable",
+      "cultural": "Known as 'oyster plant' for flavor"
+    },
+    "fun_facts": [
+      "Seed heads resemble giant dandelions",
+      "Best flavor when harvested in cool weather"
+    ],
+    "image_url": "https://gardenerspath.com/wp-content/uploads/2023/06/Yellow-Salsify-Flower-Growing-in-the-Garden.jpg"
+  },
+  {
+    "id": 28,
+    "common_name": "Wild Angelica",
+    "scientific_name": "Angelica sylvestris",
+    "family": "Apiaceae",
+    "lifespan": "Biennial or short-lived perennial",
+    "native_to": "Europe and Western Asia",
+    "height": "1–2 meters",
+    "trunk": "Hollow stems; less robust than A. archangelica",
+    "leaves": "Pinnate leaves; broader leaflets",
+    "fruit": "Oval seeds in umbels",
+    "parts_uses": {
+      "Leaves": "Traditional herb uses; wildlife value",
+      "Flowers": "Pollinator plant"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "8–20°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Moist meadows and woodland edges; fertile loam",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "UK",
+      "Norway",
+      "Sweden",
+      "Germany"
+    ],
+    "importance": {
+      "nutrition": "Primarily ecological value",
+      "economic": "Ornamental wildlife plant",
+      "cultural": "Native meadow and riverbank species"
+    },
+    "fun_facts": [
+      "Important nectar source for insects",
+      "Airier umbels compared to garden angelica"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVFSbICsejvxYx4OA1llDSrBPKuZN4G1ql_Q&s"
+  },
+  {
+    "id": 29,
+    "common_name": "Hogweed",
+    "scientific_name": "Heracleum sphondylium",
+    "family": "Apiaceae",
+    "lifespan": "Biennial or short-lived perennial",
+    "native_to": "Europe and Western Asia",
+    "height": "1–2 meters",
+    "trunk": "Stout, bristly stems",
+    "leaves": "Large, divided leaves",
+    "fruit": "Winged schizocarps",
+    "parts_uses": {
+      "Young shoots": "Traditional foraged vegetable in some regions (caution)",
+      "Seeds": "Spice in some Eastern European cuisines"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Moist, fertile soils",
+      "sunlight": "Full sun to light shade"
+    },
+    "major_countries": [
+      "UK",
+      "Germany",
+      "Poland",
+      "Russia"
+    ],
+    "importance": {
+      "nutrition": "Occasional traditional food uses",
+      "economic": "Wildlife and meadow plant",
+      "cultural": "Common hedgerow umbellifer in Europe"
+    },
+    "fun_facts": [
+      "Do not confuse with giant hogweed (H. mantegazzianum), which is hazardous",
+      "Flat-topped white umbels attract many insects"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZif4g4eHqL8ka5IecLZboz9W-6WsZr0rLgQ&s"
+  }
+]

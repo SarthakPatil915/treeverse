@@ -1,0 +1,154 @@
+/* Main Body */
+/* 🌿 General Page Container */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #f3f9f6;
+  color: #2c3e50;
+}
+
+/* Outer Box */
+.box {
+  padding: 100px 20px 60px 20px;
+  width: 100%;
+  background: linear-gradient(135deg, #dbebe3, #e8f5f0);
+  text-align: center;
+}
+
+/* Heading */
+.HH1 {
+  margin: 20px auto 40px auto;
+  color: #2c5c41;
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  transition: color 0.3s ease;
+}
+.HH1:hover {
+  color: #388e3c;
+}
+.box p{
+    padding-bottom: 50px;
+}
+/* Sub-box (Grid for cards) */
+.sub-box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+  padding: 40px;
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease-in-out;
+}
+
+/* Card */
+.cart {
+  height: 320px;
+  width: 260px;
+  background: linear-gradient(145deg, #e6f9f0, #ffffff);
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.1);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  cursor: pointer;
+}
+.cart:hover {
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Image inside card */
+.img {
+  margin: 20px auto;
+  height: 110px;
+  width: 110px;
+  background: #ffffff;
+  border-radius: 50%;
+  border: 2px solid #4caf50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+.cart:hover .img {
+  transform: rotate(5deg) scale(1.08);
+}
+.img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+/* Button */
+.btn {
+  display: inline-block;
+  height: 42px;
+  width: 120px;
+  background: #4caf50;
+  margin: 20px auto 0 auto;
+  border-radius: 50px;
+  font-weight: 600;
+  color: #fff;
+  border: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(76, 175, 80, 0.3);
+}
+.btn:hover {
+  background: #2e7d32;
+  transform: scale(1.08);
+  cursor: pointer;
+  box-shadow: 0 6px 15px rgba(46, 125, 50, 0.4);
+}
+
+/* 🌐 Responsive Design */
+@media (max-width: 1024px) {
+  .sub-box {
+    gap: 30px;
+    padding: 30px;
+  }
+  .cart {
+    width: 240px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 768px) {
+  .HH1 {
+    font-size: 2rem;
+  }
+  .cart {
+    width: 90%;
+    max-width: 320px;
+  }
+}
+
+@media (max-width: 480px) {
+  .HH1 {
+    font-size: 1.6rem;
+  }
+  .sub-box {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  .cart {
+    width: 100%;
+    max-width: 300px;
+  }
+  .btn {
+    width: 100px;
+    font-size: 0.9rem;
+  }
+}
+
+
+
+@media (max-width: 780px) {
+    .box{
+        padding-top: 210px;
+    }
+}

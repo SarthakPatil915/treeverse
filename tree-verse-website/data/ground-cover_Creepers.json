@@ -1,0 +1,472 @@
+[
+  {
+    "id": 0,
+    "common_name": "Wedelia",
+    "scientific_name": "Wedelia chinensis",
+    "family": "Asteraceae",
+    "lifespan": "Perennial creeping herb",
+    "native_to": "China, India, Southeast Asia",
+    "height": "Creeping groundcover up to 30 cm",
+    "trunk": "Slender creeping stems that root at nodes",
+    "leaves": "Opposite, lance-shaped green leaves",
+    "fruit": "Small brown achenes",
+    "parts_uses": {
+      "Leaves": "Medicinal use in Ayurveda for liver and skin",
+      "Roots": "Anti-inflammatory properties",
+      "Whole plant": "Prevents erosion, herbal medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Moist, loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "China", "Thailand", "Indonesia"],
+    "importance": {
+      "nutrition": "Rich in antioxidants",
+      "economic": "Used in landscaping and medicine",
+      "cultural": "Applied in Ayurveda and Chinese medicine"
+    },
+    "fun_facts": ["Also called ‘Chinese Wedelia’", "Used as ground stabilizer"],
+    "image_url": "https://nurserynisarga.in/wp-content/uploads/2024/05/wedelia.webp"
+  },
+  {
+    "id": 1,
+    "common_name": "Creeping Lilyturf",
+    "scientific_name": "Liriope spicata",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "East Asia (China, Japan, Vietnam)",
+    "height": "20–40 cm",
+    "trunk": "Rhizomatous creeping stems",
+    "leaves": "Grass-like, dark green leaves",
+    "fruit": "Small black berries",
+    "parts_uses": {
+      "Roots": "Used in Chinese medicine for coughs",
+      "Leaves": "Ornamental landscaping use",
+      "Whole plant": "Erosion control groundcover"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Moist, sandy loam",
+      "sunlight": "Partial shade to full shade"
+    },
+    "major_countries": ["China", "Japan", "Korea", "Vietnam"],
+    "importance": {
+      "nutrition": "Contains beneficial saponins",
+      "economic": "Valuable in gardening & landscaping",
+      "cultural": "Important in East Asian gardens"
+    },
+    "fun_facts": ["Popular lawn substitute", "Produces purple flower spikes"],
+    "image_url": "https://edis.ifas.ufl.edu/image/FP350/Dtoidnm2hj/I5bki0ufc9/I5bki0ufc9-2048.webp"
+  },
+  {
+    "id": 2,
+    "common_name": "Creeping Oxeye",
+    "scientific_name": "Sphagneticola trilobata",
+    "family": "Asteraceae",
+    "lifespan": "Perennial creeper",
+    "native_to": "Central America, naturalized in Asia",
+    "height": "20–30 cm",
+    "trunk": "Creeping stems rooting at nodes",
+    "leaves": "Bright green, three-lobed leaves",
+    "fruit": "Small dry achenes",
+    "parts_uses": {
+      "Leaves": "Used for wounds, cough, and fever",
+      "Roots": "Applied in folk medicine for skin issues",
+      "Whole plant": "Excellent soil binder & ornamental"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "1200–2500 mm",
+      "soil": "Well-drained fertile soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Thailand", "Malaysia", "Philippines"],
+    "importance": {
+      "nutrition": "Contains flavonoids and phytochemicals",
+      "economic": "Used in herbal healing and erosion control",
+      "cultural": "Valued in village medicine traditions"
+    },
+    "fun_facts": ["Also called ‘Singapore Daisy’", "Strong erosion control plant"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPJTNh8p6AISH5oEwRvppeZhMGHR4YH-_Gw&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Moneywort",
+    "scientific_name": "Lysimachia nummularia",
+    "family": "Primulaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "Europe, Asia",
+    "height": "5–15 cm tall",
+    "trunk": "Trailing stems with rooting nodes",
+    "leaves": "Round, bright green leaves",
+    "fruit": "Small capsules",
+    "parts_uses": {
+      "Leaves": "Ornamental groundcover",
+      "Whole plant": "Traditional medicinal uses for wounds"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist, humus-rich soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["UK", "Germany", "Poland", "China"],
+    "importance": {
+      "nutrition": "None significant",
+      "economic": "Valued as ornamental cover",
+      "cultural": "Planted for greenery in European gardens"
+    },
+    "fun_facts": ["Also called ‘Creeping Jenny’", "Spreads rapidly in moist soil"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouoMkKAvUL7pGWxpvNq-Z4Ujzd11YRlp1Qw&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Blue Daze",
+    "scientific_name": "Evolvulus glomeratus",
+    "family": "Convolvulaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "South America",
+    "height": "15–30 cm",
+    "trunk": "Trailing creeping stems",
+    "leaves": "Small, oval gray-green leaves",
+    "fruit": "Capsules with small seeds",
+    "parts_uses": {
+      "Leaves": "Ornamental and minor medicinal use",
+      "Whole plant": "Primarily decorative groundcover"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–32°C",
+      "rainfall": "800–1800 mm",
+      "soil": "Well-drained sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "India", "Thailand", "USA"],
+    "importance": {
+      "nutrition": "No major nutritional uses",
+      "economic": "Highly valued in ornamental landscaping",
+      "cultural": "Bright blue flowers used in gardens"
+    },
+    "fun_facts": ["Flowers bloom only in sunlight", "Low-maintenance groundcover"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1vBqXWAUjUk4YwR31r8kzfozRe58DxikdA&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Periwinkle",
+    "scientific_name": "Vinca minor",
+    "family": "Apocynaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "Europe, Asia",
+    "height": "10–20 cm",
+    "trunk": "Slender creeping stems rooting at nodes",
+    "leaves": "Glossy, dark green oval leaves",
+    "fruit": "Small follicles containing seeds",
+    "parts_uses": {
+      "Leaves": "Ornamental use, traditional medicine",
+      "Roots": "Mild medicinal uses",
+      "Whole plant": "Groundcover in gardens"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist, fertile soil",
+      "sunlight": "Partial shade to full shade"
+    },
+    "major_countries": ["France", "Germany", "Poland", "India"],
+    "importance": {
+      "nutrition": "No major nutritional value",
+      "economic": "Popular ornamental creeper",
+      "cultural": "Symbol of remembrance in Europe"
+    },
+    "fun_facts": ["Also called ‘Creeping Myrtle’", "Can naturalize quickly"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoK5dMEcX4F4c6JmbV64oqJ0z_OBoHCbDmfg&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Sweet Potato Vine",
+    "scientific_name": "Ipomoea batatas",
+    "family": "Convolvulaceae",
+    "lifespan": "Perennial in tropics, annual in cold regions",
+    "native_to": "Central and South America",
+    "height": "Creeping stems spreading up to 2 m",
+    "trunk": "Vining, rooting stems",
+    "leaves": "Heart-shaped to lobed leaves, green to purple",
+    "fruit": "Capsule with small black seeds",
+    "parts_uses": {
+      "Leaves": "Edible, rich in vitamins",
+      "Roots": "Tuber used as staple food",
+      "Whole plant": "Ornamental and edible creeper"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "800–2000 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "India", "Nigeria", "USA"],
+    "importance": {
+      "nutrition": "Rich in vitamin A, C, and dietary fiber",
+      "economic": "Major food crop and ornamental variety",
+      "cultural": "Sacred in Polynesian culture"
+    },
+    "fun_facts": ["Used both as food and garden ornamental", "Has purple, chartreuse, or variegated leaves"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFthpEXGykg_m7Y5f578F65vYnozTt2hCgJQ&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Ajuga",
+    "scientific_name": "Ajuga reptans",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "Europe, Asia",
+    "height": "10–15 cm",
+    "trunk": "Creeping stolons forming dense mats",
+    "leaves": "Dark green to purple, ovate leaves",
+    "fruit": "Nutlets",
+    "parts_uses": {
+      "Leaves": "Medicinal use for wound healing",
+      "Whole plant": "Groundcover and soil erosion control"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–25°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["UK", "France", "Germany", "India"],
+    "importance": {
+      "nutrition": "No significant nutrition",
+      "economic": "Popular landscaping plant",
+      "cultural": "Used in traditional European herbalism"
+    },
+    "fun_facts": ["Also called ‘Carpet Bugleweed’", "Produces blue flower spikes in spring"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXWeHKN7_4xNkZpHx_9lnk2XGO9AJxb2yiw&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Dichondra",
+    "scientific_name": "Dichondra repens",
+    "family": "Convolvulaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "New Zealand, Australia",
+    "height": "5–15 cm",
+    "trunk": "Creeping stems rooting at nodes",
+    "leaves": "Small kidney-shaped leaves",
+    "fruit": "Capsules with tiny seeds",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Whole plant": "Used as lawn substitute"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical, temperate",
+      "temperature": "15–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist sandy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Australia", "New Zealand", "USA", "India"],
+    "importance": {
+      "nutrition": "No edible use",
+      "economic": "Valuable as lawn alternative",
+      "cultural": "Widely used in decorative lawns"
+    },
+    "fun_facts": ["Forms a dense green carpet", "Low-maintenance lawn substitute"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8N2bxewjrF5HPHxheGUXkelzdzeM4yvtdUg&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Carpet Bugle",
+    "scientific_name": "Ajuga genevensis",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "Europe",
+    "height": "10–20 cm",
+    "trunk": "Stoloniferous creeping stems",
+    "leaves": "Serrated green leaves with purple tint",
+    "fruit": "Nutlets",
+    "parts_uses": {
+      "Leaves": "Medicinal use in traditional remedies",
+      "Whole plant": "Groundcover in lawns"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–22°C",
+      "rainfall": "700–1400 mm",
+      "soil": "Moist, humus-rich soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["France", "Germany", "Switzerland", "Poland"],
+    "importance": {
+      "nutrition": "No edible use",
+      "economic": "Widely used in ornamental gardening",
+      "cultural": "Traditional herbal use in Europe"
+    },
+    "fun_facts": ["Cousin of Ajuga reptans", "Purple flower spikes attract pollinators"],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:266,cw:1068,ch:1068,q:80,w:1068/MwXksy9nBuqcqzDGjwdnBS.jpg"
+  },
+  {
+    "id": 10,
+    "common_name": "Asian Jasmine",
+    "scientific_name": "Trachelospermum asiaticum",
+    "family": "Apocynaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "East Asia (China, Korea, Japan)",
+    "height": "15–30 cm, trailing vines can spread several meters",
+    "trunk": "Woody creeping stems rooting along nodes",
+    "leaves": "Dark green, oval, leathery leaves",
+    "fruit": "Rare in cultivation, small follicles",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Whole plant": "Groundcover, erosion control"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, temperate",
+      "temperature": "10–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["Japan", "China", "USA", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Popular landscaping creeper",
+      "cultural": "Widely planted in East Asian gardens"
+    },
+    "fun_facts": ["Extremely tough groundcover plant", "Can survive under trees where grass fails"],
+    "image_url": "https://m.media-amazon.com/images/I/61ZQmWvrk8L._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "common_name": "Creeping Thyme",
+    "scientific_name": "Thymus serpyllum",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial herb and groundcover",
+    "native_to": "Europe, North Africa, Asia",
+    "height": "5–15 cm",
+    "trunk": "Creeping, mat-forming stems",
+    "leaves": "Tiny, aromatic oval leaves",
+    "fruit": "Small nutlets",
+    "parts_uses": {
+      "Leaves": "Culinary herb, medicinal tea",
+      "Whole plant": "Groundcover in rock gardens"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, Mediterranean",
+      "temperature": "10–28°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Dry, sandy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Italy", "France", "Spain", "Turkey"],
+    "importance": {
+      "nutrition": "Contains essential oils, used in cooking",
+      "economic": "Aromatic herb and ornamental",
+      "cultural": "Sacred herb in European traditions"
+    },
+    "fun_facts": ["Releases fragrance when walked on", "Attracts bees and pollinators"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPajMwwmQ75RBd9BgZONC5qCXYE9uN39B9Q&s"
+  },
+  {
+    "id": 12,
+    "common_name": "Ice Plant",
+    "scientific_name": "Delosperma cooperi",
+    "family": "Aizoaceae",
+    "lifespan": "Perennial succulent groundcover",
+    "native_to": "South Africa",
+    "height": "10–15 cm",
+    "trunk": "Succulent creeping stems",
+    "leaves": "Fleshy, cylindrical green leaves",
+    "fruit": "Capsules with tiny seeds",
+    "parts_uses": {
+      "Leaves": "Ornamental succulent",
+      "Whole plant": "Groundcover in drought-prone areas"
+    },
+    "growing_conditions": {
+      "climate": "Arid, semi-arid",
+      "temperature": "10–35°C",
+      "rainfall": "300–700 mm",
+      "soil": "Sandy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["South Africa", "USA", "Australia", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Valuable in xeriscaping",
+      "cultural": "Used in ornamental succulent gardens"
+    },
+    "fun_facts": ["Produces dazzling purple flowers", "Very drought-tolerant"],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/v2/t:88,l:0,cw:1698,ch:955,q:80,w:1698/anZkUWyCHJikkwDVthC5MR.jpg"
+  },
+  {
+    "id": 13,
+    "common_name": "Mazus",
+    "scientific_name": "Mazus reptans",
+    "family": "Mazaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "Himalayan regions of Asia",
+    "height": "5–10 cm",
+    "trunk": "Low creeping stems forming mats",
+    "leaves": "Small, green, lance-shaped leaves",
+    "fruit": "Tiny capsules",
+    "parts_uses": {
+      "Leaves": "Ornamental greenery",
+      "Whole plant": "Used for groundcover in lawns and paths"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "5–20°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "Nepal", "China", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental groundcover",
+      "cultural": "Popular in Himalayan gardens"
+    },
+    "fun_facts": ["Spreads quickly between stepping stones", "Produces tiny violet flowers"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeqyHRK5ww4UsNf4A8zzIqMYx45ZHVXC_jw&s"
+  },
+  {
+    "id": 14,
+    "common_name": "Irish Moss",
+    "scientific_name": "Sagina subulata",
+    "family": "Caryophyllaceae",
+    "lifespan": "Perennial groundcover",
+    "native_to": "Europe",
+    "height": "5–8 cm",
+    "trunk": "Tiny creeping stems forming moss-like mats",
+    "leaves": "Needle-like green leaves",
+    "fruit": "Small capsules with seeds",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Whole plant": "Groundcover in rock gardens and lawns"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "5–20°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Ireland", "UK", "Germany", "USA"],
+    "importance": {
+      "nutrition": "No nutritional value",
+      "economic": "Valued for lawns and landscaping",
+      "cultural": "Often used as a grass alternative in Europe"
+    },
+    "fun_facts": ["Looks like moss but is a flowering plant", "Produces tiny white star-like flowers"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTby38H5IG0kmPM-YuCHkfnvWdWyEiQ6OST4w&s"
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "id": 0,
+    "common_name": "Golden Trumpet",
+    "scientific_name": "Allamanda cathartica",
+    "family": "Apocynaceae",
+    "lifespan": "Perennial",
+    "native_to": "South America (Brazil)",
+    "height": "3–6 meters",
+    "trunk": "Woody, twining climber with milky latex",
+    "leaves": "Glossy, lanceolate leaves in whorls",
+    "fruit": "Prickly capsule (rare in cultivation)",
+    "parts_uses": {
+      "Flowers": "Ornamental, widely grown in gardens",
+      "Leaves": "Used in traditional medicine as purgative",
+      "Latex": "Caution: toxic if ingested"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Brazil", "Thailand"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "High ornamental value",
+      "cultural": "Used as a decorative climber in public spaces"
+    },
+    "fun_facts": ["Called Golden Trumpet due to bright yellow flowers", "Blooms throughout the year in warm climates"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6-8G73KLCyOjNk47T0O-xlkatNpa_9AneQ&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Yellow Trumpet Vine",
+    "scientific_name": "Tecoma stans",
+    "family": "Bignoniaceae",
+    "lifespan": "Perennial",
+    "native_to": "Americas (Southern USA to Argentina)",
+    "height": "3–7 meters",
+    "trunk": "Woody stem with climbing habit",
+    "leaves": "Compound, pinnate leaves with serrated edges",
+    "fruit": "Long, slender seed pods",
+    "parts_uses": {
+      "Flowers": "Popular ornamental plant",
+      "Leaves": "Used in folk medicine for diabetes",
+      "Wood": "Lightweight, used in crafts"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical, semi-arid",
+      "temperature": "18–32°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Well-drained sandy or loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "India", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Extensively used in landscaping",
+      "cultural": "National flower of the Bahamas and US Virgin Islands"
+    },
+    "fun_facts": ["Also called Yellow Bells", "Flowers attract bees, butterflies, and hummingbirds"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSho1aj5_jkmAxYC04QTGFst2MWplMhSFeOgQ&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Blue Trumpet Vine",
+    "scientific_name": "Thunbergia grandiflora",
+    "family": "Acanthaceae",
+    "lifespan": "Perennial",
+    "native_to": "India and Southeast Asia",
+    "height": "6–15 meters",
+    "trunk": "Woody climber with fast growth",
+    "leaves": "Large, heart-shaped leaves",
+    "fruit": "Capsule with 2–4 seeds",
+    "parts_uses": {
+      "Flowers": "Decorative, used in gardens and fences",
+      "Roots": "Used in traditional medicine in Ayurveda",
+      "Leaves": "Occasionally used in herbal remedies"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–34°C",
+      "rainfall": "800–1800 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Thailand", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Popular ornamental creeper",
+      "cultural": "Used in Ayurvedic medicine for detoxification"
+    },
+    "fun_facts": ["Produces large sky-blue flowers", "Can cover walls and pergolas rapidly"],
+    "image_url": "https://www.soiled.in/cdn/shop/files/Snapinsta.app-336812305_616319973165376_1425144223631359852_n_1080.jpg?v=1720445696&width=1024"
+  },
+  {
+    "id": 3,
+    "common_name": "Coral Vine",
+    "scientific_name": "Antigonon leptopus",
+    "family": "Polygonaceae",
+    "lifespan": "Perennial",
+    "native_to": "Mexico",
+    "height": "8–12 meters",
+    "trunk": "Slender climbing vine with tendrils",
+    "leaves": "Heart-shaped, green leaves",
+    "fruit": "Small, dry achene",
+    "parts_uses": {
+      "Flowers": "Ornamental, attracts pollinators",
+      "Leaves": "Used in folk medicine as anti-inflammatory",
+      "Roots": "Traditional medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "22–32°C",
+      "rainfall": "800–2000 mm",
+      "soil": "Well-drained sandy or loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "Philippines", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Used in landscaping and fencing",
+      "cultural": "Called 'Chain of Love' due to pink flowers"
+    },
+    "fun_facts": ["Flowers attract bees, butterflies, and hummingbirds", "Can grow aggressively in some regions"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_RVuWUyGCQ9sWg7LpI7QpzGGHcSK_OtkzZg&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Rangoon Creeper",
+    "scientific_name": "Quisqualis indica",
+    "family": "Combretaceae",
+    "lifespan": "Perennial",
+    "native_to": "Tropical Asia",
+    "height": "2–8 meters",
+    "trunk": "Woody twining vine",
+    "leaves": "Opposite, ovate leaves with pointed tips",
+    "fruit": "Elongated with 5 distinct wings",
+    "parts_uses": {
+      "Flowers": "Ornamental, fragrant, changes color from white to red",
+      "Seeds": "Used in traditional medicine for intestinal worms",
+      "Leaves": "Applied in folk remedies"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–34°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Philippines", "Thailand"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Highly valued as an ornamental creeper",
+      "cultural": "Grown near temples and homes for fragrance"
+    },
+    "fun_facts": ["Flowers open white and gradually turn pink then red", "Strongly fragrant at night"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKRvKJX07Ro5c5Y-Spov632-hyXBndQQVHqQ&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Mandevilla",
+    "scientific_name": "Mandevilla sanderi",
+    "family": "Apocynaceae",
+    "lifespan": "Perennial",
+    "native_to": "South America (Brazil)",
+    "height": "2–4 meters",
+    "trunk": "Woody climbing vine with milky sap",
+    "leaves": "Glossy, dark green, elliptical leaves",
+    "fruit": "Two long seed pods containing silky seeds",
+    "parts_uses": {
+      "Flowers": "Grown as ornamental in gardens and balconies",
+      "Latex": "Caution: mildly toxic"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and warm subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Rich, well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Brazil", "India", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Important in horticulture trade",
+      "cultural": "Popular as a patio and trellis plant"
+    },
+    "fun_facts": ["Flowers come in pink, red, and white varieties", "Also called Brazilian jasmine"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdRfdHUCsFWZt5zZ8c1VgcPnxpLgKUZx4C2g&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Flame Vine",
+    "scientific_name": "Pyrostegia venusta",
+    "family": "Bignoniaceae",
+    "lifespan": "Perennial",
+    "native_to": "Brazil, Paraguay, Argentina",
+    "height": "5–15 meters",
+    "trunk": "Woody climber with tendrils",
+    "leaves": "Compound with 2–3 leaflets",
+    "fruit": "Slender capsule with winged seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, spectacular orange display in winter",
+      "Leaves": "Used in folk medicine for respiratory issues"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained fertile soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "India", "Australia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Grown on fences, pergolas, and walls",
+      "cultural": "Symbol of vitality and energy due to bright flowers"
+    },
+    "fun_facts": ["Also called Golden Shower or Orange Trumpet", "Flowers appear in dense clusters"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrMk50pwko6-km3nxIYxfTRhnn14LTnNZI7Q&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Clematis",
+    "scientific_name": "Clematis jackmanii",
+    "family": "Ranunculaceae",
+    "lifespan": "Perennial",
+    "native_to": "Hybrid origin (Europe horticulture)",
+    "height": "2–4 meters",
+    "trunk": "Slender twining vine",
+    "leaves": "Opposite, compound leaves",
+    "fruit": "Achene with feathery tail",
+    "parts_uses": {
+      "Flowers": "Highly ornamental, grown on trellises and arbors",
+      "Roots": "Used in traditional Chinese medicine"
+    },
+    "growing_conditions": {
+      "climate": "Temperate regions",
+      "temperature": "10–28°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Moist, well-drained fertile soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["UK", "USA", "China"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Important ornamental vine in Europe and Asia",
+      "cultural": "Symbol of art and ingenuity in Victorian gardens"
+    },
+    "fun_facts": ["Famous 'Clematis Jackmanii' is a purple-flowered hybrid", "Known as the 'Queen of Climbers'"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtPT10TxlQs4TEcchkoOI2tHQl3n6LFubCA&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Passion Flower",
+    "scientific_name": "Passiflora incarnata",
+    "family": "Passifloraceae",
+    "lifespan": "Perennial",
+    "native_to": "Southeastern USA",
+    "height": "3–9 meters",
+    "trunk": "Herbaceous to woody vine with tendrils",
+    "leaves": "Lobed leaves with serrated edges",
+    "fruit": "Oval yellow-orange berry called maypop",
+    "parts_uses": {
+      "Flowers": "Ornamental and medicinal uses",
+      "Fruits": "Edible, used in drinks and jams",
+      "Leaves": "Traditional use for calming effects"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical and temperate",
+      "temperature": "15–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Sandy loam with good drainage",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["USA", "Brazil", "India"],
+    "importance": {
+      "nutrition": "Fruit is rich in vitamins A and C",
+      "economic": "Valuable as both ornamental and fruit crop",
+      "cultural": "Flower symbolizes Christ’s Passion in Christianity"
+    },
+    "fun_facts": ["Known as 'Maypop' in the USA", "Flowers are highly intricate and symbolic"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNQy3LufxUTOA0W5-_LVqNATgIb90W0fNiA&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Blue Morning Glory",
+    "scientific_name": "Ipomoea indica",
+    "family": "Convolvulaceae",
+    "lifespan": "Perennial in tropics, annual in temperate regions",
+    "native_to": "Tropical America",
+    "height": "3–10 meters",
+    "trunk": "Herbaceous, twining stem",
+    "leaves": "Heart-shaped, large, green leaves",
+    "fruit": "Capsule with small black seeds",
+    "parts_uses": {
+      "Flowers": "Popular ornamental for fences and pergolas",
+      "Leaves": "Sometimes used in traditional remedies"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–32°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "India", "Australia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Highly valued for ornamental landscaping",
+      "cultural": "Symbol of love and affection in Japan"
+    },
+    "fun_facts": ["Flowers open in the morning and close by afternoon", "Blooms abundantly during monsoon"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVCBhZDPhHK_hTW8QApHOoLiIFIaOi0NsqwA&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Bleeding Heart Vine",
+    "scientific_name": "Clerodendrum thomsoniae",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "West Africa",
+    "height": "2–4 meters",
+    "trunk": "Woody twiner with slender stems",
+    "leaves": "Dark green, ovate, glossy leaves",
+    "fruit": "Small drupe",
+    "parts_uses": {
+      "Flowers": "Decorative ornamental in gardens and balconies"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["Nigeria", "India", "Thailand"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Popular ornamental climber in landscaping",
+      "cultural": "Known as a symbol of eternal love"
+    },
+    "fun_facts": ["Flowers have white calyx with bright red corolla", "Also called 'Glorybower'"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4w-CJyBdPUAq6Hb3pPeBj41zhXeJflPZWPQ&s"
+  },
+  {
+    "id": 11,
+    "common_name": "Bougainvillea",
+    "scientific_name": "Bougainvillea spectabilis",
+    "family": "Nyctaginaceae",
+    "lifespan": "Perennial",
+    "native_to": "South America",
+    "height": "3–12 meters",
+    "trunk": "Woody vine with thorns",
+    "leaves": "Simple, ovate, green leaves",
+    "fruit": "Small, dry, inconspicuous fruit",
+    "parts_uses": {
+      "Bracts": "Colorful modified leaves, used ornamentally",
+      "Leaves": "Traditional uses for cough and sore throat"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Sandy or loamy, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "India", "Philippines"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Major ornamental plant in landscaping",
+      "cultural": "Planted in homes and public parks for decoration"
+    },
+    "fun_facts": ["The bright colors are not flowers but bracts", "Can be trained as bonsai or hedge"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpVw8nPJAVqJt7qJTPaHhtzdgm-8vVM2GxsQ&s"
+  },
+  {
+    "id": 12,
+    "common_name": "Climbing Rose",
+    "scientific_name": "Rosa spp.",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Hybrid origin (Asia, Europe)",
+    "height": "2–6 meters",
+    "trunk": "Woody climber with prickles",
+    "leaves": "Compound leaves with serrated leaflets",
+    "fruit": "Hip (berry-like fruit rich in vitamin C)",
+    "parts_uses": {
+      "Flowers": "Widely used in ornamental gardening and bouquets",
+      "Petals": "Used for rose water and perfumes",
+      "Fruit": "Rose hips used in herbal teas"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "15–28°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained fertile soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "UK", "France"],
+    "importance": {
+      "nutrition": "Rose hips rich in vitamin C and antioxidants",
+      "economic": "Used in perfume, cosmetic, and ornamental industries",
+      "cultural": "Symbol of love and romance worldwide"
+    },
+    "fun_facts": ["Climbing roses are trained along walls and arches", "Rose is the national flower of several countries"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp4wBu2GhOWPfUs2qs1cMJLh9kL4BeP4TtHQ&s"
+  },
+  {
+    "id": 13,
+    "common_name": "Trumpet Creeper",
+    "scientific_name": "Campsis radicans",
+    "family": "Bignoniaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southeastern USA",
+    "height": "6–12 meters",
+    "trunk": "Woody vine with aerial roots",
+    "leaves": "Pinnate with serrated margins",
+    "fruit": "Capsule with winged seeds",
+    "parts_uses": {
+      "Flowers": "Highly ornamental, attracts hummingbirds"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Moist, fertile, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["USA", "France", "China"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Used in ornamental landscaping",
+      "cultural": "Symbol of separation in some folklore"
+    },
+    "fun_facts": ["Also called 'Cow-Itch Vine' as it may cause skin irritation", "Bright trumpet-shaped flowers"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-RoEETPsHnx_hjWOnecUhIxOggUOkqeLjg&s"
+  },
+  {
+    "id": 14,
+    "common_name": "Jade Vine",
+    "scientific_name": "Strongylodon macrobotrys",
+    "family": "Fabaceae",
+    "lifespan": "Perennial",
+    "native_to": "Philippines",
+    "height": "10–20 meters",
+    "trunk": "Woody climber with thick stems",
+    "leaves": "Trifoliate, dark green glossy leaves",
+    "fruit": "Oblong pods containing seeds",
+    "parts_uses": {
+      "Flowers": "Exotic ornamental, famous for turquoise color"
+    },
+    "growing_conditions": {
+      "climate": "Tropical rainforest",
+      "temperature": "20–32°C",
+      "rainfall": "2000–4000 mm",
+      "soil": "Rich, moist, well-drained soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Philippines", "Hawaii", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Rare ornamental plant, grown in botanical gardens",
+      "cultural": "Symbol of rarity and uniqueness in the Philippines"
+    },
+    "fun_facts": ["Flowers are turquoise to jade-green", "Pollinated by bats in the wild"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbIc41nww9ThbXvyzXvgK-4_N4xLaRdJ6fw&s"
+  },
+  {
+    "id": 15,
+    "common_name": "Golden Bell Climber",
+    "scientific_name": "Allamanda cathartica",
+    "family": "Apocynaceae",
+    "lifespan": "Perennial",
+    "native_to": "Brazil",
+    "height": "3–6 meters",
+    "trunk": "Woody climber with milky sap",
+    "leaves": "Whorled, lance-shaped leaves",
+    "fruit": "Spiny capsule with winged seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, large bright yellow blooms",
+      "Latex": "Traditionally used as a purgative (toxic if misused)"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "India", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Popular ornamental climber",
+      "cultural": "Associated with brightness and positivity"
+    },
+    "fun_facts": ["Also called 'Golden Trumpet'", "Flowers bloom almost year-round in tropics"],
+    "image_url": "https://m.media-amazon.com/images/I/41-xa8PGd3L._UF1000,1000_QL80_.jpg"
+  }
+
+]

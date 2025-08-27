@@ -1,0 +1,370 @@
+[
+  {
+    "id": 0,
+    "common_name": "Tulsi",
+    "scientific_name": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Indian subcontinent",
+    "height": "0.5–1 meters",
+    "trunk": "Woody stem",
+    "leaves": "Green or purple aromatic leaves",
+    "fruit": "Small nutlets",
+    "parts_uses": {
+      "Leaves": "Herbal tea, remedies for cough, cold, immunity",
+      "Seeds": "Used in cooling drinks and Ayurveda"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, fertile loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Thailand"],
+    "importance": {
+      "nutrition": "Rich in antioxidants",
+      "economic": "Herbal medicine trade",
+      "cultural": "Sacred in Hinduism"
+    },
+    "fun_facts": ["Considered the 'Queen of Herbs'", "Planted near homes for protection"],
+    "image_url": "https://cdn.britannica.com/87/207887-050-F48CB55D/basil.jpg"
+  },
+  {
+    "id": 1,
+    "common_name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "family": "Meliaceae",
+    "lifespan": "150–200 years",
+    "native_to": "Indian subcontinent",
+    "height": "15–20 meters",
+    "trunk": "Straight with rough, fissured bark",
+    "leaves": "Pinnate, serrated green leaves",
+    "fruit": "Olive-like drupe",
+    "parts_uses": {
+      "Leaves": "Medicinal for skin, hair, immunity",
+      "Bark": "Used in traditional remedies",
+      "Seeds": "Neem oil extraction"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, semi-arid",
+      "temperature": "21–32°C",
+      "rainfall": "400–1200 mm",
+      "soil": "Sandy to clayey loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "Myanmar"],
+    "importance": {
+      "nutrition": "Not edible directly",
+      "economic": "Neem oil, pesticides, cosmetics",
+      "cultural": "Sacred tree, used in rituals"
+    },
+    "fun_facts": ["Called 'Village Pharmacy'", "Neem twigs used as toothbrushes"],
+    "image_url": "https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.species.8112/asset/9703856a-6fb4-4555-adab-ae89ff65a531/assets/graphic/8112_08.jpg"
+  },
+  {
+    "id": 2,
+    "common_name": "Ashwagandha",
+    "scientific_name": "Withania somnifera",
+    "family": "Solanaceae",
+    "lifespan": "Annual to perennial",
+    "native_to": "India, Middle East, Africa",
+    "height": "0.5–1.5 meters",
+    "trunk": "Woody base with branching stems",
+    "leaves": "Dull green, elliptic leaves",
+    "fruit": "Red berry enclosed in papery husk",
+    "parts_uses": {
+      "Root": "Used in Ayurveda as rejuvenator",
+      "Leaves": "Applied in herbal poultices"
+    },
+    "growing_conditions": {
+      "climate": "Dry, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "300–500 mm",
+      "soil": "Sandy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Pakistan"],
+    "importance": {
+      "nutrition": "Adaptogen, boosts stamina",
+      "economic": "Medicinal herb trade",
+      "cultural": "Used for vitality and strength"
+    },
+    "fun_facts": ["Called 'Indian Ginseng'", "Name means 'Smell of Horse'"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgKNcgIwAAIveyD4LFXnd3cMWtFJ_g772Cmw&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Aloe Vera",
+    "scientific_name": "Aloe barbadensis miller",
+    "family": "Asphodelaceae",
+    "lifespan": "Perennial",
+    "native_to": "Arabian Peninsula",
+    "height": "0.6–1 meter",
+    "trunk": "Short stem with fleshy leaves",
+    "leaves": "Thick, fleshy, serrated edges",
+    "fruit": "Capsules with seeds",
+    "parts_uses": {
+      "Gel": "Used for burns, skin care, digestion",
+      "Leaves": "Cosmetic and medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Arid to tropical",
+      "temperature": "20–30°C",
+      "rainfall": "Low",
+      "soil": "Sandy, well-drained",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "China", "Mexico"],
+    "importance": {
+      "nutrition": "Used in juices, supplements",
+      "economic": "Cosmetics and medicine industry",
+      "cultural": "Household medicinal plant"
+    },
+    "fun_facts": ["Called 'Plant of Immortality' by Egyptians", "NASA studied it for air purification"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aloe_vera_flower_inset.png/500px-Aloe_vera_flower_inset.png"
+  },
+  {
+    "id": 4,
+    "common_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "lifespan": "Perennial (grown as annual)",
+    "native_to": "South Asia",
+    "height": "1 meter",
+    "trunk": "Rhizomatous underground stem",
+    "leaves": "Large, lance-shaped green leaves",
+    "fruit": "Rarely produced",
+    "parts_uses": {
+      "Rhizome": "Used as spice, dye, and medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained loamy",
+      "sunlight": "Partial to full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "Indonesia"],
+    "importance": {
+      "nutrition": "Contains curcumin, antioxidant",
+      "economic": "Spice trade, medicinal use",
+      "cultural": "Used in rituals, weddings"
+    },
+    "fun_facts": ["Called 'Golden Spice'", "Used as natural dye"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgcybzPhezEBBZ8srCtDtDogeF3chlpO9B_w&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "family": "Zingiberaceae",
+    "lifespan": "Perennial (cultivated as annual)",
+    "native_to": "Southeast Asia",
+    "height": "1–1.5 meters",
+    "trunk": "Rhizomatous underground stem",
+    "leaves": "Linear-lanceolate green leaves",
+    "fruit": "Rarely produced",
+    "parts_uses": {
+      "Rhizome": "Used in food, tea, medicines"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, humid",
+      "temperature": "20–30°C",
+      "rainfall": "1500–3000 mm",
+      "soil": "Fertile, well-drained loam",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "China", "Nigeria"],
+    "importance": {
+      "nutrition": "Rich in gingerol, aids digestion",
+      "economic": "Global spice trade",
+      "cultural": "Traditional medicine and cuisine"
+    },
+    "fun_facts": ["Ginger ale was one of the first soft drinks", "Used in Ayurveda for 3000+ years"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wTXcJcJW8iIFCW9iZAaa-bGAJII94dKCrg&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Peppermint",
+    "scientific_name": "Mentha × piperita",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe, Middle East",
+    "height": "0.3–1 meters",
+    "trunk": "Square stems with runners",
+    "leaves": "Dark green, serrated, aromatic",
+    "fruit": "Nutlets (rarely viable)",
+    "parts_uses": {
+      "Leaves": "Flavoring, tea, essential oil",
+      "Oil": "Used in medicines and toothpaste"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "15–25°C",
+      "rainfall": "Moderate to high",
+      "soil": "Moist, fertile loam",
+      "sunlight": "Partial sun"
+    },
+    "major_countries": ["USA", "India", "Egypt"],
+    "importance": {
+      "nutrition": "Used in teas and cooling drinks",
+      "economic": "Essential oil industry",
+      "cultural": "Used for freshness and digestion"
+    },
+    "fun_facts": ["Hybrid between watermint and spearmint", "Menthol extracted for medicines"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRvMXDCI3zGQ5HZ6l5eJdz--VTo0rMi5ckg&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Brahmi",
+    "scientific_name": "Bacopa monnieri",
+    "family": "Plantaginaceae",
+    "lifespan": "Perennial",
+    "native_to": "India, Asia, Africa",
+    "height": "Creeping, up to 0.3 meters",
+    "trunk": "Creeping succulent stems",
+    "leaves": "Small, oblong, fleshy leaves",
+    "fruit": "Ovoid capsule",
+    "parts_uses": {
+      "Leaves": "Memory enhancer, Ayurvedic medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, wetland",
+      "temperature": "20–30°C",
+      "rainfall": "High",
+      "soil": "Moist, marshy",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Sri Lanka", "Nepal"],
+    "importance": {
+      "nutrition": "Brain tonic herb",
+      "economic": "Ayurvedic supplements",
+      "cultural": "Used for mental clarity"
+    },
+    "fun_facts": ["Known as 'Herb of Grace'", "Used by ancient scholars for memory"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrC-Q0BcYNpY3b1FZUuUQvYjma-p3hnkk89w&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Amalaki (Indian Gooseberry)",
+    "scientific_name": "Phyllanthus emblica",
+    "family": "Phyllanthaceae",
+    "lifespan": "50–60 years",
+    "native_to": "India, Southeast Asia",
+    "height": "8–18 meters",
+    "trunk": "Crooked with light grey bark",
+    "leaves": "Small, linear, feathery",
+    "fruit": "Small, greenish-yellow berry",
+    "parts_uses": {
+      "Fruit": "Vitamin C rich, immunity booster",
+      "Leaves": "Used in herbal remedies"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Light, well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Sri Lanka", "Bangladesh"],
+    "importance": {
+      "nutrition": "Superfood rich in Vitamin C",
+      "economic": "Used in herbal and cosmetic industry",
+      "cultural": "Used in Ayurveda and religious rituals"
+    },
+    "fun_facts": ["One of the ingredients of 'Triphala'", "Tree considered sacred in India"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFWQqvBuQywmRnihU1y3pzzlhn0MvjM02Izg&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Licorice",
+    "scientific_name": "Glycyrrhiza glabra",
+    "family": "Fabaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe, Asia",
+    "height": "1–1.5 meters",
+    "trunk": "Woody base with upright stems",
+    "leaves": "Pinnate, green leaves",
+    "fruit": "Pod with seeds",
+    "parts_uses": {
+      "Root": "Used in herbal medicine, flavoring"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "15–25°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Deep, fertile loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Iran", "Turkey"],
+    "importance": {
+      "nutrition": "Contains glycyrrhizin, medicinal value",
+      "economic": "Used in sweets, herbal remedies",
+      "cultural": "Used in Ayurveda and Unani medicine"
+    },
+    "fun_facts": ["Known as 'Sweet Root'", "Used in traditional cough syrups"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSntmoTJ9OIOwc7aoMoS1760SJRNQQPOAQw&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Giloy",
+    "scientific_name": "Tinospora cordifolia",
+    "family": "Menispermaceae",
+    "lifespan": "Perennial climber",
+    "native_to": "Tropical India",
+    "height": "Climbing up to 10 meters",
+    "trunk": "Woody climbing stems",
+    "leaves": "Heart-shaped, green leaves",
+    "fruit": "Red drupe",
+    "parts_uses": {
+      "Stem": "Immunity booster, antipyretic",
+      "Leaves": "Used in Ayurveda for fevers"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "25–35°C",
+      "rainfall": "Moderate",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun to shade"
+    },
+    "major_countries": ["India", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Rich in antioxidants",
+      "economic": "Used in Ayurvedic medicine",
+      "cultural": "Called 'Amrita' in Ayurveda"
+    },
+    "fun_facts": ["Called 'Guduchi' in Sanskrit", "Boosts immunity naturally"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tinospora_cordifolia.jpg/960px-Tinospora_cordifolia.jpg"
+  },
+  {
+    "id": 11,
+    "common_name": "Shatavari",
+    "scientific_name": "Asparagus racemosus",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial climber",
+    "native_to": "India, Nepal, Sri Lanka",
+    "height": "1–2 meters",
+    "trunk": "Climbing stems with tuberous roots",
+    "leaves": "Needle-like cladodes",
+    "fruit": "Red berries",
+    "parts_uses": {
+      "Roots": "Used as female tonic in Ayurveda"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "20–32°C",
+      "rainfall": "Moderate",
+      "soil": "Sandy-loam",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["India", "Sri Lanka", "Nepal"],
+    "importance": {
+      "nutrition": "Contains saponins",
+      "economic": "Ayurvedic supplements",
+      "cultural": "Used for women's health"
+    },
+    "fun_facts": ["Name means 'She who possesses 100 husbands'", "Improves vitality"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eGX34w5f36DVd-qsnMiqptT9YVL5FtfiJQ&s"
+  }
+]

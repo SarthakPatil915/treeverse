@@ -1,0 +1,674 @@
+[
+  {
+    "id": 0,
+    "common_name": "Mountain Apple",
+    "scientific_name": "Syzygium malaccense",
+    "family": "Myrtaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Malay Peninsula, Pacific Islands",
+    "height": "10–15 meters",
+    "trunk": "Straight, smooth bark",
+    "leaves": "Large, glossy, dark green leaves",
+    "fruit": "Reddish, bell-shaped, juicy fruit",
+    "parts_uses": {
+      "Fruit": "Eaten fresh, used in jams",
+      "Wood": "Furniture and light construction",
+      "Leaves": "Traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "1500–3000 mm",
+      "soil": "Moist, well-drained, fertile soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Malaysia", "Indonesia", "Philippines"],
+    "importance": {
+      "nutrition": "Rich in vitamin C and antioxidants",
+      "economic": "Cultivated for fruits and timber",
+      "cultural": "Used in local cuisines and traditional remedies"
+    },
+    "fun_facts": ["Also called Malay apple", "Fruit is sometimes fermented to make wine"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHPN7P8Tozs8s8e0-KWY2jzGEKQbtphAvhw&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Indian Cherry",
+    "scientific_name": "Muntingia calabura",
+    "family": "Muntingiaceae",
+    "lifespan": "20–40 years",
+    "native_to": "Tropical America, now naturalized in Asia",
+    "height": "7–12 meters",
+    "trunk": "Slender, smooth, light-colored bark",
+    "leaves": "Simple, serrated light green leaves",
+    "fruit": "Small, red, sweet edible berries",
+    "parts_uses": {
+      "Fruit": "Eaten raw, used in jams",
+      "Leaves": "Traditional medicine",
+      "Wood": "Fuelwood"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "18–32°C",
+      "rainfall": "800–2500 mm",
+      "soil": "Tolerant to poor soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Philippines", "Thailand", "Mexico"],
+    "importance": {
+      "nutrition": "Rich in vitamin C and sugars",
+      "economic": "Backyard fruit tree",
+      "cultural": "Common in rural landscapes"
+    },
+    "fun_facts": ["Also called Jamaica cherry", "Attracts many birds"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToDxXVqo2DMwyOI_vscfqRlDX2hj_0pMUU1g&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Indian Almond",
+    "scientific_name": "Terminalia catappa",
+    "family": "Combretaceae",
+    "lifespan": "60–80 years",
+    "native_to": "Tropical Asia",
+    "height": "15–25 meters",
+    "trunk": "Tall, straight trunk with spreading branches",
+    "leaves": "Large, glossy, broad leaves that turn red before falling",
+    "fruit": "Ovate drupe with edible kernel",
+    "parts_uses": {
+      "Fruit": "Kernel consumed raw or roasted",
+      "Leaves": "Medicine, aquarium fish care",
+      "Wood": "Furniture and canoes"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and coastal",
+      "temperature": "22–35°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Sandy, loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Sri Lanka", "Thailand", "Indonesia"],
+    "importance": {
+      "nutrition": "Oil-rich edible kernel",
+      "economic": "Wood and medicinal leaves",
+      "cultural": "Planted for shade"
+    },
+    "fun_facts": ["Leaves improve water quality in aquariums", "Also called Tropical Almond"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokf3Rz9vc7faBZxUBm9JFVXhIRFKXAfWBaQ&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Mango Tree",
+    "scientific_name": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "lifespan": "100–200 years",
+    "native_to": "South Asia",
+    "height": "15–30 meters",
+    "trunk": "Thick, rough bark with dense crown",
+    "leaves": "Dark green, leathery leaves",
+    "fruit": "Fleshy drupe, varying in color and taste",
+    "parts_uses": {
+      "Fruit": "Fresh, juice, pickles, desserts",
+      "Leaves": "Used in rituals",
+      "Wood": "Furniture, fuelwood"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–38°C",
+      "rainfall": "800–2000 mm",
+      "soil": "Alluvial, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Pakistan", "Bangladesh", "Mexico"],
+    "importance": {
+      "nutrition": "Rich in vitamin A, C, fiber",
+      "economic": "Major fruit crop",
+      "cultural": "Sacred in India"
+    },
+    "fun_facts": ["India is the largest mango producer", "Leaves are used in Hindu rituals"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtVJy2blPlwP5Qs8IZyYcZN5DgWvPCpUkStQ&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Apple Tree",
+    "scientific_name": "Malus domestica",
+    "family": "Rosaceae",
+    "lifespan": "50–80 years",
+    "native_to": "Central Asia",
+    "height": "5–12 meters",
+    "trunk": "Short, gnarled trunk",
+    "leaves": "Oval, serrated leaves",
+    "fruit": "Round pome, red, green or yellow",
+    "parts_uses": {
+      "Fruit": "Eaten fresh, cider, pies",
+      "Wood": "Smoking meat",
+      "Leaves": "Traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "USA", "India", "Turkey"],
+    "importance": {
+      "nutrition": "Rich in fiber and vitamin C",
+      "economic": "Major global fruit crop",
+      "cultural": "Symbol of health"
+    },
+    "fun_facts": ["7,500 apple varieties exist", "Apples float in water"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbDBhGxPFdK0f0Vc3g2lId7HxqMyPtGsPYng&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Jackfruit Tree",
+    "scientific_name": "Artocarpus heterophyllus",
+    "family": "Moraceae",
+    "lifespan": "60–70 years",
+    "native_to": "South and Southeast Asia",
+    "height": "8–25 meters",
+    "trunk": "Straight, rough bark",
+    "leaves": "Glossy, dark green leaves",
+    "fruit": "Large, spiky fruit with sweet bulbs",
+    "parts_uses": {
+      "Fruit": "Eaten fresh, curries, chips",
+      "Seeds": "Roasted or boiled",
+      "Wood": "Furniture, instruments"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "22–35°C",
+      "rainfall": "1500–2500 mm",
+      "soil": "Deep, well-drained alluvial",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "Thailand", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Rich in vitamins A, C, fiber",
+      "economic": "Fruit trade",
+      "cultural": "National fruit of Bangladesh"
+    },
+    "fun_facts": ["Largest tree-borne fruit", "Unripe fruit is a meat substitute"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1UaethK8DEZHfnci7q-IAcDII3EFtDqLkNA&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Guava Tree",
+    "scientific_name": "Psidium guajava",
+    "family": "Myrtaceae",
+    "lifespan": "30–40 years",
+    "native_to": "Central America",
+    "height": "3–10 meters",
+    "trunk": "Smooth, peeling bark",
+    "leaves": "Oblong, aromatic leaves",
+    "fruit": "Round to oval, green skin, pink/white pulp",
+    "parts_uses": {
+      "Fruit": "Fresh, juice, jams",
+      "Leaves": "Medicinal tea",
+      "Wood": "Tool handles, fuelwood"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Mexico", "Brazil", "Philippines"],
+    "importance": {
+      "nutrition": "High in vitamin C, fiber",
+      "economic": "Juice, candy, exports",
+      "cultural": "Common in home gardens"
+    },
+    "fun_facts": ["Leaves used as natural toothbrush", "Called 'apple of the tropics'"],
+    "image_url": "https://urbanplants.co.in/cdn/shop/articles/thai-white-guava-tree-harvesting-and-pruning-786391.jpg?v=1671816230"
+  },
+  {
+    "id": 7,
+    "common_name": "Banana Plant",
+    "scientific_name": "Musa acuminata",
+    "family": "Musaceae",
+    "lifespan": "5–25 years (suckers regenerate)",
+    "native_to": "Southeast Asia",
+    "height": "2–9 meters",
+    "trunk": "Pseudostem of tightly packed leaf bases",
+    "leaves": "Large, elongated, bright green leaves",
+    "fruit": "Yellow elongated berries in clusters",
+    "parts_uses": {
+      "Fruit": "Eaten fresh, chips, desserts",
+      "Leaves": "Food wrapping, plates",
+      "Fibers": "Rope, textiles"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–35°C",
+      "rainfall": "1500–2500 mm",
+      "soil": "Rich, moist, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Ecuador", "Philippines", "Brazil"],
+    "importance": {
+      "nutrition": "High in potassium, fiber, vitamin B6",
+      "economic": "Major export fruit",
+      "cultural": "Leaves used in rituals"
+    },
+    "fun_facts": ["Bananas are technically berries", "Grow from suckers, not seeds"],
+    "image_url": "https://www.shutterstock.com/image-photo/tropical-banana-plants-large-green-600nw-2649586271.jpg"
+  },
+  {
+    "id": 8,
+    "common_name": "Papaya Tree",
+    "scientific_name": "Carica papaya",
+    "family": "Caricaceae",
+    "lifespan": "20–25 years",
+    "native_to": "Central America",
+    "height": "3–10 meters",
+    "trunk": "Hollow, herbaceous trunk",
+    "leaves": "Large, deeply lobed leaves",
+    "fruit": "Oval, green to yellow with orange flesh",
+    "parts_uses": {
+      "Fruit": "Fresh, juice, desserts",
+      "Leaves": "Medicinal uses, teas",
+      "Latex": "Source of papain enzyme"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Indonesia", "Brazil", "Nigeria"],
+    "importance": {
+      "nutrition": "High in vitamin C, A, folate",
+      "economic": "Papain enzyme industry",
+      "cultural": "Widely used in cuisine"
+    },
+    "fun_facts": ["Papaya seeds are edible and peppery", "Christopher Columbus called it 'fruit of the angels'"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjulte2FAgfH27HFu73hmhIh94Hr2GOESxGg&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Coconut Palm",
+    "scientific_name": "Cocos nucifera",
+    "family": "Arecaceae",
+    "lifespan": "60–100 years",
+    "native_to": "Indo-Pacific",
+    "height": "20–30 meters",
+    "trunk": "Tall, slender, ringed trunk",
+    "leaves": "Long, pinnate fronds",
+    "fruit": "Large drupe with husk, shell, water, and flesh",
+    "parts_uses": {
+      "Fruit": "Water, milk, oil, flesh",
+      "Husk": "Coir ropes, mats",
+      "Leaves": "Roofing, mats"
+    },
+    "growing_conditions": {
+      "climate": "Tropical coastal",
+      "temperature": "22–32°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Sandy, saline-tolerant",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Indonesia", "Philippines", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Provides electrolytes, fats",
+      "economic": "Oil, coir, food industry",
+      "cultural": "Sacred in Hindu rituals"
+    },
+    "fun_facts": ["Called 'Tree of Life'", "Coconuts float and spread across oceans"],
+    "image_url": "https://cdn.britannica.com/64/198664-050-83CA9198/coconut-palm-tree-Christmas-Island-Kiribati.jpg"
+  },
+  {
+    "id": 10,
+    "common_name": "Orange Tree",
+    "scientific_name": "Citrus sinensis",
+    "family": "Rutaceae",
+    "lifespan": "50–60 years",
+    "native_to": "Southern China and Southeast Asia",
+    "height": "5–10 meters",
+    "trunk": "Small, woody trunk with branches",
+    "leaves": "Glossy, oval, evergreen leaves",
+    "fruit": "Round, orange-colored citrus fruit",
+    "parts_uses": {
+      "Fruit": "Fresh, juice, zest",
+      "Flowers": "Perfumes, teas",
+      "Peel": "Essential oils"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical",
+      "temperature": "12–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "USA", "China", "India"],
+    "importance": {
+      "nutrition": "High in vitamin C",
+      "economic": "Juice and export industry",
+      "cultural": "Symbol of prosperity in China"
+    },
+    "fun_facts": ["World’s most popular fruit", "Valencia oranges are famous for juice"],
+    "image_url": "https://media.istockphoto.com/id/1805436163/photo/orange-trees-or-citrus-sinensis-almost-covered-with-oranges-great-harvest-in-the-orchard.jpg?s=612x612&w=0&k=20&c=XYJsF4ysENcahtrdm4AFxZtHQAOgh67g6yp97RKtwNU="
+  },
+  {
+    "id": 11,
+    "common_name": "Lemon Tree",
+    "scientific_name": "Citrus limon",
+    "family": "Rutaceae",
+    "lifespan": "50 years",
+    "native_to": "Northeast India",
+    "height": "3–6 meters",
+    "trunk": "Woody, thorny trunk",
+    "leaves": "Glossy green aromatic leaves",
+    "fruit": "Elliptical yellow citrus fruit",
+    "parts_uses": {
+      "Fruit": "Juice, flavoring, pickles",
+      "Peel": "Oil, zest, cleaners",
+      "Leaves": "Aromatic uses"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Mexico", "Argentina", "Spain"],
+    "importance": {
+      "nutrition": "Rich in vitamin C",
+      "economic": "Juice and food industry",
+      "cultural": "Used in cleansing rituals"
+    },
+    "fun_facts": ["Lemons sink in water, unlike limes", "Ancient sailors used lemons to prevent scurvy"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pebLn6j8R-1ACCkVPdD3xxa-yF1K90vYlw&s"
+  },
+    {
+    "id": 12,
+    "common_name": "Pear Tree",
+    "scientific_name": "Pyrus communis",
+    "family": "Rosaceae",
+    "lifespan": "50–75 years",
+    "native_to": "Europe and Western Asia",
+    "height": "10–17 meters",
+    "trunk": "Slender trunk with gray bark",
+    "leaves": "Oval, glossy, dark green leaves",
+    "fruit": "Sweet, bell-shaped fruit",
+    "parts_uses": {
+      "Fruit": "Eaten fresh, juice, jams",
+      "Wood": "Furniture, instruments",
+      "Leaves": "Animal fodder"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "0–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "Italy", "USA", "Argentina"],
+    "importance": {
+      "nutrition": "Rich in fiber, vitamin C, and copper",
+      "economic": "Commercial fruit orchards",
+      "cultural": "Symbol of immortality in Chinese culture"
+    },
+    "fun_facts": ["Over 3,000 varieties of pears exist", "One of the oldest cultivated fruits"],
+    "image_url": "https://www.thespruce.com/thmb/jCNBRwDIkjBeOpDbE4bEeiFpsHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bartlett-pear-tree-growing-guide-5211022_04-7703e95172b04952a53096f1b23b004e.jpg"
+  },
+  {
+    "id": 13,
+    "common_name": "Plum Tree",
+    "scientific_name": "Prunus domestica",
+    "family": "Rosaceae",
+    "lifespan": "15–20 years",
+    "native_to": "Europe and Asia",
+    "height": "4–10 meters",
+    "trunk": "Short, gnarled trunk",
+    "leaves": "Simple, oval green leaves",
+    "fruit": "Smooth-skinned, juicy drupe",
+    "parts_uses": {
+      "Fruit": "Fresh, dried (prunes), jams",
+      "Flowers": "Ornamental",
+      "Wood": "Small craft items"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "0–30°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Loamy and well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "Serbia", "Romania", "USA"],
+    "importance": {
+      "nutrition": "Rich in antioxidants, fiber, vitamin C",
+      "economic": "Prune industry, jams, dried fruit",
+      "cultural": "Symbol of resilience in Asia"
+    },
+    "fun_facts": ["Prunes are dried plums", "Japanese plum blossoms are a symbol of spring"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMeyZaylrQR2tA0UlXB33E9IDBHQ1GZJpsA&s"
+  },
+  {
+    "id": 14,
+    "common_name": "Peach Tree",
+    "scientific_name": "Prunus persica",
+    "family": "Rosaceae",
+    "lifespan": "12–20 years",
+    "native_to": "China",
+    "height": "3–8 meters",
+    "trunk": "Short, rough-barked trunk",
+    "leaves": "Lance-shaped green leaves",
+    "fruit": "Velvety-skinned drupe with sweet flesh",
+    "parts_uses": {
+      "Fruit": "Eaten fresh, canned, juices",
+      "Flowers": "Cosmetics, teas",
+      "Seeds": "Oil extraction"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "5–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "Italy", "Spain", "USA"],
+    "importance": {
+      "nutrition": "Rich in vitamin C, A, and fiber",
+      "economic": "Large global fruit trade",
+      "cultural": "Symbol of longevity in Chinese culture"
+    },
+    "fun_facts": ["Peaches belong to the rose family", "First cultivated in China over 4,000 years ago"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP2z64VTLF88ilPya7bFCdSfeIu5doS0YxBQ&s"
+  },
+  {
+    "id": 15,
+    "common_name": "Cherry Tree",
+    "scientific_name": "Prunus avium",
+    "family": "Rosaceae",
+    "lifespan": "20–30 years",
+    "native_to": "Europe and Western Asia",
+    "height": "7–15 meters",
+    "trunk": "Smooth, reddish-brown bark",
+    "leaves": "Serrated, glossy green leaves",
+    "fruit": "Small, red to black drupes",
+    "parts_uses": {
+      "Fruit": "Fresh, jams, desserts",
+      "Wood": "Furniture and veneers",
+      "Flowers": "Ornamental cherry blossoms"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "0–25°C",
+      "rainfall": "700–1200 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Turkey", "USA", "Iran", "Italy"],
+    "importance": {
+      "nutrition": "Rich in vitamin C, antioxidants",
+      "economic": "High-value fruit export",
+      "cultural": "Cherry blossoms symbolize renewal in Japan"
+    },
+    "fun_facts": ["Cherries can be sweet or sour", "Washington D.C. has famous cherry blossom festivals"],
+    "image_url": "https://www.bhg.com/thmb/iqdvLJ-00Z74jZ_-YvN5brhhq68=/1500x0/filters:no_upscale():strip_icc()/cherry-tree-bhg-102823423-4cd43b6763234fafbfff7effa2a3edd3.jpg"
+  },
+  {
+    "id": 16,
+    "common_name": "Grapevine",
+    "scientific_name": "Vitis vinifera",
+    "family": "Vitaceae",
+    "lifespan": "50–100 years",
+    "native_to": "Mediterranean and Central Asia",
+    "height": "Climbing vine up to 10 meters",
+    "trunk": "Woody, twisted stems",
+    "leaves": "Large, lobed green leaves",
+    "fruit": "Small berries in clusters (grapes)",
+    "parts_uses": {
+      "Fruit": "Eaten fresh, wine, raisins",
+      "Leaves": "Stuffed grape leaves",
+      "Seeds": "Oil extraction"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean",
+      "temperature": "10–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Italy", "Spain", "France", "China"],
+    "importance": {
+      "nutrition": "Rich in antioxidants, resveratrol",
+      "economic": "Wine and raisin industry",
+      "cultural": "Symbol of abundance in Greek culture"
+    },
+    "fun_facts": ["Grapes are one of the oldest cultivated fruits", "Over 70% of grapes go into wine production"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWFBPyepggHhvPZLk2r9_446oavqbvR_z7Ww&s"
+  },
+    {
+    "id": 17,
+    "common_name": "Pomegranate Tree",
+    "scientific_name": "Punica granatum",
+    "family": "Lythraceae",
+    "lifespan": "50–200 years",
+    "native_to": "Iran to Northern India",
+    "height": "5–10 meters",
+    "trunk": "Shrubby, multiple stems",
+    "leaves": "Narrow, glossy green leaves",
+    "fruit": "Round fruit with red arils",
+    "parts_uses": {
+      "Fruit": "Juice, fresh, desserts",
+      "Peel": "Dyes, medicine",
+      "Seeds": "Oil extraction"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical to tropical",
+      "temperature": "10–35°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Iran", "Spain", "Afghanistan"],
+    "importance": {
+      "nutrition": "Rich in antioxidants, vitamin C, potassium",
+      "economic": "Juice and fresh fruit trade",
+      "cultural": "Symbol of fertility and prosperity"
+    },
+    "fun_facts": ["Seeds are called arils", "Featured in many ancient mythologies"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScP49Eo-nEdvPH6RrVpGfO7zOQLyqeCHEtQ&s"
+  },
+  {
+    "id": 18,
+    "common_name": "Fig Tree",
+    "scientific_name": "Ficus carica",
+    "family": "Moraceae",
+    "lifespan": "30–50 years",
+    "native_to": "Middle East and Western Asia",
+    "height": "3–10 meters",
+    "trunk": "Short, gnarled trunk",
+    "leaves": "Large, lobed leaves",
+    "fruit": "Pear-shaped, soft, sweet fruit",
+    "parts_uses": {
+      "Fruit": "Fresh, dried, jams",
+      "Leaves": "Traditional medicine",
+      "Latex": "Folk remedies"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate to subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "400–800 mm",
+      "soil": "Well-drained, sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Turkey", "Egypt", "Iran", "Morocco"],
+    "importance": {
+      "nutrition": "Rich in fiber, calcium, antioxidants",
+      "economic": "Commercial dried fruit trade",
+      "cultural": "Mentioned in ancient religious texts"
+    },
+    "fun_facts": ["One of the earliest cultivated fruits", "Not true fruits but inverted flowers"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQGaCS524Am9ldu2jGbJCxUbCfv4f84wvFbA&s"
+  },
+  {
+    "id": 19,
+    "common_name": "Olive Tree",
+    "scientific_name": "Olea europaea",
+    "family": "Oleaceae",
+    "lifespan": "500–1500 years",
+    "native_to": "Mediterranean Basin",
+    "height": "8–15 meters",
+    "trunk": "Gnarled, twisted trunk",
+    "leaves": "Gray-green, narrow leaves",
+    "fruit": "Small drupe (olives)",
+    "parts_uses": {
+      "Fruit": "Edible olives, olive oil",
+      "Wood": "Carvings, furniture",
+      "Leaves": "Medicinal teas"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean",
+      "temperature": "10–30°C",
+      "rainfall": "400–800 mm",
+      "soil": "Rocky, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Spain", "Italy", "Greece", "Turkey"],
+    "importance": {
+      "nutrition": "Olive oil rich in healthy fats",
+      "economic": "Major global oil industry",
+      "cultural": "Symbol of peace and wisdom"
+    },
+    "fun_facts": ["Some olive trees are over 2000 years old", "Olive branch is a peace symbol"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXbCUMyk8WkiVbkcOpYFfeZHZmz-khQKzEfg&s"
+  },
+  {
+    "id": 20,
+    "common_name": "Date Palm",
+    "scientific_name": "Phoenix dactylifera",
+    "family": "Arecaceae",
+    "lifespan": "100–150 years",
+    "native_to": "Middle East and North Africa",
+    "height": "15–25 meters",
+    "trunk": "Tall, columnar with leaf scars",
+    "leaves": "Long, feather-like fronds",
+    "fruit": "Dates, oblong and sweet",
+    "parts_uses": {
+      "Fruit": "Fresh and dried consumption",
+      "Leaves": "Mats, baskets",
+      "Trunk": "Construction material"
+    },
+    "growing_conditions": {
+      "climate": "Arid desert",
+      "temperature": "20–45°C",
+      "rainfall": "Less than 250 mm",
+      "soil": "Sandy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Egypt", "Saudi Arabia", "Iran", "Iraq"],
+    "importance": {
+      "nutrition": "High in natural sugars, potassium, fiber",
+      "economic": "Staple fruit in deserts",
+      "cultural": "Sacred in Middle Eastern traditions"
+    },
+    "fun_facts": ["Dates are one of the oldest cultivated fruits", "A single tree can produce 200 kg annually"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2p3pI6K7QZ0_t6-lmXOEqD6nYUVwjLZLEPA&s"
+  }
+]

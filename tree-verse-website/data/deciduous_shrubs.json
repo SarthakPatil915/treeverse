@@ -1,0 +1,312 @@
+[
+  {
+    "id": 0,
+    "common_name": "Japanese Kerria",
+    "scientific_name": "Kerria japonica",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Japan, China, Korea",
+    "height": "1–2 meters",
+    "trunk": "Multi-stemmed deciduous shrub",
+    "leaves": "Green, ovate, serrated leaves",
+    "fruit": "Small dry capsule",
+    "parts_uses": {
+      "Flowers": "Ornamental, spring bloom",
+      "Leaves": "Sometimes used in traditional crafts"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Japan", "China", "Korea"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in traditional gardens and bonsai"
+    },
+    "fun_facts": ["Bright yellow flowers in spring", "Easy to grow and prune"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnK6XzL1952ea29O4K-5Ll4nSlyu_vKYqrFQ&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Butterfly Bush",
+    "scientific_name": "Buddleja davidii",
+    "family": "Scrophulariaceae",
+    "lifespan": "Perennial",
+    "native_to": "China",
+    "height": "2–4 meters",
+    "trunk": "Deciduous woody stems",
+    "leaves": "Long, lance-shaped, gray-green",
+    "fruit": "Small capsule containing seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, attract butterflies",
+      "Leaves": "Occasionally in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–30°C",
+      "rainfall": "500–1200 mm",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "UK", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Garden and landscaping industry",
+      "cultural": "Popular in butterfly gardens"
+    },
+    "fun_facts": ["Highly attractive to butterflies", "Fast-growing shrub"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDXve5rcxhRQix1mEEj-cnGMQv6XydM5qMA&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Weigela",
+    "scientific_name": "Weigela florida",
+    "family": "Caprifoliaceae",
+    "lifespan": "Perennial",
+    "native_to": "Korea, Japan, China",
+    "height": "1.5–3 meters",
+    "trunk": "Deciduous multi-stemmed shrub",
+    "leaves": "Green, ovate, toothed margins",
+    "fruit": "Capsule with small seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, attract hummingbirds",
+      "Leaves": "Used in garden aesthetics"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–30°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Japan", "Korea", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Landscaping, ornamental",
+      "cultural": "Used in decorative garden designs"
+    },
+    "fun_facts": ["Pink, red, or white flowers in spring", "Deer-resistant shrub"],
+    "image_url": "https://m.media-amazon.com/images/I/61aTNO5DvoL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Mock Orange",
+    "scientific_name": "Philadelphus coronarius",
+    "family": "Hydrangeaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southern Europe",
+    "height": "1.5–3 meters",
+    "trunk": "Deciduous, multi-stemmed shrub",
+    "leaves": "Ovate, green, toothed edges",
+    "fruit": "Capsule containing seeds",
+    "parts_uses": {
+      "Flowers": "Fragrant, ornamental",
+      "Leaves": "Occasionally used in traditional crafts"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["France", "Germany", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in scented gardens and bouquets"
+    },
+    "fun_facts": ["Flowers smell like orange blossoms", "Blooms in late spring"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRim2bgBtoK1SX7q0aJMA7gpIMHozpj1RBgjA&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Spirea",
+    "scientific_name": "Spiraea japonica",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Japan, China",
+    "height": "1–2 meters",
+    "trunk": "Deciduous multi-stemmed shrub",
+    "leaves": "Green, ovate, finely serrated",
+    "fruit": "Small capsule",
+    "parts_uses": {
+      "Flowers": "Ornamental, landscape design",
+      "Leaves": "Occasionally in traditional remedies"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Japan", "China", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in garden borders and mass plantings"
+    },
+    "fun_facts": ["Blooms in late spring to summer", "Tolerant of pruning and shaping"],
+    "image_url": "https://mainaamgarden.com/cdn/shop/products/Spiraea-japonica-Neon-Flash-Neon-Flash-Spirea_1.jpg?v=1652521305"
+  },
+  {
+    "id": 5,
+    "common_name": "Hydrangea",
+    "scientific_name": "Hydrangea macrophylla",
+    "family": "Hydrangeaceae",
+    "lifespan": "Perennial",
+    "native_to": "Japan, China",
+    "height": "1–3 meters",
+    "trunk": "Deciduous, multi-stemmed shrub",
+    "leaves": "Large, ovate, dark green leaves",
+    "fruit": "Small capsule",
+    "parts_uses": {
+      "Flowers": "Ornamental, garden decoration",
+      "Leaves": "Occasionally used in traditional remedies"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "10–25°C",
+      "rainfall": "1000–1500 mm",
+      "soil": "Moist, well-drained acidic soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Japan", "China", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Popular in flower gardens and landscaping"
+    },
+    "fun_facts": ["Flower color can change with soil pH", "Blooms in summer"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%28Natural%29_Hydrangea_macrophylla%2C_Iwafune%2C_Isumi%2C_Chiba%2C_Japan_2.jpg/960px-%28Natural%29_Hydrangea_macrophylla%2C_Iwafune%2C_Isumi%2C_Chiba%2C_Japan_2.jpg"
+  },
+  {
+    "id": 6,
+    "common_name": "Forsythia",
+    "scientific_name": "Forsythia × intermedia",
+    "family": "Oleaceae",
+    "lifespan": "Perennial",
+    "native_to": "China, Korea",
+    "height": "1–3 meters",
+    "trunk": "Deciduous, arching woody stems",
+    "leaves": "Oval, bright green leaves",
+    "fruit": "Capsule with small seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, early spring bloom",
+      "Leaves": "Sometimes used in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["China", "Korea", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Garden and landscaping industry",
+      "cultural": "Symbol of early spring in gardens"
+    },
+    "fun_facts": ["Bright yellow flowers before leaves appear", "Low maintenance shrub"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Forsythia_flower.JPG"
+  },
+  {
+    "id": 7,
+    "common_name": "Clematis shrub",
+    "scientific_name": "Clematis montana",
+    "family": "Ranunculaceae",
+    "lifespan": "Perennial",
+    "native_to": "China, Himalayas",
+    "height": "2–3 meters",
+    "trunk": "Deciduous climbing shrub",
+    "leaves": "Compound, ovate, bright green",
+    "fruit": "Feathery achenes",
+    "parts_uses": {
+      "Flowers": "Ornamental, climbing garden plant",
+      "Leaves": "Occasionally used in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–25°C",
+      "rainfall": "700–1200 mm",
+      "soil": "Well-drained soil rich in organic matter",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["China", "Nepal", "UK"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Popular in climbing gardens and trellises"
+    },
+    "fun_facts": ["Produces fragrant flowers in spring", "Fast-growing climber"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Clematis_%27Nelly_Moser%27.JPG/1200px-Clematis_%27Nelly_Moser%27.JPG"
+  },
+  {
+    "id": 8,
+    "common_name": "Ninebark",
+    "scientific_name": "Physocarpus opulifolius",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "North America",
+    "height": "1.5–3 meters",
+    "trunk": "Deciduous multi-stemmed shrub",
+    "leaves": "Green, lobed, turning red in autumn",
+    "fruit": "Small capsules",
+    "parts_uses": {
+      "Leaves": "Ornamental, autumn color",
+      "Bark": "Decorative in winter landscaping"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "-20–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["USA", "Canada"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental landscaping",
+      "cultural": "Used in gardens for seasonal color"
+    },
+    "fun_facts": ["Peeling bark gives winter interest", "Attractive to pollinators"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Physocarpus_opulifolius_Arkansas.jpg"
+  },
+  {
+    "id": 9,
+    "common_name": "Rugosa Rose",
+    "scientific_name": "Rosa rugosa",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "Asia (Japan, China)",
+    "height": "1–2 meters",
+    "trunk": "Deciduous shrub with thorny stems",
+    "leaves": "Dark green, wrinkled, pinnate",
+    "fruit": "Red rose hips",
+    "parts_uses": {
+      "Flowers": "Ornamental, fragrant",
+      "Fruits": "Rose hips used in jams, teas, and remedies"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "-10–30°C",
+      "rainfall": "700–1200 mm",
+      "soil": "Sandy, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Japan", "China", "USA"],
+    "importance": {
+      "nutrition": "Vitamin C-rich rose hips",
+      "economic": "Ornamental and edible products",
+      "cultural": "Used in traditional medicine and gardens"
+    },
+    "fun_facts": ["Highly fragrant flowers", "Tolerates coastal conditions"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Rosa_rugosa_Tokyo.JPG"
+  }
+]

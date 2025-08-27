@@ -1,0 +1,377 @@
+[
+  {
+    "id": 0,
+    "common_name": "Pea Plant",
+    "scientific_name": "Pisum sativum",
+    "family": "Fabaceae",
+    "lifespan": "Annual",
+    "native_to": "Mediterranean, Western Asia",
+    "height": "1–2 meters",
+    "trunk": "Slender herbaceous stem",
+    "leaves": "Compound leaves with leaflets ending in tendrils",
+    "fruit": "Green pods with peas",
+    "parts_uses": {
+      "Leaves": "Edible as greens",
+      "Pods": "Eaten fresh or dried",
+      "Seeds": "Source of protein"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "13–20°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "USA"],
+    "importance": {
+      "nutrition": "High in protein, fiber, and vitamins",
+      "economic": "Staple legume crop worldwide",
+      "cultural": "Symbol of fertility in ancient cultures"
+    },
+    "fun_facts": ["One of the first domesticated crops", "Gregor Mendel used peas to study genetics"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZV-FOWvCM67oqqLv3Cyf56mJFh26Ks42JKA&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Bitter Gourd",
+    "scientific_name": "Momordica charantia",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "Tropical Asia",
+    "height": "2–5 meters",
+    "trunk": "Slender, green, climbing vine",
+    "leaves": "Palmately lobed, rough-textured",
+    "fruit": "Green, warty bitter melon",
+    "parts_uses": {
+      "Fruit": "Eaten as vegetable, medicinal uses",
+      "Leaves": "Used in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "25–35°C",
+      "rainfall": "700–1200 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Philippines"],
+    "importance": {
+      "nutrition": "Rich in vitamin C and antioxidants",
+      "economic": "Important vegetable crop in Asia",
+      "cultural": "Widely used in Ayurvedic and Chinese medicine"
+    },
+    "fun_facts": ["Contains compounds with potential anti-diabetic properties", "Often used in traditional dishes for its bitterness"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf_uXfC4GPcy8fMWZbWnaxe1bhL3ow46RDAA&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Cucumber",
+    "scientific_name": "Cucumis sativus",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "South Asia",
+    "height": "1–3 meters",
+    "trunk": "Slender vine with branching tendrils",
+    "leaves": "Broad, rough, lobed leaves",
+    "fruit": "Green cylindrical cucumber",
+    "parts_uses": {
+      "Fruit": "Consumed raw or pickled",
+      "Seeds": "Source of oil"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate, tropical",
+      "temperature": "20–30°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Fertile sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "USA"],
+    "importance": {
+      "nutrition": "High water content, good source of vitamin K",
+      "economic": "Widely cultivated vegetable crop",
+      "cultural": "Used in skincare and beauty remedies"
+    },
+    "fun_facts": ["Cucumbers are 95% water", "Belongs to the same family as pumpkins and melons"],
+    "image_url": "https://www.greenhousegrower.com/wp-content/uploads/2021/07/UK-Cucumber-Research.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Pumpkin",
+    "scientific_name": "Cucurbita maxima",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "North America",
+    "height": "2–6 meters",
+    "trunk": "Thick, rough, climbing stem",
+    "leaves": "Large, heart-shaped, hairy leaves",
+    "fruit": "Large round pumpkin",
+    "parts_uses": {
+      "Fruit": "Edible, used in soups and desserts",
+      "Seeds": "Eaten roasted, oil extracted",
+      "Leaves": "Cooked as vegetable"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Rich loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["USA", "India", "Mexico"],
+    "importance": {
+      "nutrition": "Rich in vitamin A, potassium, and fiber",
+      "economic": "Used in food industry, festivals, and livestock feed",
+      "cultural": "Central symbol of Halloween and harvest festivals"
+    },
+    "fun_facts": ["Pumpkins are 90% water", "Largest pumpkin ever grown weighed over 1,200 kg"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_AhZkxjICCUgq1WkzxKMvGPnXKuv8FLCeA&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Grapevine",
+    "scientific_name": "Vitis vinifera",
+    "family": "Vitaceae",
+    "lifespan": "Perennial",
+    "native_to": "Mediterranean, Central Asia",
+    "height": "3–10 meters",
+    "trunk": "Woody climbing stem",
+    "leaves": "Broad, lobed, green leaves",
+    "fruit": "Grapes in clusters",
+    "parts_uses": {
+      "Fruit": "Eaten fresh, dried (raisins), wine production",
+      "Leaves": "Used in cooking (dolma)"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, Mediterranean",
+      "temperature": "15–30°C",
+      "rainfall": "600–800 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Italy", "Spain", "France"],
+    "importance": {
+      "nutrition": "Rich in antioxidants and natural sugars",
+      "economic": "Basis of the global wine industry",
+      "cultural": "Symbol of abundance and prosperity in many cultures"
+    },
+    "fun_facts": ["One of the oldest cultivated fruit crops", "Over 8,000 grape varieties exist"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJiXSMVI6s0AdB5ZYZDK-VzQCeVPETaKYUA&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Passionflower",
+    "scientific_name": "Passiflora edulis",
+    "family": "Passifloraceae",
+    "lifespan": "Perennial",
+    "native_to": "South America",
+    "height": "5–7 meters",
+    "trunk": "Woody climber with coiling tendrils",
+    "leaves": "Deeply lobed green leaves",
+    "fruit": "Purple or yellow passionfruit",
+    "parts_uses": {
+      "Fruit": "Consumed fresh, juice",
+      "Leaves": "Used in herbal teas"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "1000–1500 mm",
+      "soil": "Sandy loam, fertile soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "India", "Colombia"],
+    "importance": {
+      "nutrition": "Rich in vitamin C and dietary fiber",
+      "economic": "Commercial fruit for juices and desserts",
+      "cultural": "Flowers symbolize the Passion of Christ"
+    },
+    "fun_facts": ["Passionfruit flowers attract pollinators like bees and butterflies", "Has sedative properties used in herbal medicine"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtyZmXyvCkwL12En3nzbxRFq_Ld4HE4eytLA&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Bottle Gourd",
+    "scientific_name": "Lagenaria siceraria",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "Africa, Asia",
+    "height": "2–5 meters",
+    "trunk": "Green climbing vine",
+    "leaves": "Large heart-shaped leaves",
+    "fruit": "Green bottle-shaped gourd",
+    "parts_uses": {
+      "Fruit": "Consumed as vegetable",
+      "Dried Shell": "Used as containers, musical instruments"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Well-drained fertile soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "China"],
+    "importance": {
+      "nutrition": "Low in calories, high in water content",
+      "economic": "Cultivated widely as vegetable",
+      "cultural": "Used for making traditional musical instruments"
+    },
+    "fun_facts": ["One of the first cultivated plants in the world", "Dried shells used as bottles and utensils in ancient times"],
+    "image_url": "https://budsnblush.com/cdn/shop/files/F1HybridBottleGourdBudsnblush.png?v=1709075516"
+  },
+  {
+    "id": 7,
+    "common_name": "Snake Gourd",
+    "scientific_name": "Trichosanthes cucumerina",
+    "family": "Cucurbitaceae",
+    "lifespan": "Annual",
+    "native_to": "South and Southeast Asia",
+    "height": "3–6 meters",
+    "trunk": "Slender climbing vine with tendrils",
+    "leaves": "Deeply lobed green leaves",
+    "fruit": "Long, snake-like green gourd",
+    "parts_uses": {
+      "Fruit": "Cooked as vegetable",
+      "Roots": "Medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "22–32°C",
+      "rainfall": "700–1200 mm",
+      "soil": "Fertile sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Sri Lanka", "Thailand"],
+    "importance": {
+      "nutrition": "Low in calories, good source of fiber",
+      "economic": "Cultivated widely as vegetable",
+      "cultural": "Common ingredient in South Indian cuisine"
+    },
+    "fun_facts": ["Can grow over 1.5 meters long", "Flowers bloom only at night"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMavF_gTdX8n2Y-YjNeEhlGxkA7FvCi8bN7Q&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Ivy Gourd",
+    "scientific_name": "Coccinia grandis",
+    "family": "Cucurbitaceae",
+    "lifespan": "Perennial",
+    "native_to": "India, Africa",
+    "height": "2–4 meters",
+    "trunk": "Slender climbing vine",
+    "leaves": "Small, lobed, green leaves",
+    "fruit": "Small oval green to red gourd",
+    "parts_uses": {
+      "Fruit": "Cooked as vegetable",
+      "Leaves": "Used in folk medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "800–1200 mm",
+      "soil": "Well-drained sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Myanmar", "Thailand"],
+    "importance": {
+      "nutrition": "Source of beta carotene and fiber",
+      "economic": "Locally important vegetable crop",
+      "cultural": "Commonly used in Indian traditional recipes"
+    },
+    "fun_facts": ["Sometimes called 'baby watermelon'", "Spreads rapidly and can become invasive"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmpKRUxgbtQtAs7y8HbwzMG0IBhGZW0shCA&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Sweet Pea",
+    "scientific_name": "Lathyrus odoratus",
+    "family": "Fabaceae",
+    "lifespan": "Annual",
+    "native_to": "Italy, Eastern Mediterranean",
+    "height": "1–2 meters",
+    "trunk": "Slender climbing stem",
+    "leaves": "Compound leaves with terminal tendrils",
+    "fruit": "Pod with seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, fragrant",
+      "Seeds": "Not edible (toxic if consumed)"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "10–20°C",
+      "rainfall": "500–900 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["UK", "USA", "Italy"],
+    "importance": {
+      "nutrition": "Not edible due to toxicity",
+      "economic": "Popular ornamental plant",
+      "cultural": "Victorian-era favorite flower symbolizing friendship"
+    },
+    "fun_facts": ["Known for its fragrance", "Important in garden breeding experiments"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS80mqmkgN03pV8q4-xomvZHI1qLr7gDIShoQ&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Gloriosa Lily",
+    "scientific_name": "Gloriosa superba",
+    "family": "Colchicaceae",
+    "lifespan": "Perennial",
+    "native_to": "Tropical Asia, Africa",
+    "height": "2–5 meters",
+    "trunk": "Climbing vine with leaf-tip tendrils",
+    "leaves": "Narrow, lance-shaped with tendril tips",
+    "fruit": "Capsules containing seeds",
+    "parts_uses": {
+      "Tubers": "Medicinal uses (toxic if consumed raw)",
+      "Flowers": "Ornamental"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "800–1200 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Partial to full sun"
+    },
+    "major_countries": ["India", "Sri Lanka", "South Africa"],
+    "importance": {
+      "nutrition": "Not edible (toxic)",
+      "economic": "Used in pharmaceutical industry",
+      "cultural": "National flower of Zimbabwe"
+    },
+    "fun_facts": ["Known as 'Flame Lily' due to fiery petals", "Contains colchicine used in medicine"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnKBw5PWEm_b7GVeH1khkqSO3OvM_Fj_Cmjg&s"
+  },
+  {
+    "id": 11,
+    "common_name": "Hyacinth Bean",
+    "scientific_name": "Lablab purpureus",
+    "family": "Fabaceae",
+    "lifespan": "Annual or perennial",
+    "native_to": "Africa, Asia",
+    "height": "3–6 meters",
+    "trunk": "Twining stem with tendrils",
+    "leaves": "Trifoliate leaves",
+    "fruit": "Purple bean pods",
+    "parts_uses": {
+      "Pods": "Eaten as vegetable",
+      "Seeds": "Cooked after detoxification",
+      "Flowers": "Ornamental"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "700–1000 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "Ethiopia"],
+    "importance": {
+      "nutrition": "Source of protein and minerals",
+      "economic": "Food and fodder crop",
+      "cultural": "Traditional crop in Africa and Asia"
+    },
+    "fun_facts": ["Seeds must be cooked properly to remove toxins", "Used as ornamental climber for purple flowers"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1WgVI_HlF1Mvl66QuQrw0oxo4vXn2VNjohg&s"
+  }
+]

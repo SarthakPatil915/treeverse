@@ -1,0 +1,252 @@
+[
+  {
+    "id": 0,
+    "common_name": "Chinese Ixora",
+    "scientific_name": "Ixora chinensis",
+    "family": "Rubiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southern China and Southeast Asia",
+    "height": "1–2 meters",
+    "trunk": "Woody shrub with multiple stems",
+    "leaves": "Glossy, leathery, dark green leaves",
+    "fruit": "Small berry",
+    "parts_uses": {
+      "Flowers": "Ornamental, used in landscaping",
+      "Leaves": "Sometimes used in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["China", "India", "Thailand"],
+    "importance": {
+      "nutrition": "No direct nutritional value",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in temple gardens and decorations"
+    },
+    "fun_facts": ["Known as 'Flame of the Woods'", "Blooms year-round in warm climates"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-TWcV7tE8vprVakNI58KEvP-jKn_i5fjog&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Plumeria (Frangipani)",
+    "scientific_name": "Plumeria rubra",
+    "family": "Apocynaceae",
+    "lifespan": "Pluriannual shrub/small tree",
+    "native_to": "Central America and the Caribbean",
+    "height": "2–8 meters",
+    "trunk": "Thick, succulent branches with milky sap",
+    "leaves": "Large, elongated, leathery leaves",
+    "fruit": "Elongated pod-like follicles",
+    "parts_uses": {
+      "Flowers": "Ornamental, perfumes, garlands",
+      "Sap": "Used in folk remedies (toxic in high doses)"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Well-drained sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "India", "Indonesia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Perfume industry, ornamental trade",
+      "cultural": "Sacred in Hindu and Buddhist traditions"
+    },
+    "fun_facts": ["Frangipani flowers are used in Hawaiian leis", "Blooms even during dry seasons"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Plumeria_rubra-4.JPG"
+  },
+  {
+    "id": 2,
+    "common_name": "Night Jasmine (Parijat)",
+    "scientific_name": "Nyctanthes arbor-tristis",
+    "family": "Oleaceae",
+    "lifespan": "Perennial shrub/small tree",
+    "native_to": "South Asia and Southeast Asia",
+    "height": "2–4 meters",
+    "trunk": "Woody with rough bark",
+    "leaves": "Ovate, rough-textured leaves",
+    "fruit": "2-seeded flat capsule",
+    "parts_uses": {
+      "Flowers": "Fragrant, used in worship",
+      "Leaves": "Medicinal for fever, arthritis",
+      "Seeds": "Traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Nepal", "Bangladesh"],
+    "importance": {
+      "nutrition": "Used in Ayurveda for medicinal teas",
+      "economic": "Ornamental, medicinal products",
+      "cultural": "Sacred flower in Hindu mythology"
+    },
+    "fun_facts": ["Flowers bloom at night and fall by morning", "Called 'Tree of Sorrow' due to drooping flowers"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8te4-P9MDLbz8gHzJ2kkFKLN-DeqRbPY3w&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Ixora Coccinea (Jungle Geranium)",
+    "scientific_name": "Ixora coccinea",
+    "family": "Rubiaceae",
+    "lifespan": "Perennial",
+    "native_to": "India, Sri Lanka, Bangladesh",
+    "height": "1–2 meters",
+    "trunk": "Dense woody stems",
+    "leaves": "Shiny, ovate, dark green leaves",
+    "fruit": "Small round drupe",
+    "parts_uses": {
+      "Flowers": "Ornamental, garlands, religious use",
+      "Roots": "Traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Slightly acidic, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Sri Lanka", "Thailand"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Garden and landscaping plant",
+      "cultural": "Common in temple gardens"
+    },
+    "fun_facts": ["Known as 'Jungle Geranium'", "Blooms in clusters of bright red flowers"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfmZaxJ3quj6ucu8rP7zWW8e5M6nPcA_FCQ&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "lifespan": "Perennial shrub",
+    "native_to": "East Asia",
+    "height": "1–3 meters",
+    "trunk": "Woody, branching stems",
+    "leaves": "Glossy, serrated green leaves",
+    "fruit": "Five-lobed capsule",
+    "parts_uses": {
+      "Flowers": "Hair oils, teas, worship",
+      "Leaves": "Medicinal teas, remedies",
+      "Roots": "Traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–32°C",
+      "rainfall": "1200–2500 mm",
+      "soil": "Loamy, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Malaysia"],
+    "importance": {
+      "nutrition": "Hibiscus tea rich in antioxidants",
+      "economic": "Hair care, herbal products",
+      "cultural": "Sacred flower in Hindu worship"
+    },
+    "fun_facts": ["National flower of Malaysia", "Hibiscus tea helps lower blood pressure"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwF-PrImQq_F1TwWqGdwonW4HSMjz5R1H-nw&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Bougainvillea",
+    "scientific_name": "Bougainvillea spectabilis",
+    "family": "Nyctaginaceae",
+    "lifespan": "Perennial",
+    "native_to": "South America",
+    "height": "2–12 meters (climbing shrub/vine)",
+    "trunk": "Woody stems with thorns",
+    "leaves": "Simple, ovate green leaves",
+    "fruit": "Small dry achene",
+    "parts_uses": {
+      "Bracts": "Ornamental, used in gardens and fences",
+      "Leaves": "Used in folk remedies for cough"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical, arid",
+      "temperature": "20–38°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Sandy, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "India", "Thailand"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Widely used in ornamental horticulture",
+      "cultural": "Popular in fencing and decorative gardens"
+    },
+    "fun_facts": ["The colorful 'flowers' are actually bracts", "Named after French explorer Louis de Bougainville"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfEMIbCdMRea_Gayt6xHI3mYJ9qoo6Ikl9hw&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Hydrangea",
+    "scientific_name": "Hydrangea macrophylla",
+    "family": "Hydrangeaceae",
+    "lifespan": "Perennial",
+    "native_to": "Japan, Korea, China",
+    "height": "1–3 meters",
+    "trunk": "Woody stems with clusters of branches",
+    "leaves": "Large, serrated, dark green leaves",
+    "fruit": "Small capsule containing seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, landscaping",
+      "Leaves": "Toxic if ingested"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "15–28°C",
+      "rainfall": "1200–2500 mm",
+      "soil": "Moist, acidic soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Japan", "China", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Popular in floral arrangements"
+    },
+    "fun_facts": ["Flower color changes with soil pH", "Pink in alkaline soil, blue in acidic soil"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCf6IunPFgXcHV8T3LxV0Mk0_zMKJHiAftg&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Camellia",
+    "scientific_name": "Camellia japonica",
+    "family": "Theaceae",
+    "lifespan": "Perennial shrub",
+    "native_to": "China, Japan, Korea",
+    "height": "2–6 meters",
+    "trunk": "Woody stem with smooth bark",
+    "leaves": "Glossy, dark green, leathery leaves",
+    "fruit": "Woody capsule with seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, garden use",
+      "Seeds": "Camellia oil extraction"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "10–25°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Acidic, well-drained soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Japan", "China", "Korea"],
+    "importance": {
+      "nutrition": "Camellia oil used in cooking",
+      "economic": "Ornamental, oil industry",
+      "cultural": "Symbol of love in East Asian culture"
+    },
+    "fun_facts": ["Camellias can live over 100 years", "Closely related to the tea plant"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrUkAei-p4OaSWbYs_kK-YWSNnDyVkHPX39w&s"
+  }
+]

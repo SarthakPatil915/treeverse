@@ -1,0 +1,372 @@
+[
+  {
+    "id": 0,
+    "common_name": "Lilyturf",
+    "scientific_name": "Liriope muscari",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial",
+    "native_to": "East Asia",
+    "height": "30–45 cm",
+    "trunk": "Grass-like clumps",
+    "leaves": "Narrow, arching, glossy dark green leaves",
+    "fruit": "Black berries",
+    "parts_uses": {
+      "Leaves": "Ornamental groundcover, erosion control",
+      "Flowers": "Ornamental, attract pollinators"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "10–25°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained, slightly acidic to neutral",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["China", "Japan", "Korea"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Landscaping, groundcover",
+      "cultural": "Symbol of resilience in East Asian cultures"
+    },
+    "fun_facts": ["Commonly used in Japanese Zen gardens", "Tolerant of drought and poor soil conditions"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIncC6wveiifMvE0KkxZEbsMMw76NpaNes2w&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Ming Aralia",
+    "scientific_name": "Polyscias fruticosa",
+    "family": "Araliaceae",
+    "lifespan": "Perennial",
+    "native_to": "South Pacific Islands",
+    "height": "1.5–2.5 meters",
+    "trunk": "Woody, branching stems",
+    "leaves": "Glossy, palmate, dark green leaves",
+    "fruit": "Small, purple-black berries",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Bark": "Traditional medicine in some cultures"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "1500–3000 mm",
+      "soil": "Well-drained, rich in organic matter",
+      "sunlight": "Bright, indirect light"
+    },
+    "major_countries": ["Fiji", "Vanuatu", "Solomon Islands"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in traditional ceremonies in Pacific cultures"
+    },
+    "fun_facts": ["Leaves resemble parsley, hence the name 'Parsley Aralia'", "Can be grown as a houseplant in temperate regions"],
+    "image_url": "https://www.plantvine.com/plants/Ming-Aralia-Main-800x1000.jpg"
+  },
+  {
+    "id": 2,
+    "common_name": "Boardleaf Lady Palm",
+    "scientific_name": "Rhapis excelsa",
+    "family": "Arecaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southern China and Vietnam",
+    "height": "1.5–4.5 meters",
+    "trunk": "Multi-stemmed, bamboo-like canes",
+    "leaves": "Fan-shaped, glossy dark green leaves",
+    "fruit": "Small, red berries",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Stems": "Used in traditional crafts"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained, slightly acidic",
+      "sunlight": "Partial to full shade"
+    },
+    "major_countries": ["China", "Vietnam"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture, traditional crafts",
+      "cultural": "Symbol of elegance in East Asian cultures"
+    },
+    "fun_facts": ["Known for its air-purifying qualities", "Slow-growing and long-lived"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMiNUO2mGwTq-FiYLJSCCiosQUif44LjUJgQ&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Copperleaf",
+    "scientific_name": "Acalypha wilkesiana",
+    "family": "Euphorbiaceae",
+    "lifespan": "Perennial",
+    "native_to": "South Pacific Islands",
+    "height": "1.5–3 meters",
+    "trunk": "Woody, branching stems",
+    "leaves": "Large, heart-shaped leaves with variegated colors",
+    "fruit": "Small, inconspicuous",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Bark": "Traditional medicine in some cultures"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "1500–3000 mm",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Fiji", "Vanuatu", "Solomon Islands"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in traditional ceremonies in Pacific cultures"
+    },
+    "fun_facts": ["Leaves come in a variety of colors including red, pink, and green", "Commonly used in tropical landscaping"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9pHXh6TQZpJS2qt6t8ovuAyFH36mVrnKicw&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Dwarf Umbrella Tree",
+    "scientific_name": "Schefflera arboricola",
+    "family": "Araliaceae",
+    "lifespan": "Perennial",
+    "native_to": "Taiwan and Hainan, China",
+    "height": "1.5–3 meters",
+    "trunk": "Woody, branching stems",
+    "leaves": "Glossy, palmate leaves with 7–9 leaflets",
+    "fruit": "Small, black berries",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Bark": "Traditional medicine in some cultures"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained, slightly acidic",
+      "sunlight": "Bright, indirect light"
+    },
+    "major_countries": ["Taiwan", "China"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Symbol of prosperity in Chinese culture"
+    },
+    "fun_facts": ["Commonly grown as a houseplant", "Varieties include variegated forms with cream or yellow edges"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwsSCddNLi8XTh3TRHwCYtvFQQAU8dEBIE_A&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Lacy Tree Philodendron",
+    "scientific_name": "Philodendron selloum",
+    "family": "Araceae",
+    "lifespan": "Perennial",
+    "native_to": "Brazil and Paraguay",
+    "height": "1.5–3 meters",
+    "trunk": "Woody, branching stems",
+    "leaves": "Large, deeply lobed, glossy dark green leaves",
+    "fruit": "Small, inconspicuous",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Bark": "Traditional medicine in some cultures"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "1500–3000 mm",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Partial to full shade"
+    },
+    "major_countries": ["Brazil", "Paraguay"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Symbol of abundance in South American cultures"
+    },
+    "fun_facts": ["Known for its dramatic, split leaves", "Commonly used in tropical landscaping"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Tree1.JPG"
+  },
+  {
+    "id": 6,
+    "common_name": "Ti Plant",
+    "scientific_name": "Cordyline fruticosa",
+    "family": "Asparagaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southeast Asia and Pacific Islands",
+    "height": "1.5–3 meters",
+    "trunk": "Woody, branching stems",
+    "leaves": "Long, narrow, leathery leaves in various colors",
+    "fruit": "Small, red berries",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage, ceremonial use",
+      "Roots": "Traditional medicine in some cultures"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "1500–3000 mm",
+      "soil": "Well-drained, slightly acidic",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Thailand", "Indonesia", "Hawaii"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Believed to bring good luck in Hawaiian culture"
+    },
+    "fun_facts": ["Leaves are used in traditional Hawaiian ceremonies", "Popular as an ornamental tropical plant"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYDqmdlpUtBAXA0WdewylPyVLdv_KXHsdVQ&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Aralia Variegated",
+    "scientific_name": "Polyscias guilfoylei",
+    "family": "Araliaceae",
+    "lifespan": "Perennial",
+    "native_to": "Pacific Islands",
+    "height": "1–2.5 meters",
+    "trunk": "Woody stems",
+    "leaves": "Variegated, pinnate, glossy leaves",
+    "fruit": "Small drupe",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–28°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Fiji", "Philippines", "Indonesia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental landscaping",
+      "cultural": "Used in decorative gardens"
+    },
+    "fun_facts": ["Grown for its striking variegated foliage", "Popular in indoor and outdoor gardens"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgTn6idPCcQuYcJBQ1EgPx1cM5x5EeIO-jHA&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Graptophyllum Pictum",
+    "scientific_name": "Graptophyllum pictum",
+    "family": "Acanthaceae",
+    "lifespan": "Perennial",
+    "native_to": "Papua New Guinea",
+    "height": "1–2 meters",
+    "trunk": "Woody shrub",
+    "leaves": "Broad, ovate, variegated green and cream leaves",
+    "fruit": "Capsule",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage, traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "1500–2500 mm",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Papua New Guinea", "Indonesia", "Malaysia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Popular for decorative gardens"
+    },
+    "fun_facts": ["Also called 'Caricature Plant' for its patterned leaves", "Attracts butterflies when in bloom"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWzoKnQ4YWiRVmt8Pe_qOTOw-fnK5RJishQ&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Chandni Variegated",
+    "scientific_name": "Mussaenda erythrophylla 'Variegata'",
+    "family": "Rubiaceae",
+    "lifespan": "Perennial",
+    "native_to": "West Africa",
+    "height": "1–2 meters",
+    "trunk": "Woody shrub",
+    "leaves": "Variegated, green with creamy edges",
+    "fruit": "Capsule",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Flowers": "Ornamental, attract pollinators"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "1200–2500 mm",
+      "soil": "Well-drained, fertile",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Ghana", "Nigeria", "India"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in decorative and ceremonial gardens"
+    },
+    "fun_facts": ["Known for its striking variegated leaves", "Also called 'Queen of the Night' shrub in some regions"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUTOCgbz7ZuIOyGGBtRqAy1lGsyKDP4B8sw&s"
+  },
+  {
+    "id": 10,
+    "common_name": "Carpodetus Serratus",
+    "scientific_name": "Carpodetus serratus",
+    "family": "Escalloniaceae",
+    "lifespan": "Perennial shrub/tree",
+    "native_to": "New Zealand",
+    "height": "3–10 meters",
+    "trunk": "Woody with smooth bark",
+    "leaves": "Ovate, serrated, dark green leaves",
+    "fruit": "Small white berries",
+    "parts_uses": {
+      "Leaves": "Ornamental foliage",
+      "Wood": "Used traditionally for small carvings and tools"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–25°C",
+      "rainfall": "1200–2500 mm",
+      "soil": "Moist, well-drained",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["New Zealand"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental gardening, landscaping",
+      "cultural": "Used in Māori traditional practices"
+    },
+    "fun_facts": ["Commonly called 'Blackthorn'", "Attracts native birds"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNCYPWW23Veb9BTcq1R8e5eN2EJmTN89YAcw&s"
+  },
+  {
+    "id": 11,
+    "common_name": "Golden Screw Pine",
+    "scientific_name": "Pandanus aureus",
+    "family": "Pandanaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southeast Asia",
+    "height": "2–6 meters",
+    "trunk": "Columnar trunk with aerial roots",
+    "leaves": "Long, narrow, spiny-edged, golden-green leaves",
+    "fruit": "Round syncarp",
+    "parts_uses": {
+      "Leaves": "Ornamental, weaving mats, roof thatching",
+      "Fruit": "Sometimes used for traditional crafts"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "1200–2500 mm",
+      "soil": "Well-drained, sandy",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Indonesia", "Philippines", "Malaysia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental, craft material",
+      "cultural": "Used in traditional Southeast Asian crafts"
+    },
+    "fun_facts": ["Aerial roots help support the plant in sandy soils", "Leaves are often used for weaving baskets"],
+    "image_url": "https://m.media-amazon.com/images/I/51yXOfP4lsL._UF1000,1000_QL80_.jpg"
+  }
+]

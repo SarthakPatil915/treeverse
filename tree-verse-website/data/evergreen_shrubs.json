@@ -1,0 +1,312 @@
+[
+  {
+    "id": 0,
+    "common_name": "Areca Palm",
+    "scientific_name": "Dypsis lutescens",
+    "family": "Arecaceae",
+    "lifespan": "Perennial",
+    "native_to": "Madagascar",
+    "height": "2–6 meters",
+    "trunk": "Slender, clustering stems",
+    "leaves": "Feather-like, arching fronds",
+    "fruit": "Small orange-yellow berries",
+    "parts_uses": {
+      "Leaves": "Ornamental, indoor air purifier",
+      "Seeds": "Sometimes used in traditional crafts"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained sandy or loamy soil",
+      "sunlight": "Partial to full sun"
+    },
+    "major_countries": ["Madagascar", "India", "Philippines"],
+    "importance": {
+      "nutrition": "No direct nutritional value",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in indoor landscaping and décor"
+    },
+    "fun_facts": ["Popular indoor houseplant", "Also called Butterfly Palm"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7M5NJeCNznNMwZQTqk_B-1CxLnLvhvCG7A&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Oleander",
+    "scientific_name": "Nerium oleander",
+    "family": "Apocynaceae",
+    "lifespan": "Perennial",
+    "native_to": "Mediterranean region",
+    "height": "2–6 meters",
+    "trunk": "Woody shrub with multiple stems",
+    "leaves": "Long, narrow, dark green leaves",
+    "fruit": "Long follicle containing seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, landscaping",
+      "Leaves": "Used in traditional medicine with caution"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, Mediterranean",
+      "temperature": "15–35°C",
+      "rainfall": "500–1500 mm",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Spain", "Italy", "India"],
+    "importance": {
+      "nutrition": "Toxic if ingested",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in gardens and road beautification"
+    },
+    "fun_facts": ["All parts are highly toxic", "Flowers bloom in vibrant colors"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nerium_oleander_flowers_leaves.jpg"
+  },
+  {
+    "id": 2,
+    "common_name": "Jasmine",
+    "scientific_name": "Jasminum sambac",
+    "family": "Oleaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southeast Asia",
+    "height": "1–3 meters",
+    "trunk": "Twining or erect woody stems",
+    "leaves": "Glossy, ovate leaves",
+    "fruit": "Small black berry",
+    "parts_uses": {
+      "Flowers": "Perfume, tea flavoring, ornamental",
+      "Leaves": "Traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Philippines", "Indonesia"],
+    "importance": {
+      "nutrition": "No direct nutritional value",
+      "economic": "Perfume and tea industry",
+      "cultural": "Used in religious ceremonies and decorations"
+    },
+    "fun_facts": ["National flower of the Philippines", "Fragrant night-blooming flowers"],
+    "image_url": "https://m.media-amazon.com/images/I/41e1LA0W3jL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Boxwood",
+    "scientific_name": "Buxus sempervirens",
+    "family": "Buxaceae",
+    "lifespan": "Perennial",
+    "native_to": "Europe, Asia, Africa",
+    "height": "1–5 meters",
+    "trunk": "Dense, woody shrub",
+    "leaves": "Small, glossy evergreen leaves",
+    "fruit": "Small capsule",
+    "parts_uses": {
+      "Leaves": "Ornamental hedging, bonsai",
+      "Wood": "Carving and decorative uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained soil",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["France", "Germany", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Landscaping and ornamental wood",
+      "cultural": "Used in formal gardens and topiary"
+    },
+    "fun_facts": ["Often used in maze gardens", "Slow-growing but long-lasting"],
+    "image_url": "https://m.media-amazon.com/images/I/71zyXH4YnyL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "common_name": "Gardenia",
+    "scientific_name": "Gardenia jasminoides",
+    "family": "Rubiaceae",
+    "lifespan": "Perennial",
+    "native_to": "China, Japan, Taiwan",
+    "height": "1–2 meters",
+    "trunk": "Woody shrub",
+    "leaves": "Glossy, dark green, leathery leaves",
+    "fruit": "Small capsule",
+    "parts_uses": {
+      "Flowers": "Ornamental, perfumery",
+      "Leaves": "Traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, tropical",
+      "temperature": "18–28°C",
+      "rainfall": "1200–2000 mm",
+      "soil": "Well-drained acidic soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["China", "Japan", "USA"],
+    "importance": {
+      "nutrition": "No direct nutritional value",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in wedding decorations and perfumes"
+    },
+    "fun_facts": ["Fragrant white flowers", "Blooms in summer and fall"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ62GUOfAPY6vZ4IqaxoDGuyjGBk79uHcYbFQ&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Photinia",
+    "scientific_name": "Photinia × fraseri",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "China",
+    "height": "2–4 meters",
+    "trunk": "Woody shrub with multiple stems",
+    "leaves": "Glossy, red-tipped young leaves",
+    "fruit": "Small red berries",
+    "parts_uses": {
+      "Leaves": "Ornamental hedges",
+      "Flowers": "Attract pollinators"
+    },
+    "growing_conditions": {
+      "climate": "Subtropical, temperate",
+      "temperature": "10–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["China", "USA", "Australia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental landscaping",
+      "cultural": "Used in formal hedges and gardens"
+    },
+    "fun_facts": ["New leaves are bright red", "Popular for privacy hedges"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Photinia_fraseri_A.jpg"
+  },
+  {
+    "id": 6,
+    "common_name": "Indian Hawthorn",
+    "scientific_name": "Rhaphiolepis indica",
+    "family": "Rosaceae",
+    "lifespan": "Perennial",
+    "native_to": "India, Southeast Asia",
+    "height": "1–2 meters",
+    "trunk": "Compact woody shrub",
+    "leaves": "Evergreen, leathery, dark green",
+    "fruit": "Small black berries",
+    "parts_uses": {
+      "Flowers": "Ornamental, landscaping",
+      "Leaves": "Occasionally in traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "China", "Japan"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental horticulture",
+      "cultural": "Used in gardens and public spaces"
+    },
+    "fun_facts": ["Flowers attract bees", "Low maintenance shrub"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Indian_Hawthorn%2C_India_Hawthorn_%28Rhaphiolepis_indica%29.jpg"
+  },
+  {
+    "id": 7,
+    "common_name": "Pieris",
+    "scientific_name": "Pieris japonica",
+    "family": "Ericaceae",
+    "lifespan": "Perennial",
+    "native_to": "Japan, Taiwan",
+    "height": "1–3 meters",
+    "trunk": "Woody shrub with multi-stem growth",
+    "leaves": "Evergreen, glossy, lance-shaped",
+    "fruit": "Capsule with seeds",
+    "parts_uses": {
+      "Flowers": "Ornamental, early spring bloom",
+      "Leaves": "Used for landscaping aesthetics"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "10–25°C",
+      "rainfall": "1000–1500 mm",
+      "soil": "Acidic, well-drained soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Japan", "China", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Ornamental landscaping",
+      "cultural": "Popular in gardens for colorful new leaves"
+    },
+    "fun_facts": ["New leaves emerge in red or bronze", "Attracts butterflies"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pieris_japonica_10.jpg"
+  },
+  {
+    "id": 8,
+    "common_name": "Aucuba",
+    "scientific_name": "Aucuba japonica",
+    "family": "Garryaceae",
+    "lifespan": "Perennial",
+    "native_to": "Japan, China",
+    "height": "1–2 meters",
+    "trunk": "Evergreen shrub with upright stems",
+    "leaves": "Glossy, broad, dark green with yellow spots",
+    "fruit": "Red berries",
+    "parts_uses": {
+      "Leaves": "Ornamental, hedge plants",
+      "Fruit": "Decorative, not edible"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "5–28°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Japan", "China", "UK"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Garden ornamentals",
+      "cultural": "Used in shaded gardens and indoor landscaping"
+    },
+    "fun_facts": ["Tolerates low light", "Popular indoor shrub"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Aucuba_japonica_Gold_Dust_NBG_LR.jpg"
+  },
+  {
+    "id": 9,
+    "common_name": "Mahonia",
+    "scientific_name": "Mahonia aquifolium",
+    "family": "Berberidaceae",
+    "lifespan": "Perennial",
+    "native_to": "North America, Asia",
+    "height": "1–3 meters",
+    "trunk": "Woody shrub",
+    "leaves": "Evergreen, spiny, pinnate leaves",
+    "fruit": "Blue-black berries",
+    "parts_uses": {
+      "Leaves": "Ornamental",
+      "Berries": "Traditional medicine, dye"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "0–25°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Well-drained, slightly acidic soil",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["USA", "China", "Japan"],
+    "importance": {
+      "nutrition": "Berries sometimes used in jams",
+      "economic": "Ornamental landscaping",
+      "cultural": "Symbolic in traditional gardens"
+    },
+    "fun_facts": ["Flowers in bright yellow clusters", "Berries attract birds"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Holly1web.jpg"
+  }
+]

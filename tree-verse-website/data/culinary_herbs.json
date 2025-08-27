@@ -1,0 +1,889 @@
+[
+  {
+    "id": 0,
+    "common_name": "Oregano",
+    "scientific_name": "Origanum vulgare",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Mediterranean region",
+    "height": "0.3\u20130.9 meters",
+    "trunk": "Woody base",
+    "leaves": "Small, oval, aromatic green leaves",
+    "fruit": "Small nutlets",
+    "parts_uses": {
+      "Leaves": "Flavoring for pizza, pasta, sauces",
+      "Oil": "Used in herbal medicine and aromatherapy"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean, temperate",
+      "temperature": "15\u201325\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained, sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Italy",
+      "Greece",
+      "Turkey"
+    ],
+    "importance": {
+      "nutrition": "Rich in antioxidants, vitamin K",
+      "economic": "Widely used in spice trade",
+      "cultural": "Symbol of joy and happiness in Greece"
+    },
+    "fun_facts": [
+      "Oregano is often called 'wild marjoram'.",
+      "Its oil has natural antibacterial properties."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8JA7auxuxNKpttSZnn_ZIfkFP0zg5pOz3A&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Marjoram",
+    "scientific_name": "Origanum majorana",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial (grown as annual in cold climates)",
+    "native_to": "Mediterranean region",
+    "height": "0.3\u20130.6 meters",
+    "trunk": "Soft stems, woody at base",
+    "leaves": "Small, oval, gray-green leaves",
+    "fruit": "Nutlets",
+    "parts_uses": {
+      "Leaves": "Seasoning for soups, salads, dressings",
+      "Oil": "Used in perfumery and traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Low to moderate",
+      "soil": "Well-drained sandy or loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Egypt",
+      "Turkey",
+      "Spain"
+    ],
+    "importance": {
+      "nutrition": "Contains antioxidants and vitamin A",
+      "economic": "Flavoring agent in food industry",
+      "cultural": "Symbol of happiness in Roman culture"
+    },
+    "fun_facts": [
+      "Known as 'sweet marjoram' to distinguish from oregano.",
+      "Used in embalming by ancient Egyptians."
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Origanum_majorana_002.JPG"
+  },
+  {
+    "id": 2,
+    "common_name": "Rosemary",
+    "scientific_name": "Salvia rosmarinus",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial evergreen",
+    "native_to": "Mediterranean region",
+    "height": "0.5\u20131.5 meters",
+    "trunk": "Woody stem",
+    "leaves": "Needle-like, aromatic leaves",
+    "fruit": "Small nutlets",
+    "parts_uses": {
+      "Leaves": "Seasoning for meats, breads, oils",
+      "Oil": "Used in cosmetics, aromatherapy"
+    },
+    "growing_conditions": {
+      "climate": "Mediterranean, warm temperate",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Low to moderate",
+      "soil": "Well-drained sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "Spain",
+      "Italy",
+      "France"
+    ],
+    "importance": {
+      "nutrition": "Contains antioxidants and anti-inflammatory compounds",
+      "economic": "Essential oil industry",
+      "cultural": "Symbol of remembrance and fidelity"
+    },
+    "fun_facts": [
+      "Used in ancient weddings as a symbol of love.",
+      "Enhances memory according to folklore."
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Rosemary_in_bloom.JPG"
+  },
+  {
+    "id": 3,
+    "common_name": "Thyme",
+    "scientific_name": "Thymus vulgaris",
+    "family": "Lamiaceae",
+    "lifespan": "Perennial",
+    "native_to": "Southern Europe",
+    "height": "0.1\u20130.3 meters",
+    "trunk": "Woody, branching stems",
+    "leaves": "Tiny, green, aromatic leaves",
+    "fruit": "Nutlets",
+    "parts_uses": {
+      "Leaves": "Seasoning in soups, stews, roasted meats",
+      "Oil": "Used as antiseptic and preservative"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15\u201328\u00b0C",
+      "rainfall": "Low to moderate",
+      "soil": "Sandy, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": [
+      "France",
+      "Spain",
+      "Morocco"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamin C, iron, and manganese",
+      "economic": "Culinary herb and essential oil source",
+      "cultural": "Used by ancient Egyptians for embalming"
+    },
+    "fun_facts": [
+      "Thyme honey is prized for its flavor.",
+      "Romans used thyme baths for vigor."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4yMvHi0eRoxvnr7aGAIB8ifxiTJ22XoYmQ&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Sage",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Sage is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBgaPJy_srcRl_zYfWJvFq33KS0TBV0Rk8A&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Lavender",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Lavender is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://m.media-amazon.com/images/I/51hMo++CUuL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 6,
+    "common_name": "Calendula",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Calendula is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlFNLW2GOUTsxrI3d0AQlXPHPfCfo44BzOFw&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Epazote",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Epazote is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdVEcFBzVDqwfhDx0Fh79GD8oH4e9Ihopfg&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Shiso",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Shiso is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVu3EIMR5H4xBE8Pq3LUCvnDHhlyN895IT3A&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Dill",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Dill is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://northerngardener.org/wp-content/uploads/2021/06/dill-blog-feature-image.jpg"
+  },
+  {
+    "id": 10,
+    "common_name": "Parsley",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Parsley is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://cdn.britannica.com/62/193862-050-4A7DBC6F/Parsley.jpg"
+  },
+  {
+    "id": 11,
+    "common_name": "Basil",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Basil is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpT1gDk1SEkqyv5Cv-yVCh1LWddhhFTqCRcw&s"
+  },
+  {
+    "id": 12,
+    "common_name": "Chives",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Chives is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsvUI-dPnYrmETGRf4lNojph0x5sNGkGqPg&s"
+  },
+  {
+    "id": 13,
+    "common_name": "Cilantro",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Cilantro is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://www.bhg.com/thmb/_f5s_R5-BYU7E300Z35FJEKeh4E=/550x0/filters:no_upscale():strip_icc()/SIP912623-b2e88b63b25b40a1beceb842a747aa9e.jpg"
+  },
+  {
+    "id": 14,
+    "common_name": "Fennel",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Fennel is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVZZ0XHdFhtv8eTgYc-yOJDN6qiJjTqDdu4Q&s"
+  },
+  {
+    "id": 15,
+    "common_name": "Tarragon",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Tarragon is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKx-eQBngngy2Xkdaz0-r_ZLvghtu73Krgnw&s"
+  },
+  {
+    "id": 16,
+    "common_name": "Bay Laurel",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Bay Laurel is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJox6F_3f6l_QgfjofgwA5wIXhark80BbNA&s"
+  },
+  {
+    "id": 17,
+    "common_name": "Mint",
+    "scientific_name": "Mentha",
+    "family": "rosemary",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Mint is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mentha_spicata-IMG_6186.jpg/500px-Mentha_spicata-IMG_6186.jpg"
+  },
+  {
+    "id": 18,
+    "common_name": "Lemongrass",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Lemongrass is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6-U7_F4EBoptBuPLYNKdaAX1c2tzq_RhOQ&s"
+  },
+  {
+    "id": 19,
+    "common_name": "Kaffir Lime Leaves",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Kaffir Lime Leaves is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://plantsguru.com/cdn/shop/files/kaffir-lime.jpg?v=1735616869"
+  },
+  {
+    "id": 20,
+    "common_name": "Curry Leaves",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Curry Leaves is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYzUGRiBCWlvwfjG17Mi5W0ZLL0j6G0D3GNA&s"
+  },
+  {
+    "id": 21,
+    "common_name": "Lovage",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Lovage is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJ-7RAJvqy7UjB26cQ37p3rm3jMmR80IPdg&s"
+  },
+  {
+    "id": 22,
+    "common_name": "Savory",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Savory is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjdL9KPzEASC4fgqBD7lI4nQvddPESgBmcg&s"
+  },
+  {
+    "id": 23,
+    "common_name": "Sorrel",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Sorrel is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://cdn.britannica.com/27/118327-050-14389167/Garden-sorrel.jpg"
+  },
+  {
+    "id": 24,
+    "common_name": "Nasturtium",
+    "scientific_name": "To be filled",
+    "family": "To be filled",
+    "lifespan": "Perennial/Annual depending on herb",
+    "native_to": "Various regions",
+    "height": "Varies",
+    "trunk": "Herbaceous or woody",
+    "leaves": "Varies by herb",
+    "fruit": "Varies",
+    "parts_uses": {
+      "Leaves": "Culinary uses",
+      "Seeds": "Spice or medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "15\u201330\u00b0C",
+      "rainfall": "Moderate",
+      "soil": "Well-drained soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": [
+      "Global cultivation"
+    ],
+    "importance": {
+      "nutrition": "Rich in vitamins and phytochemicals",
+      "economic": "Culinary spice and medicinal uses",
+      "cultural": "Part of traditional cuisines"
+    },
+    "fun_facts": [
+      "Nasturtium is widely used in kitchens worldwide."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9z0r17-b1Svkn0fIz6ToMzXLJ9T7-fNgIQ&s"
+  }
+]

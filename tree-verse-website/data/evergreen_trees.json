@@ -1,0 +1,348 @@
+[
+  {
+    "id": 0,
+    "common_name": "Ficus Tree",
+    "scientific_name": "Ficus benghalensis",
+    "family": "Moraceae",
+    "lifespan": "100+ years",
+    "native_to": "India, Bangladesh, Sri Lanka",
+    "height": "20–30 meters",
+    "trunk": "Massive trunk with aerial roots",
+    "leaves": "Large, glossy green leaves",
+    "fruit": "Small, round figs",
+    "parts_uses": {
+      "Fruit": "Edible figs, bird food",
+      "Wood": "Used in plywood and furniture",
+      "Leaves": "Fodder for animals",
+      "Roots": "Ornamental and shade purposes"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–35°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Provides shade, supports biodiversity",
+      "economic": "Tourism attraction, timber",
+      "cultural": "Sacred in Hinduism and Buddhism"
+    },
+    "fun_facts": ["India’s national tree", "Some live for hundreds of years"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Banyan_Tree_04.jpg"
+  },
+  {
+    "id": 1,
+    "common_name": "Devil's Tree",
+    "scientific_name": "Alstonia scholaris",
+    "family": "Apocynaceae",
+    "lifespan": "40–60 years",
+    "native_to": "South and Southeast Asia",
+    "height": "40–60 feet",
+    "trunk": "Straight trunk with grey bark",
+    "leaves": "Whorled leaves, shiny green",
+    "fruit": "Long, slender pods",
+    "parts_uses": {
+      "Wood": "Lightweight timber for furniture",
+      "Bark": "Traditional medicine for fever",
+      "Leaves": "Medicinal extracts"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "1200–2500 mm",
+      "soil": "Well-drained sandy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Sri Lanka", "Indonesia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Used in Ayurveda",
+      "cultural": "Planted near temples"
+    },
+    "fun_facts": ["Also called 'Blackboard Tree'", "Known for strong fragrance at night"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alstonia_scholaris_-_Flower_01.JPG"
+  },
+  {
+    "id": 2,
+    "common_name": "Blackboard Tree",
+    "scientific_name": "Alstonia macrophylla",
+    "family": "Apocynaceae",
+    "lifespan": "40–60 years",
+    "native_to": "India, Sri Lanka, Southeast Asia",
+    "height": "15–20 meters",
+    "trunk": "Grey bark, straight trunk",
+    "leaves": "Broad, shiny leaves",
+    "fruit": "Slender pods with silky seeds",
+    "parts_uses": {
+      "Wood": "Used for making blackboards",
+      "Bark": "Medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "1500–3000 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Sri Lanka", "Malaysia"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Furniture, plywood",
+      "cultural": "Ornamental planting"
+    },
+    "fun_facts": ["Closely related to Devil’s Tree", "Common in schoolyards"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alstonia_macrophylla.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Pine Tree",
+    "scientific_name": "Pinus roxburghii",
+    "family": "Pinaceae",
+    "lifespan": "100–200 years",
+    "native_to": "Himalayan region",
+    "height": "30–50 meters",
+    "trunk": "Tall, straight, scaly bark",
+    "leaves": "Needle-like leaves",
+    "fruit": "Woody cones with seeds",
+    "parts_uses": {
+      "Wood": "Construction, furniture",
+      "Resin": "Turpentine production",
+      "Needles": "Mulch, craft material"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "5–25°C",
+      "rainfall": "750–1500 mm",
+      "soil": "Sandy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Bhutan"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Timber and resin trade",
+      "cultural": "Used in rituals"
+    },
+    "fun_facts": ["Needles stay green for years", "Produce aromatic resin"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinus_roxburghii_tree.jpg"
+  },
+  {
+    "id": 4,
+    "common_name": "Deodar Cedar",
+    "scientific_name": "Cedrus deodara",
+    "family": "Pinaceae",
+    "lifespan": "1000 years",
+    "native_to": "Western Himalayas",
+    "height": "40–50 meters",
+    "trunk": "Conical with rough bark",
+    "leaves": "Needle-like bluish-green",
+    "fruit": "Cones with winged seeds",
+    "parts_uses": {
+      "Wood": "Durable timber for construction",
+      "Oil": "Aromatic oils used in perfumery"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate to alpine",
+      "temperature": "-5–25°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained sandy or loamy",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Pakistan"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Valuable timber",
+      "cultural": "Sacred tree in Himalayan culture"
+    },
+    "fun_facts": ["National tree of Pakistan", "Name means 'timber of the gods'"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6JIa98EbzGeAe_waKdmYLMx2VSn8tLV-JQ&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Coconut Palm",
+    "scientific_name": "Cocos nucifera",
+    "family": "Arecaceae",
+    "lifespan": "60–80 years",
+    "native_to": "Indo-Pacific region",
+    "height": "20–30 meters",
+    "trunk": "Tall, slender, ringed trunk",
+    "leaves": "Large feather-like fronds",
+    "fruit": "Coconuts",
+    "parts_uses": {
+      "Fruit": "Edible flesh and water",
+      "Husk": "Coir for ropes and mats",
+      "Leaves": "Roof thatching",
+      "Wood": "Used in construction"
+    },
+    "growing_conditions": {
+      "climate": "Tropical coastal",
+      "temperature": "22–32°C",
+      "rainfall": "1000–3000 mm",
+      "soil": "Sandy, saline-tolerant",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Philippines", "Indonesia"],
+    "importance": {
+      "nutrition": "Rich in electrolytes, edible oil",
+      "economic": "Major commercial crop",
+      "cultural": "Sacred in Hindu rituals"
+    },
+    "fun_facts": ["Called 'Tree of Life'", "Every part is useful"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Singapore_coconut.jpg/250px-Singapore_coconut.jpg"
+  },
+  {
+    "id": 6,
+    "common_name": "Neem Tree",
+    "scientific_name": "Azadirachta indica",
+    "family": "Meliaceae",
+    "lifespan": "150–200 years",
+    "native_to": "Indian subcontinent",
+    "height": "15–20 meters",
+    "trunk": "Straight, rough grey bark",
+    "leaves": "Pinnate, serrated leaves",
+    "fruit": "Olive-like drupe",
+    "parts_uses": {
+      "Leaves": "Medicinal, insect repellent",
+      "Bark": "Used in traditional medicine",
+      "Oil": "Neem oil for cosmetics, pesticides"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, semi-arid",
+      "temperature": "20–40°C",
+      "rainfall": "450–1200 mm",
+      "soil": "Alluvial, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Myanmar", "Bangladesh"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Medicinal and cosmetic uses",
+      "cultural": "Considered sacred in India"
+    },
+    "fun_facts": ["Known as 'Village Pharmacy'", "Natural pesticide properties"],
+    "image_url": "https://ezgrogarden.com/wp-content/uploads/2010/07/Neem-Tree1-1024x675.jpg"
+  },
+  {
+    "id": 7,
+    "common_name": "Mango Tree",
+    "scientific_name": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "lifespan": "100–300 years",
+    "native_to": "South Asia",
+    "height": "30–40 meters",
+    "trunk": "Thick with rough bark",
+    "leaves": "Evergreen, lanceolate leaves",
+    "fruit": "Mango",
+    "parts_uses": {
+      "Fruit": "Widely eaten, juices, pickles",
+      "Wood": "Furniture and fuel",
+      "Leaves": "Used in rituals"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "24–30°C",
+      "rainfall": "750–2500 mm",
+      "soil": "Well-drained alluvial",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Pakistan", "Thailand"],
+    "importance": {
+      "nutrition": "Rich in vitamin C, A",
+      "economic": "Major fruit export",
+      "cultural": "National fruit of India"
+    },
+    "fun_facts": ["Over 1000 varieties exist", "Leaves used in Indian weddings"],
+    "image_url": "https://cdn.shopify.com/s/files/1/0039/6096/3118/files/hapus_tree_height.jpg?v=1739429208"
+  },
+  {
+    "id": 8,
+    "common_name": "Jackfruit Tree",
+    "scientific_name": "Artocarpus heterophyllus",
+    "family": "Moraceae",
+    "lifespan": "60–70 years",
+    "native_to": "Western Ghats, India",
+    "height": "20–25 meters",
+    "trunk": "Straight trunk with rough bark",
+    "leaves": "Glossy, green, leathery",
+    "fruit": "Large, spiky jackfruit",
+    "parts_uses": {
+      "Fruit": "Eaten raw, cooked, canned",
+      "Wood": "Used in furniture, musical instruments"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, humid",
+      "temperature": "20–32°C",
+      "rainfall": "1500–2500 mm",
+      "soil": "Deep, well-drained lateritic",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Bangladesh", "Thailand"],
+    "importance": {
+      "nutrition": "Rich in fiber, vitamin C",
+      "economic": "Fruit, timber value",
+      "cultural": "State fruit of Kerala"},
+    "fun_facts": ["World’s largest tree-borne fruit", "Seeds edible when roasted"],
+    "image_url": "https://thumbs.dreamstime.com/b/jackfruit-tree-full-fruit-large-oval-shaped-fruits-known-as-jackfruits-artocarpus-heterophyllus-growing-directly-its-375774194.jpg"
+  },
+  {
+    "id": 9,
+    "common_name": "Rubber Tree",
+    "scientific_name": "Hevea brasiliensis",
+    "family": "Euphorbiaceae",
+    "lifespan": "100 years",
+    "native_to": "Amazon basin",
+    "height": "20–30 meters",
+    "trunk": "Straight, smooth bark",
+    "leaves": "Compound green leaves",
+    "fruit": "Small capsule with seeds",
+    "parts_uses": {
+      "Latex": "Used for natural rubber production"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, humid",
+      "temperature": "25–35°C",
+      "rainfall": "2000–3000 mm",
+      "soil": "Deep, well-drained alluvial",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Thailand", "Malaysia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Source of natural rubber",
+      "cultural": "Introduced in colonial plantations"
+    },
+    "fun_facts": ["Main source of commercial rubber", "Latex flows when bark is tapped"],
+    "image_url": "https://img.freepik.com/free-photo/rubber-tree-bowl-filled-with-latex_1150-10344.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 10,
+    "common_name": "Teak Tree",
+    "scientific_name": "Tectona grandis",
+    "family": "Lamiaceae",
+    "lifespan": "100–200 years",
+    "native_to": "South and Southeast Asia",
+    "height": "30–40 meters",
+    "trunk": "Straight, thick with flaking bark",
+    "leaves": "Large, papery, rough",
+    "fruit": "Small drupe",
+    "parts_uses": {
+      "Wood": "Durable timber, furniture, shipbuilding"
+    },
+    "growing_conditions": {
+      "climate": "Tropical monsoon",
+      "temperature": "22–35°C",
+      "rainfall": "1200–2500 mm",
+      "soil": "Deep, well-drained alluvial",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Myanmar", "Thailand"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Highly valued timber",
+      "cultural": "Used in temples and palaces"
+    },
+    "fun_facts": ["Resistant to termites", "Golden-brown durable wood"],
+    "image_url": "https://i0.wp.com/treespiritwisdom.com/wp-content/uploads/2018/07/istock-859328754.jpg?fit=800%2C1200&ssl=1&w=640"
+  }
+]

@@ -1,0 +1,788 @@
+[
+  {
+    "id": 0,
+    "common_name": "Pigweed",
+    "scientific_name": "Amaranthus retroflexus",
+    "family": "Amaranthaceae",
+    "lifespan": "Annual",
+    "native_to": "North America",
+    "height": "0.5–1 meter",
+    "trunk": "Herbaceous stem, reddish-green",
+    "leaves": "Oval, green leaves with wavy margins",
+    "fruit": "Small seed capsules",
+    "parts_uses": {
+      "Leaves": "Edible, used as spinach substitute",
+      "Seeds": "Ground into flour",
+      "Stems": "Cooked as vegetable"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "400–1000 mm",
+      "soil": "Sandy to loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["USA", "India", "China"],
+    "importance": {
+      "nutrition": "Rich in vitamins A and C, calcium, and iron",
+      "economic": "Traditional leafy green in many cultures",
+      "cultural": "Considered a weed in some regions"
+    },
+    "fun_facts": ["Seeds can remain viable in soil for 40 years", "Used in ancient diets as a staple grain"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSaJxy4DV7ruIaGtKcTV35_U7rzr8vYsTKA&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Basil",
+    "scientific_name": "Ocimum basilicum",
+    "family": "Lamiaceae",
+    "lifespan": "Annual",
+    "native_to": "Tropical Asia and Africa",
+    "height": "0.3–0.6 meters",
+    "trunk": "Soft green herbaceous stem",
+    "leaves": "Aromatic, oval, bright green leaves",
+    "fruit": "Small dry nutlets",
+    "parts_uses": {
+      "Leaves": "Culinary herb, essential oil extraction",
+      "Seeds": "Used in drinks and desserts"
+    },
+    "growing_conditions": {
+      "climate": "Tropical and subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Italy", "Thailand"],
+    "importance": {
+      "nutrition": "Rich in vitamin K, antioxidants",
+      "economic": "Widely used in culinary industries",
+      "cultural": "Sacred plant in Indian traditions"
+    },
+    "fun_facts": ["Known as the 'King of Herbs'", "Used in Italian pesto and Thai curries"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Basil-Basilico-Ocimum_basilicum-albahaca.jpg"
+  },
+  {
+    "id": 2,
+    "common_name": "Cilantro",
+    "scientific_name": "Coriandrum sativum",
+    "family": "Apiaceae",
+    "lifespan": "Annual",
+    "native_to": "Mediterranean and Western Asia",
+    "height": "0.2–0.6 meters",
+    "trunk": "Slender herbaceous stem",
+    "leaves": "Lacy, fragrant green leaves",
+    "fruit": "Small round coriander seeds",
+    "parts_uses": {
+      "Leaves": "Fresh herb in cuisines",
+      "Seeds": "Spice and essential oils",
+      "Roots": "Used in Thai cooking"
+    },
+    "growing_conditions": {
+      "climate": "Cool to warm temperate",
+      "temperature": "15–25°C",
+      "rainfall": "400–800 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full to partial sun"
+    },
+    "major_countries": ["India", "Mexico", "Morocco"],
+    "importance": {
+      "nutrition": "Rich in vitamin A, C, and K",
+      "economic": "Used in spice and food industries",
+      "cultural": "Key ingredient in Indian chutneys and Mexican salsa"
+    },
+    "fun_facts": ["Some people find cilantro tastes like soap due to genetics", "One of the oldest known herbs, used since 5000 BC"],
+    "image_url": "https://www.bhg.com/thmb/_f5s_R5-BYU7E300Z35FJEKeh4E=/550x0/filters:no_upscale():strip_icc()/SIP912623-b2e88b63b25b40a1beceb842a747aa9e.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Dill",
+    "scientific_name": "Anethum graveolens",
+    "family": "Apiaceae",
+    "lifespan": "Annual",
+    "native_to": "Mediterranean and Asia",
+    "height": "0.4–1 meter",
+    "trunk": "Slender hollow stem",
+    "leaves": "Feathery, thread-like leaves",
+    "fruit": "Small flattened seeds",
+    "parts_uses": {
+      "Leaves": "Used fresh in salads and pickling",
+      "Seeds": "Spice, digestive aid"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "15–25°C",
+      "rainfall": "500–900 mm",
+      "soil": "Light, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Russia", "India", "Sweden"],
+    "importance": {
+      "nutrition": "Rich in vitamin C, manganese",
+      "economic": "Flavoring in pickling and culinary industries",
+      "cultural": "Traditional herb in Scandinavian and Russian cuisines"
+    },
+    "fun_facts": ["Ancient Egyptians used dill for medicinal purposes", "Dill pickles are named after this herb"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lSi9UXe4LhnOJpf6tYfQ-K3msUgg0svGtQ&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Chamomile",
+    "scientific_name": "Matricaria chamomilla",
+    "family": "Asteraceae",
+    "lifespan": "Annual",
+    "native_to": "Europe and Western Asia",
+    "height": "0.2–0.5 meters",
+    "trunk": "Slender branching stem",
+    "leaves": "Feathery, light green leaves",
+    "fruit": "Small dry achenes",
+    "parts_uses": {
+      "Flowers": "Herbal tea, essential oil",
+      "Leaves": "Medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "12–22°C",
+      "rainfall": "400–800 mm",
+      "soil": "Light, sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Germany", "Egypt", "Hungary"],
+    "importance": {
+      "nutrition": "Soothing herbal infusion",
+      "economic": "Widely used in tea and cosmetics industry",
+      "cultural": "Used since ancient Greek and Roman times as a calming herb"
+    },
+    "fun_facts": ["Chamomile tea is known as 'sleep tea' for its calming effect", "Symbol of rest and relaxation"],
+    "image_url": "https://www.epicgardening.com/wp-content/uploads/2023/09/Grow-Chamomile.jpg"
+  },
+    {
+    "id": 5,
+    "common_name": "Parsley",
+    "scientific_name": "Petroselinum crispum",
+    "family": "Apiaceae",
+    "lifespan": "Annual (sometimes biennial)",
+    "native_to": "Mediterranean region",
+    "height": "0.3–0.6 meters",
+    "trunk": "Slender green herbaceous stem",
+    "leaves": "Curly or flat green leaves",
+    "fruit": "Tiny oval seeds",
+    "parts_uses": {
+      "Leaves": "Culinary herb, garnish",
+      "Roots": "Used in soups and stews",
+      "Seeds": "Medicinal and seasoning"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "15–25°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Rich loam",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Italy", "France", "USA"],
+    "importance": {
+      "nutrition": "Rich in vitamin C, K, and folate",
+      "economic": "Widely used culinary herb",
+      "cultural": "Symbol of renewal in ancient Greece"
+    },
+    "fun_facts": ["Used as garnish worldwide", "High in chlorophyll"],
+    "image_url": "https://cdn.britannica.com/62/193862-050-4A7DBC6F/Parsley.jpg"
+  },
+  {
+    "id": 6,
+    "common_name": "Marjoram",
+    "scientific_name": "Origanum majorana",
+    "family": "Lamiaceae",
+    "lifespan": "Annual to perennial",
+    "native_to": "Mediterranean",
+    "height": "0.3–0.6 meters",
+    "trunk": "Woody at base, green stems",
+    "leaves": "Small oval gray-green leaves",
+    "fruit": "Small nutlets",
+    "parts_uses": {
+      "Leaves": "Used in soups, stews, seasoning",
+      "Oil": "Aromatherapy and medicine"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15–30°C",
+      "rainfall": "400–800 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Egypt", "Turkey", "Greece"],
+    "importance": {
+      "nutrition": "Contains antioxidants and vitamins",
+      "economic": "Flavoring and medicinal herb",
+      "cultural": "Symbol of happiness in Greek tradition"
+    },
+    "fun_facts": ["Closely related to oregano", "Ancient Greeks used it in wedding wreaths"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvmHJ1_uIjXhtEYCYOSlOkaO3Tt__jeR3m0A&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Calendula",
+    "scientific_name": "Calendula officinalis",
+    "family": "Asteraceae",
+    "lifespan": "Annual",
+    "native_to": "Southern Europe",
+    "height": "0.3–0.6 meters",
+    "trunk": "Soft green hairy stem",
+    "leaves": "Oblong, slightly hairy leaves",
+    "fruit": "Curved dry achene",
+    "parts_uses": {
+      "Flowers": "Medicinal, culinary garnish",
+      "Leaves": "Herbal ointments",
+      "Oil": "Skincare products"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "12–22°C",
+      "rainfall": "400–1000 mm",
+      "soil": "Well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Germany", "France"],
+    "importance": {
+      "nutrition": "Petals edible, used in salads",
+      "economic": "Cosmetics, herbal medicine",
+      "cultural": "Symbol of sunshine and health"
+    },
+    "fun_facts": ["Known as 'pot marigold'", "Petals used as dye substitute for saffron"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Calendula_officinalis%2C_pot_marigold.JPG"
+  },
+  {
+    "id": 8,
+    "common_name": "Nasturtium",
+    "scientific_name": "Tropaeolum majus",
+    "family": "Tropaeolaceae",
+    "lifespan": "Annual",
+    "native_to": "South America",
+    "height": "0.2–0.4 meters, trailing vines",
+    "trunk": "Slender green creeping stem",
+    "leaves": "Round shield-like leaves",
+    "fruit": "Three-parted capsule",
+    "parts_uses": {
+      "Leaves": "Peppery salad green",
+      "Flowers": "Edible garnish",
+      "Seeds": "Pickled as caper substitute"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Poor to average soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Peru", "Brazil", "USA"],
+    "importance": {
+      "nutrition": "Rich in vitamin C",
+      "economic": "Ornamental and culinary plant",
+      "cultural": "Used in companion planting"
+    },
+    "fun_facts": ["Flowers attract pollinators", "Seeds are edible when pickled"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcI8jeOI_tlKQrryk38MyT-OEhjClS-6Insg&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Borage",
+    "scientific_name": "Borago officinalis",
+    "family": "Boraginaceae",
+    "lifespan": "Annual",
+    "native_to": "Mediterranean",
+    "height": "0.6–1 meter",
+    "trunk": "Hollow, hairy stem",
+    "leaves": "Large rough leaves",
+    "fruit": "Four nutlets",
+    "parts_uses": {
+      "Leaves": "Used in soups and drinks",
+      "Flowers": "Edible garnish",
+      "Seeds": "Borage oil rich in GLA"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "15–25°C",
+      "rainfall": "500–900 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["UK", "Germany", "Spain"],
+    "importance": {
+      "nutrition": "Rich in omega-6 fatty acids",
+      "economic": "Oil production, culinary",
+      "cultural": "Known as 'starflower'"
+    },
+    "fun_facts": ["Flowers are bright blue", "Leaves taste like cucumber"],
+    "image_url": "https://rukminim2.flixcart.com/image/704/844/kj4m0sw0-0/plant-seed/h/y/k/25-borage-u-grow-india-original-imafyrj8j9qfhvuq.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 10,
+    "common_name": "Fennel",
+    "scientific_name": "Foeniculum vulgare",
+    "family": "Apiaceae",
+    "lifespan": "Annual to biennial",
+    "native_to": "Mediterranean",
+    "height": "0.6–1.5 meters",
+    "trunk": "Hollow grooved stem",
+    "leaves": "Finely divided feathery leaves",
+    "fruit": "Oblong ribbed seeds",
+    "parts_uses": {
+      "Leaves": "Culinary herb",
+      "Seeds": "Spice and digestive aid",
+      "Bulb": "Vegetable in cooking"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15–25°C",
+      "rainfall": "400–800 mm",
+      "soil": "Well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Italy", "Egypt"],
+    "importance": {
+      "nutrition": "Rich in fiber and vitamin C",
+      "economic": "Spice trade, essential oils",
+      "cultural": "Used in Mediterranean cuisine"
+    },
+    "fun_facts": ["Romans believed fennel gave strength", "Seeds used as mouth freshener"],
+    "image_url": "https://cdn.britannica.com/26/140626-050-5592EBC1/fennel-stem-bases-Florence-variety.jpg"
+  },
+  {
+    "id": 11,
+    "common_name": "Anise",
+    "scientific_name": "Pimpinella anisum",
+    "family": "Apiaceae",
+    "lifespan": "Annual",
+    "native_to": "Eastern Mediterranean",
+    "height": "0.3–0.6 meters",
+    "trunk": "Slender grooved stem",
+    "leaves": "Lobed lower leaves, feathery upper leaves",
+    "fruit": "Small aromatic schizocarp",
+    "parts_uses": {
+      "Seeds": "Flavoring in bakery, drinks",
+      "Leaves": "Occasional culinary use",
+      "Oil": "Essential oil for liqueurs"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15–28°C",
+      "rainfall": "400–800 mm",
+      "soil": "Light, fertile soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Spain", "Egypt", "Turkey"],
+    "importance": {
+      "nutrition": "Digestive aid",
+      "economic": "Flavoring for anise liqueurs",
+      "cultural": "Used in traditional remedies"
+    },
+    "fun_facts": ["Seeds taste like licorice", "Used in making absinthe"],
+    "image_url": "https://mtseedbank.in/wp-content/uploads/2023/06/anise_flower_01.jpg"
+  },
+  {
+    "id": 12,
+    "common_name": "Caraway",
+    "scientific_name": "Carum carvi",
+    "family": "Apiaceae",
+    "lifespan": "Annual to biennial",
+    "native_to": "Europe and Western Asia",
+    "height": "0.3–0.8 meters",
+    "trunk": "Slender ridged stem",
+    "leaves": "Feathery divided leaves",
+    "fruit": "Crescent-shaped seeds",
+    "parts_uses": {
+      "Seeds": "Flavor bread, cheese, soups",
+      "Leaves": "Salads and soups",
+      "Roots": "Edible like parsnips"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "12–20°C",
+      "rainfall": "400–900 mm",
+      "soil": "Well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Netherlands", "Poland", "Germany"],
+    "importance": {
+      "nutrition": "Rich in fiber and minerals",
+      "economic": "Spice trade",
+      "cultural": "Used in European traditional dishes"
+    },
+    "fun_facts": ["Seeds used in rye bread", "Also called Persian cumin"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtJkBXTfDHLMkIp3JEYuSt_ke_7g1wYgCOQ&s"
+  },
+    {
+    "id": 13,
+    "common_name": "Summer Savory",
+    "scientific_name": "Satureja hortensis",
+    "family": "Lamiaceae",
+    "lifespan": "Annual",
+    "native_to": "Eastern Mediterranean",
+    "height": "0.3–0.5 meters",
+    "trunk": "Slender branching stems",
+    "leaves": "Narrow aromatic green leaves",
+    "fruit": "Tiny nutlets",
+    "parts_uses": {
+      "Leaves": "Flavoring in beans, meat, and stews",
+      "Oil": "Medicinal and antimicrobial uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "15–25°C",
+      "rainfall": "400–800 mm",
+      "soil": "Light sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["France", "Hungary", "USA"],
+    "importance": {
+      "nutrition": "Contains antioxidants and essential oils",
+      "economic": "Culinary and medicinal herb",
+      "cultural": "Used since Roman times in cooking"
+    },
+    "fun_facts": ["Known as 'bean herb'", "Often used as a salt substitute"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxNVP5eZPw7t0FeoHmBTy7mHDamRlGTJm2sA&s"
+  },
+  {
+    "id": 14,
+    "common_name": "Cress",
+    "scientific_name": "Lepidium sativum",
+    "family": "Brassicaceae",
+    "lifespan": "Annual",
+    "native_to": "Persia",
+    "height": "0.2–0.5 meters",
+    "trunk": "Slender green stem",
+    "leaves": "Small lobed green leaves",
+    "fruit": "Small seed pods",
+    "parts_uses": {
+      "Leaves": "Used fresh in salads and sandwiches",
+      "Seeds": "Medicinal uses",
+      "Sprouts": "Nutritious garnish"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to tropical",
+      "temperature": "10–25°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Moist fertile soil",
+      "sunlight": "Partial shade to full sun"
+    },
+    "major_countries": ["India", "UK", "USA"],
+    "importance": {
+      "nutrition": "Rich in iron, folate, and vitamin C",
+      "economic": "Grown as a quick-sprouting salad herb",
+      "cultural": "Traditional fast crop in schools"
+    },
+    "fun_facts": ["Ready to harvest in 2 weeks", "Popular microgreen"],
+    "image_url": "https://casadeamor.in/cdn/shop/products/5a432c_bf17adbd638449d195fb5d0388f87c99_mv2.webp?v=1665738416&width=1445"
+  },
+  {
+    "id": 15,
+    "common_name": "Chervil",
+    "scientific_name": "Anthriscus cerefolium",
+    "family": "Apiaceae",
+    "lifespan": "Annual",
+    "native_to": "Europe and Western Asia",
+    "height": "0.3–0.6 meters",
+    "trunk": "Slender green stem",
+    "leaves": "Delicate fern-like leaves",
+    "fruit": "Small ribbed seeds",
+    "parts_uses": {
+      "Leaves": "Culinary use in French cuisine",
+      "Seeds": "Occasional seasoning"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "10–20°C",
+      "rainfall": "500–1000 mm",
+      "soil": "Rich loamy soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["France", "Germany", "UK"],
+    "importance": {
+      "nutrition": "Rich in vitamins A and C",
+      "economic": "Important in French 'fines herbes' mix",
+      "cultural": "Used as a spring tonic herb"
+    },
+    "fun_facts": ["Flavor similar to parsley and anise", "Popular in omelets and soups"],
+    "image_url": "https://gardenerspath.com/wp-content/uploads/2020/05/How-to-Grow-Chervil-FB.jpg"
+  },
+  {
+    "id": 16,
+    "common_name": "Epazote",
+    "scientific_name": "Dysphania ambrosioides",
+    "family": "Amaranthaceae",
+    "lifespan": "Annual",
+    "native_to": "Central and South America",
+    "height": "0.5–1.2 meters",
+    "trunk": "Woody green stem",
+    "leaves": "Jagged, aromatic green leaves",
+    "fruit": "Tiny seeds in clusters",
+    "parts_uses": {
+      "Leaves": "Used in Mexican bean dishes",
+      "Oil": "Medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Poor sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "Guatemala", "USA"],
+    "importance": {
+      "nutrition": "Rich in vitamins and minerals",
+      "economic": "Important in Mexican cuisine",
+      "cultural": "Traditional herb in Latin America"
+    },
+    "fun_facts": ["Repels intestinal parasites", "Strong pungent flavor"],
+    "image_url": "https://m.media-amazon.com/images/I/61dJ4r-QD2L._SL500_.jpg"
+  },
+  {
+    "id": 17,
+    "common_name": "Shiso",
+    "scientific_name": "Perilla frutescens var. crispa",
+    "family": "Lamiaceae",
+    "lifespan": "Annual",
+    "native_to": "East Asia",
+    "height": "0.3–0.9 meters",
+    "trunk": "Square stem typical of mint family",
+    "leaves": "Large ruffled green or purple leaves",
+    "fruit": "Tiny nutlets",
+    "parts_uses": {
+      "Leaves": "Used in sushi, pickles, salads",
+      "Seeds": "Oil and seasoning"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "18–28°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Rich moist soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Japan", "Korea", "China"],
+    "importance": {
+      "nutrition": "Rich in omega-3 fatty acids",
+      "economic": "Used in Japanese and Korean cuisine",
+      "cultural": "Traditional Asian culinary herb"
+    },
+    "fun_facts": ["Leaves can be green or purple", "Used in plum pickling"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Perilla_frutescens_var._acuta.JPG"
+  },
+  {
+    "id": 18,
+    "common_name": "Fenugreek",
+    "scientific_name": "Trigonella foenum-graecum",
+    "family": "Fabaceae",
+    "lifespan": "Annual",
+    "native_to": "Mediterranean and South Asia",
+    "height": "0.3–0.6 meters",
+    "trunk": "Slender branching stem",
+    "leaves": "Trifoliate green leaves",
+    "fruit": "Long slender pods",
+    "parts_uses": {
+      "Leaves": "Used as fresh or dried greens",
+      "Seeds": "Spice and medicinal use"
+    },
+    "growing_conditions": {
+      "climate": "Temperate to subtropical",
+      "temperature": "10–25°C",
+      "rainfall": "400–800 mm",
+      "soil": "Well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Egypt", "Morocco"],
+    "importance": {
+      "nutrition": "Rich in iron, fiber, and protein",
+      "economic": "Spice trade and medicinal herb",
+      "cultural": "Staple in Indian cooking"
+    },
+    "fun_facts": ["Leaves called 'methi' in India", "Used as lactation aid"],
+    "image_url": "https://www.everwilde.com/media/0800/HFENUGR-A-Fenugreek-Seeds.jpg"
+  },
+  {
+    "id": 19,
+    "common_name": "Lovage",
+    "scientific_name": "Levisticum officinale",
+    "family": "Apiaceae",
+    "lifespan": "Annual to perennial",
+    "native_to": "Southern Europe",
+    "height": "1–2 meters",
+    "trunk": "Hollow green stems",
+    "leaves": "Large dark green divided leaves",
+    "fruit": "Ribbed seeds",
+    "parts_uses": {
+      "Leaves": "Flavoring in soups and salads",
+      "Seeds": "Used as spice",
+      "Roots": "Medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Cool temperate",
+      "temperature": "10–20°C",
+      "rainfall": "500–1200 mm",
+      "soil": "Rich moist soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Germany", "Italy", "France"],
+    "importance": {
+      "nutrition": "Rich in vitamin C and minerals",
+      "economic": "Flavoring and medicinal plant",
+      "cultural": "Traditional European herb"
+    },
+    "fun_facts": ["Tastes similar to celery", "Used since Roman times"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Unser_Liebst%C3%B6ckel.jpg/250px-Unser_Liebst%C3%B6ckel.jpg"
+  },
+  {
+    "id": 20,
+    "common_name": "Arugula",
+    "scientific_name": "Eruca vesicaria",
+    "family": "Brassicaceae",
+    "lifespan": "Annual",
+    "native_to": "Mediterranean",
+    "height": "0.2–0.5 meters",
+    "trunk": "Slender branching stem",
+    "leaves": "Lobed green leaves with peppery flavor",
+    "fruit": "Small seed pods",
+    "parts_uses": {
+      "Leaves": "Salads, pizza topping, pesto",
+      "Seeds": "Oil and mustard substitute"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "400–800 mm",
+      "soil": "Well-drained loam",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Italy", "Greece", "USA"],
+    "importance": {
+      "nutrition": "Rich in calcium, vitamin K, and antioxidants",
+      "economic": "Popular salad green",
+      "cultural": "Traditional Italian cuisine herb"
+    },
+    "fun_facts": ["Also called rocket or roquette", "Aphrodisiac in ancient Rome"],
+    "image_url": "https://gardenerspath.com/wp-content/uploads/2019/09/How-to-Plant-and-Grow-Arugula-FB.jpg"
+  },
+  {
+    "id": 21,
+    "common_name": "Sorrel",
+    "scientific_name": "Rumex acetosa",
+    "family": "Polygonaceae",
+    "lifespan": "Annual to perennial",
+    "native_to": "Europe and Asia",
+    "height": "0.3–0.6 meters",
+    "trunk": "Slender green stems",
+    "leaves": "Arrow-shaped sour-tasting leaves",
+    "fruit": "Triangular seeds",
+    "parts_uses": {
+      "Leaves": "Used in soups, sauces, salads",
+      "Roots": "Medicinal use"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "10–20°C",
+      "rainfall": "600–1000 mm",
+      "soil": "Moist fertile soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["France", "Russia", "Poland"],
+    "importance": {
+      "nutrition": "Rich in vitamin C and oxalic acid",
+      "economic": "Culinary and medicinal plant",
+      "cultural": "Traditional European herb"
+    },
+    "fun_facts": ["Leaves taste lemony", "Used in green borscht soup"],
+    "image_url": "https://cdn.britannica.com/27/118327-050-14389167/Garden-sorrel.jpg"
+  },
+  {
+    "id": 22,
+    "common_name": "Chia",
+    "scientific_name": "Salvia hispanica",
+    "family": "Lamiaceae",
+    "lifespan": "Annual",
+    "native_to": "Mexico and Guatemala",
+    "height": "1–1.2 meters",
+    "trunk": "Square stem with branching",
+    "leaves": "Broad green serrated leaves",
+    "fruit": "Tiny oval seeds",
+    "parts_uses": {
+      "Seeds": "Superfood in drinks and baking",
+      "Leaves": "Herbal teas"
+    },
+    "growing_conditions": {
+      "climate": "Tropical to subtropical",
+      "temperature": "18–30°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Mexico", "Bolivia", "Argentina"],
+    "importance": {
+      "nutrition": "Rich in omega-3, protein, and fiber",
+      "economic": "Health food industry",
+      "cultural": "Staple food of Aztecs"
+    },
+    "fun_facts": ["Seeds can absorb 12x their weight in water", "Ancient endurance food"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Salvia_hispanica_kz2.jpg"
+  },
+  {
+    "id": 23,
+    "common_name": "Culantro",
+    "scientific_name": "Eryngium foetidum",
+    "family": "Apiaceae",
+    "lifespan": "Annual to biennial",
+    "native_to": "Tropical Americas",
+    "height": "0.3–0.6 meters",
+    "trunk": "Short basal rosette",
+    "leaves": "Long spiny aromatic leaves",
+    "fruit": "Tiny seeds",
+    "parts_uses": {
+      "Leaves": "Flavoring in soups and stews",
+      "Roots": "Medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–30°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Moist rich soil",
+      "sunlight": "Partial shade"
+    },
+    "major_countries": ["Trinidad", "Vietnam", "Colombia"],
+    "importance": {
+      "nutrition": "Rich in carotene and calcium",
+      "economic": "Used in Caribbean and Asian cuisine",
+      "cultural": "Popular seasoning in tropical countries"
+    },
+    "fun_facts": ["Also called Mexican coriander", "Tastes like strong cilantro"],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dhcy6pFyX4qmzV6zyBDe8E.jpg"
+  },
+  {
+    "id": 24,
+    "common_name": "Hyssop",
+    "scientific_name": "Hyssopus officinalis",
+    "family": "Lamiaceae",
+    "lifespan": "Annual to perennial",
+    "native_to": "Southern Europe",
+    "height": "0.4–0.6 meters",
+    "trunk": "Woody base with upright stems",
+    "leaves": "Narrow dark green leaves",
+    "fruit": "Four nutlets",
+    "parts_uses": {
+      "Leaves": "Flavoring in liqueurs",
+      "Flowers": "Medicinal and culinary uses"
+    },
+    "growing_conditions": {
+      "climate": "Warm temperate",
+      "temperature": "15–25°C",
+      "rainfall": "400–800 mm",
+      "soil": "Dry sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["France", "Italy", "Spain"],
+    "importance": {
+      "nutrition": "Medicinal herb rich in essential oils",
+      "economic": "Used in liqueurs like Chartreuse",
+      "cultural": "Mentioned in the Bible"
+    },
+    "fun_facts": ["Used in ancient purification rituals", "Attracts bees and butterflies"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2VsNF4OOycLgcjSKTm8wCXTH8mi03rKKnHA&s"
+  }
+]

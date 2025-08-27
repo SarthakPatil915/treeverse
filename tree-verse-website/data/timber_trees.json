@@ -1,0 +1,620 @@
+[
+  {
+    "id": 0,
+    "common_name": "Teak Tree",
+    "scientific_name": "Tectona grandis",
+    "family": "Lamiaceae",
+    "lifespan": "80–100 years",
+    "native_to": "South and Southeast Asia",
+    "height": "30–40 meters",
+    "trunk": "Straight, tall, with pale grey bark",
+    "leaves": "Large, rough-textured leaves",
+    "fruit": "Small, hard drupe",
+    "parts_uses": {
+      "Wood": "High-quality furniture, ships, flooring",
+      "Leaves": "Traditional wrapping material"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "22–32°C",
+      "rainfall": "1250–2500 mm",
+      "soil": "Deep, well-drained alluvial soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Myanmar", "Thailand"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Luxury timber trade",
+      "cultural": "Used in traditional house building"
+    },
+    "fun_facts": ["Sheds leaves completely in dry season", "Wood is naturally resistant to termites"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OB5tbaz-scUSzsbMRPNcUe62cSOv9Juz-w&s"
+  },
+  {
+    "id": 1,
+    "common_name": "Indian Rosewood (Sheesham)",
+    "scientific_name": "Dalbergia sissoo",
+    "family": "Fabaceae",
+    "lifespan": "80–100 years",
+    "native_to": "Indian subcontinent",
+    "height": "15–25 meters",
+    "trunk": "Hard, grey bark with vertical cracks",
+    "leaves": "Compound leaves with oval leaflets",
+    "fruit": "Flat seed pods",
+    "parts_uses": {
+      "Wood": "Furniture, flooring, carvings",
+      "Leaves": "Fodder for cattle"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "10–38°C",
+      "rainfall": "500–1500 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Pakistan", "Nepal"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "High-value timber",
+      "cultural": "Common in rural plantations"
+    },
+    "fun_facts": ["Called Sheesham in India", "Wood is highly durable against termites"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03yk7xQbINtix2RS8rd5bun3xgEDlzHygAg&s"
+  },
+  {
+    "id": 2,
+    "common_name": "Sal Tree",
+    "scientific_name": "Shorea robusta",
+    "family": "Dipterocarpaceae",
+    "lifespan": "100–150 years",
+    "native_to": "Indian subcontinent",
+    "height": "30–35 meters",
+    "trunk": "Straight trunk with thick bark",
+    "leaves": "Broad, leathery leaves",
+    "fruit": "Small nut with wings",
+    "parts_uses": {
+      "Wood": "Construction, railway sleepers",
+      "Leaves": "Plates and bowls",
+      "Resin": "Medicinal use"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "22–32°C",
+      "rainfall": "1000–3000 mm",
+      "soil": "Well-drained clay loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Bhutan"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Strong timber trade",
+      "cultural": "Buddha was born under a Sal tree"
+    },
+    "fun_facts": ["Sheds leaves in summer", "Wood is extremely hard and durable"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Y7e4eDN0Ye07U_ym6fhI7IXUrjfOVdd3TQ&s"
+  },
+  {
+    "id": 3,
+    "common_name": "Mahogany",
+    "scientific_name": "Swietenia macrophylla",
+    "family": "Meliaceae",
+    "lifespan": "100+ years",
+    "native_to": "Central and South America",
+    "height": "30–45 meters",
+    "trunk": "Tall, straight, reddish-brown bark",
+    "leaves": "Pinnate leaves with glossy green leaflets",
+    "fruit": "Large woody capsules",
+    "parts_uses": {
+      "Wood": "Furniture, musical instruments, ships"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "22–35°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Brazil", "Honduras", "Belize"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Luxury furniture industry",
+      "cultural": "Symbol of wealth and elegance"
+    },
+    "fun_facts": ["One of the world’s most expensive woods", "Wood darkens with age"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjClrJvVSWVgp2oLaFIG-aWjR0FwBd5BY6SA&s"
+  },
+  {
+    "id": 4,
+    "common_name": "Sandalwood",
+    "scientific_name": "Santalum album",
+    "family": "Santalaceae",
+    "lifespan": "60–80 years",
+    "native_to": "India, Southeast Asia",
+    "height": "8–12 meters",
+    "trunk": "Grey or brown bark, aromatic heartwood",
+    "leaves": "Opposite, elliptical leaves",
+    "fruit": "Small, purple-black drupe",
+    "parts_uses": {
+      "Wood": "Perfumes, carvings, medicine",
+      "Oil": "Cosmetics, aromatherapy"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "12–35°C",
+      "rainfall": "600–1600 mm",
+      "soil": "Well-drained red loam",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Indonesia", "Australia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Highly valuable in fragrance trade",
+      "cultural": "Used in rituals and meditation"
+    },
+    "fun_facts": ["Wood remains fragrant for decades", "Illegal felling controlled by government"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRqce_d3tKIzeVkLqQFNOAWj7UPQduMW1cQ&s"
+  },
+  {
+    "id": 5,
+    "common_name": "Red Cedar",
+    "scientific_name": "Toona ciliata",
+    "family": "Meliaceae",
+    "lifespan": "60–80 years",
+    "native_to": "India, Southeast Asia, Australia",
+    "height": "20–30 meters",
+    "trunk": "Straight with reddish bark",
+    "leaves": "Large pinnate leaves",
+    "fruit": "Capsules with winged seeds",
+    "parts_uses": {
+      "Wood": "Furniture, carvings, paneling"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "800–2000 mm",
+      "soil": "Well-drained loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "Australia"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Valuable hardwood timber",
+      "cultural": "Used in temples and royal furniture"
+    },
+    "fun_facts": ["Called ‘Australian Red Cedar’", "Highly resistant to pests"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCI-OiKpT2T9yoi9f8N4ynx6ilC7_DJCZLA&s"
+  },
+  {
+    "id": 6,
+    "common_name": "Chir Pine",
+    "scientific_name": "Pinus roxburghii",
+    "family": "Pinaceae",
+    "lifespan": "150–200 years",
+    "native_to": "Himalayan region",
+    "height": "30–45 meters",
+    "trunk": "Tall, straight, thick bark",
+    "leaves": "Needle-like in bundles of three",
+    "fruit": "Woody cones",
+    "parts_uses": {
+      "Wood": "Construction, furniture",
+      "Resin": "Turpentine, rosin"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "5–25°C",
+      "rainfall": "750–1500 mm",
+      "soil": "Sandy, rocky soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Bhutan"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Source of resin and timber",
+      "cultural": "Sacred in Himalayan traditions"
+    },
+    "fun_facts": ["Needles shed and form thick carpets", "Highly flammable tree"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtp3xUwmiP2JS9fm7n8Ji36TEhPo4C4GJf5Q&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Deodar Cedar",
+    "scientific_name": "Cedrus deodara",
+    "family": "Pinaceae",
+    "lifespan": "500–1000 years",
+    "native_to": "Western Himalayas",
+    "height": "40–50 meters",
+    "trunk": "Straight, conical crown with thick bark",
+    "leaves": "Needle-like, bluish-green",
+    "fruit": "Large upright cones",
+    "parts_uses": {
+      "Wood": "Temples, furniture, railway sleepers",
+      "Oil": "Medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "0–20°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Moist, well-drained soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Afghanistan", "Pakistan"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Sacred and durable timber",
+      "cultural": "Sacred in Hinduism (tree of the gods)"
+    },
+    "fun_facts": ["Name ‘Deodar’ means Tree of God", "Wood is aromatic and rot-resistant"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4groqHQ6GcMKUEsp1erToFAvUNpOCiSPztg&s"
+  },
+  {
+    "id": 8,
+    "common_name": "Bamboo",
+    "scientific_name": "Bambusoideae",
+    "family": "Poaceae",
+    "lifespan": "30–50 years",
+    "native_to": "Asia",
+    "height": "10–30 meters",
+    "trunk": "Woody hollow culms",
+    "leaves": "Long narrow leaves",
+    "fruit": "Rare, small grains",
+    "parts_uses": {
+      "Wood": "Construction, paper, handicrafts",
+      "Shoots": "Edible vegetable"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–35°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Alluvial, loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "China", "Japan"],
+    "importance": {
+      "nutrition": "Shoots edible and nutritious",
+      "economic": "Widely used in handicraft and paper",
+      "cultural": "Symbol of flexibility and strength"
+    },
+    "fun_facts": ["Fastest-growing plant in the world", "Some species grow 1m per day"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Golden_Bamboo%28Bambusa_vulgaris%29_in_Hong_Kong.jpg/1200px-Golden_Bamboo%28Bambusa_vulgaris%29_in_Hong_Kong.jpg"
+  },
+  {
+    "id": 9,
+    "common_name": "Sheesham (North Indian Rosewood)",
+    "scientific_name": "Dalbergia sissoo",
+    "family": "Fabaceae",
+    "lifespan": "80–100 years",
+    "native_to": "Indian subcontinent",
+    "height": "15–25 meters",
+    "trunk": "Hard, grey bark with vertical cracks",
+    "leaves": "Compound leaves with oval leaflets",
+    "fruit": "Flat seed pods",
+    "parts_uses": {
+      "Wood": "Furniture, musical instruments",
+      "Leaves": "Fodder for cattle"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "10–38°C",
+      "rainfall": "500–1500 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Pakistan", "Nepal"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Durable timber, exports",
+      "cultural": "Used in traditional Indian homes"
+    },
+    "fun_facts": ["One of the most popular timber trees in India", "Resistant to termites"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Dalbergia_sissoo.jpg"
+  },
+  {
+    "id": 10,
+    "common_name": "Ebony Tree",
+    "scientific_name": "Diospyros ebenum",
+    "family": "Ebenaceae",
+    "lifespan": "100–150 years",
+    "native_to": "India, Sri Lanka, Indonesia",
+    "height": "15–20 meters",
+    "trunk": "Dark, dense wood with grey bark",
+    "leaves": "Simple, leathery, glossy leaves",
+    "fruit": "Small berry",
+    "parts_uses": {
+      "Wood": "Luxury furniture, carvings, musical instruments"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "1000–2000 mm",
+      "soil": "Well-drained loam",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["India", "Sri Lanka", "Indonesia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "One of the most expensive woods",
+      "cultural": "Symbol of royalty and strength"
+    },
+    "fun_facts": ["Wood is extremely heavy and black", "Used in chess pieces and piano keys"],
+    "image_url": "https://veliyathgarden.com/cdn/shop/files/Ebonytree-veliyathgardens_1.jpg?v=1734597095"
+  },
+  {
+    "id": 11,
+    "common_name": "Walnut Tree",
+    "scientific_name": "Juglans regia",
+    "family": "Juglandaceae",
+    "lifespan": "200–300 years",
+    "native_to": "Central Asia, Himalayas",
+    "height": "20–30 meters",
+    "trunk": "Thick grey bark with fissures",
+    "leaves": "Pinnate leaves with oval leaflets",
+    "fruit": "Walnut nut inside hard shell",
+    "parts_uses": {
+      "Wood": "Furniture, carvings, gunstocks",
+      "Fruit": "Nut eaten worldwide"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–25°C",
+      "rainfall": "700–1500 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Iran", "USA"],
+    "importance": {
+      "nutrition": "Walnuts rich in omega-3",
+      "economic": "Wood and nut trade",
+      "cultural": "Sacred in Kashmir traditions"
+    },
+    "fun_facts": ["Walnut shells used as polishing material", "Wood has rich dark color"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Juglans_major_Morton.jpg/640px-Juglans_major_Morton.jpg"
+  },
+  {
+    "id": 12,
+    "common_name": "Maple Tree",
+    "scientific_name": "Acer saccharum",
+    "family": "Sapindaceae",
+    "lifespan": "200–300 years",
+    "native_to": "North America",
+    "height": "25–35 meters",
+    "trunk": "Straight trunk with grey bark",
+    "leaves": "Lobed leaves turning red/yellow in autumn",
+    "fruit": "Paired winged seeds",
+    "parts_uses": {
+      "Sap": "Maple syrup production",
+      "Wood": "Furniture and flooring"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "0–25°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Canada", "USA"],
+    "importance": {
+      "nutrition": "Source of maple syrup",
+      "economic": "Wood and syrup trade",
+      "cultural": "National symbol of Canada"
+    },
+    "fun_facts": ["Leaves change to brilliant colors in autumn", "Sap flow starts in late winter"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8O1EKCji1vOHR3RS6SngT-Alnr5Dz04Aofw&s"
+  },
+  {
+    "id": 13,
+    "common_name": "Oak Tree",
+    "scientific_name": "Quercus robur",
+    "family": "Fagaceae",
+    "lifespan": "500+ years",
+    "native_to": "Europe, Western Asia",
+    "height": "20–40 meters",
+    "trunk": "Thick, sturdy trunk",
+    "leaves": "Lobed leaves",
+    "fruit": "Acorns",
+    "parts_uses": {
+      "Wood": "Barrels, furniture, ships",
+      "Bark": "Source of tannins"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–25°C",
+      "rainfall": "600–1200 mm",
+      "soil": "Clay loam, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["UK", "France", "Germany"],
+    "importance": {
+      "nutrition": "Acorns feed wildlife",
+      "economic": "Valuable hardwood",
+      "cultural": "Symbol of strength"
+    },
+    "fun_facts": ["Can live for over 1,000 years", "Leaves shed in autumn"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRewrzm6HE31DSV6W_zyRbRTNghp616cdBy7A&s"
+  },
+  {
+    "id": 14,
+    "common_name": "Eucalyptus",
+    "scientific_name": "Eucalyptus globulus",
+    "family": "Myrtaceae",
+    "lifespan": "50–150 years",
+    "native_to": "Australia",
+    "height": "30–55 meters",
+    "trunk": "Tall with peeling bark",
+    "leaves": "Long, sickle-shaped leaves",
+    "fruit": "Woody capsule",
+    "parts_uses": {
+      "Wood": "Pulp, timber, fuel",
+      "Leaves": "Eucalyptus oil"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, temperate",
+      "temperature": "10–35°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Australia", "India", "Brazil"],
+    "importance": {
+      "nutrition": "Koala’s main food source",
+      "economic": "Paper, oil industry",
+      "cultural": "Sacred in Aboriginal culture"
+    },
+    "fun_facts": ["Fast-growing tree", "Leaves rich in aromatic oils"],
+    "image_url": "https://m.media-amazon.com/images/I/71GtrIFOXWL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 15,
+    "common_name": "Acacia",
+    "scientific_name": "Acacia nilotica",
+    "family": "Fabaceae",
+    "lifespan": "40–60 years",
+    "native_to": "Africa, Indian subcontinent",
+    "height": "15–20 meters",
+    "trunk": "Brown, fissured bark with thorns",
+    "leaves": "Small, feathery compound leaves",
+    "fruit": "Flat pods",
+    "parts_uses": {
+      "Wood": "Hardwood for furniture",
+      "Gum": "Gum arabic",
+      "Bark": "Tannin source"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, arid",
+      "temperature": "20–40°C",
+      "rainfall": "400–1000 mm",
+      "soil": "Sandy, clay soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Sudan", "Australia"],
+    "importance": {
+      "nutrition": "Pods as animal fodder",
+      "economic": "Gum arabic trade",
+      "cultural": "Sacred in desert cultures"
+    },
+    "fun_facts": ["Wood resistant to decay", "Used in leather tanning"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAI69v3v0j7T4iqLs4jqel8mnCYu8qbd72wA&s"
+  },
+  {
+    "id": 16,
+    "common_name": "Kapok Tree",
+    "scientific_name": "Ceiba pentandra",
+    "family": "Malvaceae",
+    "lifespan": "60–80 years",
+    "native_to": "Tropical America, Africa",
+    "height": "40–60 meters",
+    "trunk": "Massive trunk with buttresses",
+    "leaves": "Palmately compound leaves",
+    "fruit": "Large capsules with cotton-like fiber",
+    "parts_uses": {
+      "Wood": "Light timber",
+      "Fiber": "Pillows, mattresses, insulation"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–32°C",
+      "rainfall": "1000–3000 mm",
+      "soil": "Alluvial soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Brazil", "Indonesia"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Kapok fiber industry",
+      "cultural": "Sacred in Mayan culture"
+    },
+    "fun_facts": ["Produces silky fiber called kapok", "One of the tallest tropical trees"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxysuoydjcoDIzLcj2IS350xd8VZ7AXAvz_Q&s"
+  },
+  {
+    "id": 17,
+    "common_name": "Chir Pine",
+    "scientific_name": "Pinus roxburghii",
+    "family": "Pinaceae",
+    "lifespan": "150–200 years",
+    "native_to": "Himalayan region",
+    "height": "30–45 meters",
+    "trunk": "Tall, straight with thick bark",
+    "leaves": "Needle-like in bundles of three",
+    "fruit": "Woody cones",
+    "parts_uses": {
+      "Wood": "Construction, furniture",
+      "Resin": "Turpentine and rosin"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "5–25°C",
+      "rainfall": "750–1500 mm",
+      "soil": "Rocky, sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Bhutan"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Source of resin and timber",
+      "cultural": "Sacred in Himalayas"
+    },
+    "fun_facts": ["Needles shed forming thick carpets", "Highly flammable tree"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB1IK9GHLRGrpwLeADgoUw6-9utUOnz-xYpw&s"
+  },
+  {
+    "id": 18,
+    "common_name": "Poplar Tree",
+    "scientific_name": "Populus deltoides",
+    "family": "Salicaceae",
+    "lifespan": "40–60 years",
+    "native_to": "North America, Asia",
+    "height": "20–30 meters",
+    "trunk": "Tall with light grey bark",
+    "leaves": "Triangular, broad leaves",
+    "fruit": "Small capsules with cottony seeds",
+    "parts_uses": {
+      "Wood": "Plywood, paper, matchsticks"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5–25°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "China", "USA"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Fast-growing timber",
+      "cultural": "Planted as windbreaks"
+    },
+    "fun_facts": ["One of the fastest-growing timber trees", "Leaves flutter in slightest breeze"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNs3xmU_WePnr8-azDz7xydxeVLJSCVobbMg&s"
+  },
+  {
+    "id": 19,
+    "common_name": "Silver Oak",
+    "scientific_name": "Grevillea robusta",
+    "family": "Proteaceae",
+    "lifespan": "60–80 years",
+    "native_to": "Australia",
+    "height": "20–35 meters",
+    "trunk": "Straight with silvery-grey bark",
+    "leaves": "Fern-like pinnate leaves",
+    "fruit": "Woody follicles",
+    "parts_uses": {
+      "Wood": "Furniture, plywood, ornamental timber"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "800–2000 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Australia", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Not edible",
+      "economic": "Commercial timber plantations",
+      "cultural": "Popular avenue tree"
+    },
+    "fun_facts": ["Fast-growing timber tree", "Attractive golden flowers"],
+    "image_url": "https://nurserynisarga.in/wp-content/uploads/2024/02/Untitled-design.webp"
+  }
+
+]

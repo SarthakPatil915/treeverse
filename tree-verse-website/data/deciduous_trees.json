@@ -1,0 +1,320 @@
+[
+  {
+    "id": 0,
+    "common_name": "Neem Tree",
+    "scientific_name": "Azadirachta indica",
+    "family": "Meliaceae",
+    "lifespan": "150–200 years",
+    "native_to": "Indian subcontinent",
+    "height": "15–20 meters",
+    "trunk": "Straight with rough, fissured bark",
+    "leaves": "Pinnate leaves with serrated edges",
+    "fruit": "Olive-like drupe",
+    "parts_uses": {
+      "Leaves": "Medicinal, pest repellent",
+      "Bark": "Used in traditional medicine",
+      "Seeds": "Neem oil production",
+      "Wood": "Furniture and tools"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "21–32°C",
+      "rainfall": "450–1200 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Pakistan", "Bangladesh"],
+    "importance": {
+      "nutrition": "Medicinal and herbal remedies",
+      "economic": "Neem oil, bio-pesticides",
+      "cultural": "Sacred in Indian traditions"
+    },
+    "fun_facts": ["Called 'Village Pharmacy'", "Leaves stay green most of the year but shed before new growth"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neem_Tree_in_Rajasthan%2C_India.jpg/500px-Neem_Tree_in_Rajasthan%2C_India.jpg"
+  },
+  {
+    "id": 1,
+    "common_name": "Peepal Tree",
+    "scientific_name": "Ficus religiosa",
+    "family": "Moraceae",
+    "lifespan": "100–150 years",
+    "native_to": "Indian subcontinent",
+    "height": "20–25 meters",
+    "trunk": "Thick, grey bark with aerial roots",
+    "leaves": "Heart-shaped leaves with long tips",
+    "fruit": "Small figs, purple when ripe",
+    "parts_uses": {
+      "Leaves": "Medicinal decoctions",
+      "Bark": "Ayurvedic remedies",
+      "Roots": "Worship and shade"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "15–35°C",
+      "rainfall": "1000–2500 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Sri Lanka"],
+    "importance": {
+      "nutrition": "Fruits for birds",
+      "economic": "Tourism and temple planting",
+      "cultural": "Sacred in Hinduism and Buddhism"
+    },
+    "fun_facts": ["Buddha attained enlightenment under a Peepal tree", "Sheds leaves briefly in spring"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peepal_tree.jpg"
+  },
+  {
+    "id": 2,
+    "common_name": "Teak Tree",
+    "scientific_name": "Tectona grandis",
+    "family": "Lamiaceae",
+    "lifespan": "80–100 years",
+    "native_to": "South and Southeast Asia",
+    "height": "30–40 meters",
+    "trunk": "Straight, tall, with pale grey bark",
+    "leaves": "Large, rough-textured leaves",
+    "fruit": "Small, hard drupe",
+    "parts_uses": {
+      "Wood": "High-quality furniture, ships",
+      "Leaves": "Traditional wrapping material"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "22–32°C",
+      "rainfall": "1250–2500 mm",
+      "soil": "Deep, well-drained alluvial soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Myanmar", "Thailand"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Luxury timber trade",
+      "cultural": "Used in traditional house building"
+    },
+    "fun_facts": ["Sheds leaves completely in dry season", "Wood is naturally resistant to termites"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Teak_tree.jpg"
+  },
+  {
+    "id": 3,
+    "common_name": "Gulmohar",
+    "scientific_name": "Delonix regia",
+    "family": "Fabaceae",
+    "lifespan": "30–40 years",
+    "native_to": "Madagascar",
+    "height": "8–12 meters",
+    "trunk": "Short, spreading trunk",
+    "leaves": "Feathery, fern-like leaves",
+    "fruit": "Long, dark seed pods",
+    "parts_uses": {
+      "Flowers": "Ornamental value",
+      "Pods": "Craft items",
+      "Leaves": "Traditional medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, subtropical",
+      "temperature": "20–30°C",
+      "rainfall": "700–1200 mm",
+      "soil": "Well-drained sandy soil",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Pakistan", "Bangladesh"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Ornamental tree trade",
+      "cultural": "Planted for shade and beauty"
+    },
+    "fun_facts": ["Known as 'Flame of the Forest'", "Sheds leaves in winter before flowering"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Delonix_regia_tree.jpg"
+  },
+  {
+    "id": 4,
+    "common_name": "Sal Tree",
+    "scientific_name": "Shorea robusta",
+    "family": "Dipterocarpaceae",
+    "lifespan": "100–150 years",
+    "native_to": "Indian subcontinent",
+    "height": "30–35 meters",
+    "trunk": "Straight trunk with thick bark",
+    "leaves": "Broad, leathery leaves",
+    "fruit": "Small nut with wings",
+    "parts_uses": {
+      "Wood": "Construction and railway sleepers",
+      "Leaves": "Plates and bowls",
+      "Resin": "Medicinal uses"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "22–32°C",
+      "rainfall": "1000–3000 mm",
+      "soil": "Well-drained clay loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Nepal", "Bhutan"],
+    "importance": {
+      "nutrition": "No food use",
+      "economic": "Timber trade",
+      "cultural": "Used in religious rituals"
+    },
+    "fun_facts": ["Sheds leaves in summer", "Buddha was born under a Sal tree"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sal_tree.jpg"
+  },
+  {
+    "id": 5,
+    "common_name": "Indian Laburnum",
+    "scientific_name": "Cassia fistula",
+    "family": "Fabaceae",
+    "lifespan": "40–50 years",
+    "native_to": "South Asia",
+    "height": "10–20 meters",
+    "trunk": "Medium-sized with smooth bark",
+    "leaves": "Compound leaves with oval leaflets",
+    "fruit": "Long cylindrical pods",
+    "parts_uses": {
+      "Flowers": "Ornamental, medicinal",
+      "Pods": "Laxative medicine"
+    },
+    "growing_conditions": {
+      "climate": "Tropical",
+      "temperature": "20–35°C",
+      "rainfall": "500–1500 mm",
+      "soil": "Well-drained sandy loam",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["India", "Sri Lanka", "Thailand"],
+    "importance": {
+      "nutrition": "Medicinal uses only",
+      "economic": "Garden and avenue planting",
+      "cultural": "National tree of Thailand"
+    },
+    "fun_facts": ["Also called 'Golden Shower Tree'", "Flowers appear before leaves in summer"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Indian_Laburnum_%28Cassia_Fistula-Fabaceae%29.JPG/1200px-Indian_Laburnum_%28Cassia_Fistula-Fabaceae%29.JPG?20130114172836"
+  },
+  {
+    "id": 6,
+    "common_name": "Mulberry Tree",
+    "scientific_name": "Morus alba",
+    "family": "Moraceae",
+    "lifespan": "50–75 years",
+    "native_to": "China",
+    "height": "10–15 meters",
+    "trunk": "Short trunk, spreading crown",
+    "leaves": "Broad, lobed leaves",
+    "fruit": "Small blackberry-like fruit",
+    "parts_uses": {
+      "Fruit": "Edible and sweet",
+      "Leaves": "Food for silkworms",
+      "Wood": "Sports equipment"
+    },
+    "growing_conditions": {
+      "climate": "Temperate, subtropical",
+      "temperature": "15–30°C",
+      "rainfall": "600–1500 mm",
+      "soil": "Loamy, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["China", "India", "Japan"],
+    "importance": {
+      "nutrition": "Fruit rich in vitamins",
+      "economic": "Silk industry",
+      "cultural": "Traditional medicine"
+    },
+    "fun_facts": ["Leaves change shape as the tree ages", "Deciduous in winter"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHkkoz2_XWmCAcJiP_SE7CJuiaetASBEWjQ&s"
+  },
+  {
+    "id": 7,
+    "common_name": "Baobab Tree",
+    "scientific_name": "Adansonia digitata",
+    "family": "Malvaceae",
+    "lifespan": "500–1500 years",
+    "native_to": "Africa",
+    "height": "5–25 meters",
+    "trunk": "Massive, bottle-shaped trunk",
+    "leaves": "Palmately compound leaves",
+    "fruit": "Large, egg-shaped capsules",
+    "parts_uses": {
+      "Fruit": "Vitamin C-rich food",
+      "Leaves": "Vegetable and medicine",
+      "Bark": "Rope and cloth making"
+    },
+    "growing_conditions": {
+      "climate": "Tropical, semi-arid",
+      "temperature": "20–35°C",
+      "rainfall": "300–1000 mm",
+      "soil": "Well-drained sandy soils",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["Madagascar", "Tanzania", "South Africa"],
+    "importance": {
+      "nutrition": "Highly nutritious fruit",
+      "economic": "Food and fiber",
+      "cultural": "Sacred in African folklore"
+    },
+    "fun_facts": ["Can store thousands of liters of water", "Sheds leaves during dry season"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baobab_tree.jpg"
+  },
+  {
+    "id": 8,
+    "common_name": "Maple Tree",
+    "scientific_name": "Acer saccharum",
+    "family": "Sapindaceae",
+    "lifespan": "200–300 years",
+    "native_to": "North America",
+    "height": "25–35 meters",
+    "trunk": "Straight trunk with grey bark",
+    "leaves": "Lobed leaves turning red/yellow in autumn",
+    "fruit": "Paired winged seeds",
+    "parts_uses": {
+      "Sap": "Maple syrup production",
+      "Wood": "Furniture and flooring"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "0–25°C",
+      "rainfall": "800–1500 mm",
+      "soil": "Well-drained loamy soil",
+      "sunlight": "Full sun to partial shade"
+    },
+    "major_countries": ["Canada", "USA"],
+    "importance": {
+      "nutrition": "Maple syrup source",
+      "economic": "Wood trade",
+      "cultural": "Symbol of Canada"
+    },
+    "fun_facts": ["Leaves change to brilliant colors in autumn", "Sap flow starts in late winter"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2q3VHDhiRZgBgKsu6XRitrLMh3Mmgfzh6Bg&s"
+  },
+  {
+    "id": 9,
+    "common_name": "Oak Tree",
+    "scientific_name": "Quercus robur",
+    "family": "Fagaceae",
+    "lifespan": "500+ years",
+    "native_to": "Europe, Western Asia",
+    "height": "20–40 meters",
+    "trunk": "Thick, sturdy trunk",
+    "leaves": "Lobed leaves",
+    "fruit": "Acorns",
+    "parts_uses": {
+      "Wood": "Barrels, furniture",
+      "Acorns": "Animal feed",
+      "Bark": "Tannins for leather"
+    },
+    "growing_conditions": {
+      "climate": "Temperate",
+      "temperature": "5-25°C",
+      "rainfall": "600-1200 mm",
+      "soil": "Clay loam, well-drained",
+      "sunlight": "Full sun"
+    },
+    "major_countries": ["UK", "France", "Germany"],
+    "importance": {
+      "nutrition": "Acorns for wildlife",
+      "economic": "Strong timber trade",
+      "cultural": "Symbol of strength"
+    },
+    "fun_facts": ["Can live for centuries", "Drop leaves in autumn"],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Quercus_robur_tree.jpg"
+  }
+]

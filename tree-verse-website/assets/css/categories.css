@@ -1,0 +1,198 @@
+/* 🌿 Main Container */
+:root {
+    --clr-background: #f7fdf6;
+    --clr-surface: #ffffff;  
+    --clr-primary-light: #e8f5e9;
+    --clr-primary-mid: #a5d6a7;  
+    --clr-primary-dark: #2e7d32; 
+    --clr-primary-deep: #1b4332; 
+    --clr-text-primary: #212529; 
+    --clr-text-secondary: #6c757d; 
+    --clr-shadow: rgba(0, 0, 0, 0.1);
+
+    /* Typography */
+    --font-primary: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+    /* Spacing & Borders */
+    --spacing-sm: 0.75rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.5rem;
+    --spacing-xl: 2rem;
+    --radius: 12px;
+    --shadow: 0 4px 12px var(--clr-shadow);
+}
+
+.main-body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xl);
+  padding: var(--spacing-lg);
+  padding-top: 130px; /* space for header */
+  max-width: 1400px;
+  margin: 0 auto;
+  transition: all 0.3s ease;
+}
+
+/* 🌿 Category Container */
+.Contain {
+  width: 100%;
+  margin: 0 auto;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.Contain:hover {
+  transform: translateY(-3px);
+  opacity: 0.98;
+}
+
+/* 🌿 Background Box (wraps category) */
+.background-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--spacing-lg);
+  padding: var(--spacing-lg);
+  background: linear-gradient(145deg, #ffffff, #f4fff4);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  transition: all 0.3s ease;
+}
+.background-box:hover {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+}
+
+/* 🌿 Heading Section */
+.Heading-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-md);
+  padding: var(--spacing-md);
+  background: linear-gradient(to right, #a5d6a7, #66bb6a);
+  color: white;
+  border-radius: var(--radius);
+  text-align: center;
+  transition: all 0.3s ease;
+}
+.Heading-box:hover {
+  transform: scale(1.02);
+  background: linear-gradient(to right, #66bb6a, #2e7d32);
+}
+.Heading-box h2 {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+/* 🌿 Category Cards */
+.box {
+  height: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-md);
+  padding: var(--spacing-lg);
+  background: #ffffff;
+  border-radius: var(--radius);
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+.box:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* 🌿 Logos */
+.Logo,
+.Logo5 {
+  height: 60px;
+  animation: fadeInDown 0.6s ease;
+}
+.Sub-Logo {
+  height: 70px;
+  width: 70px;
+  transition: transform 0.3s ease;
+}
+.box:hover .Sub-Logo {
+  transform: rotate(8deg) scale(1.1);
+}
+
+/* 🌿 Text inside card */
+.box h4 {
+  font-weight: normal;
+  color: var(--clr-text-secondary);
+  font-size: 0.95rem;
+}
+.box h4 strong {
+  font-weight: bold;
+  color: var(--clr-text-primary);
+}
+
+/* 🌿 Button */
+.button {
+  height: 42px;
+  padding: 0 var(--spacing-lg);
+  border-radius: 50px;
+  border: none;
+  background: linear-gradient(to right, #4caf50, #2e7d32);
+  color: white;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+}
+.button:hover {
+  background: linear-gradient(to right, #2e7d32, #1b4332);
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 6px 15px rgba(46, 125, 50, 0.5);
+}
+
+/* 🌿 Animations */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 🌐 Responsive Layouts */
+@media (min-width: 768px) {
+  .background-box {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    align-items: start;
+    gap: var(--spacing-lg);
+  }
+  .Heading-box {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 767px) {
+  .main-body {
+    padding: var(--spacing-md);
+    gap: var(--spacing-lg);
+  }
+  .Heading-box h2 {
+    font-size: 1rem;
+  }
+  .box {
+    padding: var(--spacing-md);
+  }
+  .button {
+    width: 50%;
+  }
+}
+
+
+/* Additional Styles for Smaller Screens */
+@media (max-width: 780px) {
+    .main-body{
+        padding-top: 200px;
+    }
+}
+
