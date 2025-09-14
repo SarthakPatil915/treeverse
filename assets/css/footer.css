@@ -62,6 +62,11 @@
     color: #cccccc;
     font-weight: bold;
 }
+.maplogo,.buy,.time,.phone{
+    height: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8rem;
+}
 .Copy-right{
     display: flex;
     align-items: center;
