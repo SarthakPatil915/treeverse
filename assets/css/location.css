@@ -1,0 +1,79 @@
+/* Card Style */
+.nursery-card {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  padding: 18px 22px;
+  max-width: 420px;
+
+  /* 👇 Align box to left side */
+  margin: 20px 0;     
+
+  font-family: "Segoe UI", Arial, sans-serif;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+
+  /* Animation */
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s ease-out forwards;
+
+  /* Keep text inside aligned left */
+  text-align: left;
+}
+
+
+/* Link Styling */
+.nursery-card a {
+  text-decoration: none;
+  color: #2c3e50;
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: color 0.3s ease;
+}
+
+.nursery-card a:hover {
+  color: #27ae60;  /* eco green hover */
+}
+
+/* Map Logo */
+.nursery-card .maplogo {
+  width: 30px;
+  height: 30px;
+  transition: transform 0.4s ease;
+}
+
+.nursery-card a:hover .maplogo {
+  transform: rotate(360deg) scale(1.1);  /* spin + zoom */
+}
+
+/* Text */
+.nursery-card p {
+  margin: 8px 0;
+  font-size: 15px;
+  color: #555;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.nursery-card strong {
+  color: #222;
+}
+
+/* Hover Bounce */
+.nursery-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+/* Keyframe Animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
