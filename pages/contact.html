@@ -62,6 +62,14 @@
                     </form>
                 </div>
 
+                 <!-- Overlay (hidden by default) -->
+                <div class="overlay" id="overlay" style="display: none;">
+                    <div class="spinner"></div>
+                    <p style="color:white; margin-top:10px;">Sending...</p>
+                </div>
+
+
+
                 <!-- Contact Info -->
                 <div class="contact-info">
                     <h3>Contact Information</h3>
@@ -158,11 +166,15 @@
 
     <!-- Google Sheets Script -->
     <script>
-        const scriptURL = "https://script.google.com/macros/s/AKfycbxDRbs3Kxi8xW7Jj9vEwk7uNwl0AdQuSJZfsUiBdsv1oaD-IzzWKk80vDrbuFPLaR-B/exec"; // paste your Google Apps Script URL here
+        const scriptURL = "https://script.google.com/macros/s/AKfycbxDRbs3Kxi8xW7Jj9vEwk7uNwl0AdQuSJZfsUiBdsv1oaD-IzzWKk80vDrbuFPLaR-B/exec";
         const form = document.querySelector(".contact-form form");
+        const overlay = document.getElementById("overlay");
 
         form.addEventListener("submit", e => {
             e.preventDefault();
+
+            // Show overlay
+            overlay.style.display = "flex";
 
             const data = {
                 name: form.name.value,
@@ -183,9 +195,14 @@
             .catch(error => {
                 console.error("Error!", error);
                 alert("Something went wrong ❌");
+            })
+            .finally(() => {
+                // Hide overlay
+                overlay.style.display = "none";
             });
         });
     </script>
+
 
 </body>
 </html>
