@@ -157,7 +157,7 @@
 
 @media (max-width: 780px) {
     .main-body {
-        padding-top: 220px;
+        padding-top: 240px;
     }
     .category {
         flex-direction: column !important;
